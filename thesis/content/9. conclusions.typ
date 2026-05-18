@@ -7,4 +7,4 @@ https://isijint.net/guide-to-authors/how-to-write
 
 = Conclusion
 
-#lorem(100)
+#lorem(200)
