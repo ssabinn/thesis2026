@@ -1,0 +1,241 @@
+# Hayagriva: https://github.com/typst/hayagriva/blob/main/docs/file-format.md
+
+bevet:
+  type: article
+  title: 'You can''t "nudge" nuggets: An investigation of college late-night dining with behavioral economics interventions'
+  author:
+    - Samuel Bevet
+    - Meredith T. Niles
+    - Lizzy Pope
+  date: 2018-05-31
+  serial-number:
+    doi: "10.1371/journal.pone.0198162"
+  parent:
+    type: periodical
+    title: "PLoS ONE"
+    volume: 13
+    issue: 5
+    publisher: Public Library of Science
+
+danso2025:
+  type: article
+  title: "Development and User Experiences of a Novel Virtual Reality Task for Poststroke Visuospatial Neglect: An Exploratory Case Study"
+  author:
+    - A. Danso
+    - P. Nijhuis
+    - A. Ansani
+    - M. Hartmann
+    - G. Minkkinen
+    - G. Luck
+    - J. S. Bamford
+    - S. Faber
+    - K. R. Agres
+    - S. Glasser
+    - T. Särkämö
+    - R. Rousi
+    - M. R. Thomson
+  date: 2025
+  url: "https://xr.jmir.org/2025/1/e72439"
+  parent:
+    type: periodical
+    title: "JMIR XR and Spatial Computing"
+
+dejaco2024:
+  type: article
+  title: "Experiences of physiotherapists considering virtual reality for shoulder rehabilitation: A focus group study"
+  author:
+    - B. Dejaco
+    - N. Brady
+    - A. Tankink
+    - J. Lewis
+    - H. Van Goor
+    - J. B. Staal
+    - N. Stolwijk
+  date: 2024
+  serial-number:
+    doi: "10.1177/20552076241234738"
+  parent:
+    type: periodical
+    title: "Digital Health"
+    volume: 10
+    page-range: "20552076241234738"
+
+elaklouk2025:
+  type: article
+  title: "Design Guidelines for a Game-Based Physical Rehabilitation System: Focus Group study"
+  author:
+    - A. M. S. Elaklouk
+    - R. Z. Ramli
+    - S. M. M. Alakklouk
+    - N. Rahim
+  date: 2025
+  serial-number:
+    doi: "10.2196/67336"
+  parent:
+    type: periodical
+    title: "JMIR Human Factors"
+    volume: 12
+    page-range: "e67336"
+
+faria2016:
+  type: article
+  title: "Benefits of virtual reality based cognitive rehabilitation through simulated activities of daily living: a randomized controlled trial with stroke patients"
+  author:
+    - A. L. Faria
+    - A. Andrade
+    - L. Soares
+    - S. B. I. Badia
+  date: 2016
+  serial-number:
+    doi: "10.1186/s12984-016-0204-z"
+  parent:
+    type: periodical
+    title: "Journal of NeuroEngineering and Rehabilitation"
+    volume: 13
+    issue: 1
+    page-range: "96"
+
+fordell2016:
+  type: article
+  title: "RehAtt – scanning training for neglect enhanced by multi-sensory stimulation in Virtual Reality"
+  author:
+    - H. Fordell
+    - K. Bodin
+    - A. Eklund
+    - J. Malm
+  date: 2016
+  serial-number:
+    doi: "10.1080/10749357.2016.1138670"
+  parent:
+    type: periodical
+    title: "Topics in Stroke Rehabilitation"
+    volume: 23
+    issue: 3
+    page-range: 191-199
+
+figueiredo2025:
+  type: article
+  title: "Personalized eXtended Reality experiences to enhance the rehabilitation process of stroke survivors: A scoping review"
+  author:
+    - I. Figueiredo
+    - B. Marques
+    - S. Oliveira
+    - B. Guerreiro
+    - S. Silva
+    - P. Amorim
+    - T. Araújo
+    - L. V. Costa
+    - C. Ferreira
+    - P. Dias
+    - B. S. Santos
+  date: 2025
+  serial-number:
+    doi: "10.1016/j.cag.2025.104411"
+  parent:
+    type: periodical
+    title: "Computers & Graphics"
+    volume: 133
+    page-range: "104411"
+
+
+
+houde1997:
+  type: chapter
+  title: "What do Prototypes Prototype?"
+  author:
+    - S. Houde
+    - C. Hill
+  date: 1997
+  url: "https://hci.stanford.edu/courses/cs247/2012/readings/WhatDoPrototypesPrototype.pdf"
+  parent:
+    type: book
+    title: "Handbook of Human-Computer Interaction (2nd Ed.)"
+
+jonsson2025:
+  type: article
+  title: "Participatory Research Through Design for Societal Change – A Case Study of Co-Designing a Prototype for Enhanced Cognitive Accessibility of an eHealth Service"
+  author:
+    - M. Jonsson
+    - C. Gustavsson
+    - J. Gulliksen
+    - S. Johansson
+  date: 2025
+  url: "https://www.tandfonline.com/doi/pdf/10.1080/10447318.2025.2601277"
+  parent:
+    type: periodical
+    title: "International Journal of Human-Computer Interaction"
+
+lewis2018:
+  type: article
+  title: "The system usability scale: past, present, and future"
+  author:
+    - J. R. Lewis
+  date: 2018
+  serial-number:
+    doi: "10.1080/10447318.2018.1455307"
+  parent:
+    type: periodical
+    title: "International Journal of Human-Computer Interaction"
+    volume: 34
+    issue: 7
+    page-range: 577-590
+
+myers2020:
+  type: book
+  title: "Qualitative research in business & management"
+  author:
+    - M. D. Myers
+  date: 2020
+  edition: 3
+  publisher: "SAGE Publications Ltd"
+
+rahin2025:
+  type: article
+  title: "A Review of XR-Based Rehabilitation: Bridging the Gap Between Technology and Therapy"
+  author:
+    - S. A. Rahin
+    - W. Li
+  date: 2025
+  serial-number:
+    doi: "10.1109/ismar-adjunct68609.2025.00083"
+  parent:
+    type: proceedings
+    title: "2025 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)"
+    page-range: 417-426
+
+shah2022:
+  type: article
+  title: "A social VR-based collaborative exergame for rehabilitation: codesign, development and user study"
+  author:
+    - S. H. H. Shah
+    - A. S. T. Karlsen
+    - M. Solberg
+    - I. A. Hameed
+  date: 2022
+  serial-number:
+    doi: "10.1007/s10055-022-00721-8"
+  publisher: Springer
+
+tadas2023:
+  type: article
+  title: "Using Patient-Generated Data to Support Cardiac Rehabilitation and the Transition to Self-Care"
+  author:
+    - S. Tadas
+    - J. Dickson
+    - D. Coyle
+  date: 2023
+  serial-number:
+    doi: "10.1145/3544548.3580822"
+  parent:
+    type: proceedings
+    title: "CHI ''23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems"
+    page-range: 1-16
+
+wiberg2014:
+  type: article
+  title: "What Makes a Prototype Novel? - A Knowledge Contribution Concern for Interaction Design Research"
+  author:
+    - M. Wiberg
+    - E. Stolterman
+  date: 2014
+  url: "https://dl.acm.org/doi/epdf/10.1145/2639189.2639487"

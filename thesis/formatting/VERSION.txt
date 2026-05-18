@@ -1,0 +1,12 @@
+pre1 - research proposal ready
+
+Fixed to last one:
+
+Known issues:
+- Title slide not 100% the exact
+- Missing todo libraries
+
+Marwah Comments:
+- Line heights seem off on titles, the gap is too small which makes everything look compact
+- Each section should start on its own page
+- 
