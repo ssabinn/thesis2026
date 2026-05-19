@@ -41,3 +41,46 @@ These new developments are often discussed using the notions of human-in-the-loo
 Many rehabilitation technologies already embody these implicit choices even when they are not described in the same terms. Exergame platforms with recommendation systems automatically select and plan personalizsed exercises based on performance histories, biofeedback and other data points, shifting agency from therapist to algorithms (use source from earlier here). Robotic rehabilitation systems such as ADAPT automatically adjust task presentaiton and difficulty based on performance metrics, with therapists primariliy as supervisor who define goals and boundaries (source ADAPT). Similary, XR exergames use biofeedback, emotion recognition, and real-time performance analytics to adjust games difficult while therapists interfaces are treated as secondary tools for configuring high-level therapy goals and evaluation. More-than-human perspectives make these design decisions vidible by exposing how exergame systems, algorithms, workflow, and even organizational constraints contribute in shaping who is "in", "on", or "out of" the loop in different phases of therapy rather than treating automation simply as a means for efficiency. 
 
 Classic LoA taxonomies present how functions are divided between human and machine. These framewokrs are tools to understand implications and challenges within each level of collaboration in a  socio-technical environment like clinical context (Ruscio, 2024 -- GALA Framework).  More recent frameworks like GALA framework, emphasise that humans are increasingly supervising semi-autonomous systems rather than directly manipulating every action, and LoA must be reasoned at the same level of cognitive interaction and tasks hand-off. In rehabilitation where different levels of autonomous systems are integrated, informations are processed and functional decisions-are made without the awareness of therapists. ( i need better argument for this)
+
+
+
+// Factor affecting Therapists
+https://www.tandfonline.com/doi/full/10.1080/09638288.2023.2172463
+Key factors guiding therapist decision making were clinical expertise, professional role, stroke survivors' clinical presentation, therapist perspectives about stroke recovery, and clinical guidelines
+
+
+// Trust in Artificial Intelligence–Based Clinical Decision Support Systems
+https://www.jmir.org/2025/1/e69678
+
+Artificial intelligence and clinical decision support: clinicians' perspectives on trust, trustworthiness, and liability 
+https://pubmed.ncbi.nlm.nih.gov/37218368/
+
+
+Human in the loop artificial intelligence in healthcare: applications, outcomes, and implementation challenges
+https://www.sciencedirect.com/science/article/pii/S1386505626001024
+
+
+Investigating the Influence of the Patient-Therapist Relationship on Adherence to Assistive Devices in Stroke Rehabilitation
+https://uottawa.scholarsportal.info/ottawa/index.php/RISS-IJHS/article/view/7171
+
+
+// About phase agency and parameter changes but for robott
+// Also talks about granularity and temporality as interface design issues
+Exploring Priority Parameters in Physiotherapist Decision Models for Tailoring Robot-Aided Rehabilitation
+https://link.springer.com/article/10.1007/s12369-025-01309-3
+
+//Patient-Therapists
+Physiotherapists' clinical reasoning is influenced by individual characteristics, knowledge, and patient perceptions, while contextual factors like economy and politics are more difficult to change.
+https://doi.org/10.1002/pri.1551
+
+Novice physical therapists rely more on informative factors for clinical decision making, while experienced physical therapists rely more on directive factors for decision making.
+
+// patient-relation ship important to adherence
+Therapists emphasized collaborative decision-making to enhance adherence, fostering trust and communication. Patients reported trusting their therapists, who played a major role in instilling confidence in AD use. 
+https://doi.org/10.18192/riss-ijhs.v11i1.7171
+
+
+Studies on clinical decision support show that therapists's sense of agency is strongly influenced by transapreny, usability, perceived reliability, legal repsonsilibility, and explicit mechanisms for taking back control (1). There is a need ro embed human onversigt and control in high-stakes clinical systems to balance automation efficineny with professional responsiblity (2)
+
+1. https://www.jmir.org/2025/1/e69678
+2.https://doi.org/10.1016/j.ijmedinf.2026.106362 << refer to this a lot

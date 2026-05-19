@@ -22,6 +22,7 @@
 #include "content/4. method.typ"
 #include "content/5. results.typ"
 #include "content/6. discussion.typ"
+#include "content/7. limitations.typ"
 #include "content/9. conclusions.typ"
 
 #pagebreak()
