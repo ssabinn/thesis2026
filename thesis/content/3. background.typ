@@ -1,3 +1,4 @@
+
 = Background
 This section presents relevant research and frameworks to establish an overview of research on therapist interfaces for rehabilitation through exergames. The chapter covers the following areas: (1) Exergames in Rehabilitation, (2) Therapist Interfaces for Exergame-Based Therapy, and (3) More-than-Human Design.
 
@@ -8,10 +9,12 @@ Exergames, a fusion of "exercise" and "video games", are video games that promot
 
 // talk about technologies used for rehabilitation
 // write abut all case studies and examples of VR, Kinect, Wii, Robotics other technologies used for rehabilitaiton 
-A wide range of technologies have been explored to implement exergames for rehabilitation. Non-immerisve systems based on Microsoft Kinect, Nintendo Wii, Robot-assisted serious games, or similar motion-sensing consoles are widely studied and have shown be be clinically provide effective rehabilitation compared to conventional therapy (source from lit inventory). Similarly, XR-based exergames, which are more immersive in nature, have been used for motor and coginitive rehabilitation after stroke and other neurological conditions, with studies reporting improvements in motor functions, spatial attention, and improved engagement compared to conventional exercises (@fordell2016 @faria2016 ). These studies demonstrate that exergames can be implemented and are being explored in varied technologies across different rehabilitation settings.
+A wide range of technologies have been explored to implement exergames for rehabilitation. Non-immersive systems based on Xbox Kinect, Nintendo Wii, Playstation, Robot-assisted serious games, or similar motion-sensing consoles are widely studied and have shown be be clinically provide effective rehabilitation compared to conventional therapy (Cheok et al., 2015;Santos et al., 2025,Doumas et al., 2025). Similarly, XR-based exergames, which are more immersive in nature, have been used for motor and cognitive rehabilitation after stroke and other neurological conditions, with studies reporting improvements in motor functions, spatial attention, and improved engagement compared to conventional exercises (@fordell2016 @faria2016 ). These studies demonstrate that exergames can be implemented and are being explored in varied technologies across different rehabilitation settings.
 
 // Precision Medicine and Personalization 
-Beside providing a gamified exercise and its effectiveness in clinical treatment, exergames can also viewed as interactive systems that generate performance data which can be used to monitor progress and support clinical-decision making. Exergames inherently generate fine-grained performance data (like reaction times, errors, speed) that can be used to adapt game logics in real-time or to monitor progress and support clinical decision-making process across sessions (Source: ML, Personailsed rehab). It aids how interfaces, algorithms and workflows can be designed to support personalized rehabilitation alongside providing gamified exercise experience (Mensah et al., 2025). Exergames thus have higher potential of accurately providing and utilizing data-centric monitoring during therapy sessions and create adaptable and fun experiences to fit individual needs allowing patients to participate in interactive and adaptive exercises @rahin2025. One way that has been done is through AI and Machine learning approaches as they have the ability to enable precision medicine by analyzing sensors, game data and performance data to recommend or automatically adjust therapy parameters such as task type, difficulty, movement or session length (Mensah et al,. 2025). However, treating personalization as a purely technical optimisation and user experience problem would be short-sighted without considering patient preferences, motivational factors and meaningful therapeutic goals.
+Beside providing a gamified exercise and its effectiveness in clinical treatment, exergames can also viewed as interactive systems that generate performance data which can be used to monitor progress and support clinical-decision making. Exergames inherently generate fine-grained performance data (like reaction times, errors, speed) that can be used to adapt game logics in real-time or to monitor progress and support clinical decision-making process across sessions (Ismail et al., 2021). It aids how interfaces, algorithms and workflows can be designed to support personalized rehabilitation alongside providing gamified exercise experience (Mensah et al., 2025). Exergames thus have higher potential of accurately providing and utilizing data-centric monitoring during therapy sessions and create adaptable and fun experiences to fit individual needs allowing patients to participate in interactive and adaptive exercises @rahin2025. One way that has been done is through AI and Machine learning approaches as they have the ability to enable precision medicine by analyzing sensors, game data and performance data to recommend or automatically adjust therapy parameters such as task type, difficulty, movement or session length (Mensah et al,. 2025). However, treating personalization as a purely technical optimisation and user experience problem would be short-sighted without considering patient preferences, motivational factors and meaningful therapeutic goals. 
+// talk about patient-therapist relationship // Fix this
+Subjective information like patient's physical and psychological state, patient motivation, patient feedback, and therapists' own work and life experience were among the factors that played crucial role, as well as prioritized, in clinical reasoning of physiotherapists besides just objective data (both motor and physiological). This clinical reasoning helped them set patient goals, decide of treatment plan and adjust rehabilitation sessions (Molle et al., 2025; Holdar et al., 2013). Additionally, highlighting the need to incorporate patient feedbacks in rehabilitation technology. It suggest therapists should be in the loop instead of adopting full automation (Molle et al., 2025). Novice physical therapists rely more on informative factors for clinical decision making, while experienced physical therapists rely more on directive factors for decision making(Holdar et al., 2013).
 
 == Therapist Interfaces for Exergame-Based Therapy
 Various therapist interfaces for personalized rehabilitation through Exergames have been developed, although they do not account for the entirety of the therapy process as they mainly focus on data documentation and/or session planning and task manipulation. One therapist interface for Village Druid VR, a therapy game used for rehabilitation was prototyped along through 2 co-design sessions with 2 therapists each. The lo-fi and hi-fi prototypes focused on patient data documentation for monitoring and progress evaluation as well as some simpler personalization session parameters which were not clearly defined (Ferreira et al., 2022). Similarly, Duval et al. (2022) redesigned an already existing conventional VR game, Spellcasters, through co-design sessions with 14 medical professionals (PT's & OT's). The re-purposed version of Spellcasters focused again solely on data documentation deemed valuable by the medical professionals, and task management through custom rehabilitative gestures to adjust relevant variables including scale, shape, direction and depth.
@@ -44,7 +47,7 @@ Classic LoA taxonomies present how functions are divided between human and machi
 
 
 
-// Factor affecting Therapists
+// [Not sure about this anymore] Factor affecting Therapists
 https://www.tandfonline.com/doi/full/10.1080/09638288.2023.2172463
 Key factors guiding therapist decision making were clinical expertise, professional role, stroke survivors' clinical presentation, therapist perspectives about stroke recovery, and clinical guidelines
 
@@ -56,31 +59,18 @@ Artificial intelligence and clinical decision support: clinicians' perspectives 
 https://pubmed.ncbi.nlm.nih.gov/37218368/
 
 
+// doesn't talk about rehabilitation
 Human in the loop artificial intelligence in healthcare: applications, outcomes, and implementation challenges
 https://www.sciencedirect.com/science/article/pii/S1386505626001024
 
 
-Investigating the Influence of the Patient-Therapist Relationship on Adherence to Assistive Devices in Stroke Rehabilitation
-https://uottawa.scholarsportal.info/ottawa/index.php/RISS-IJHS/article/view/7171
 
-
-// About phase agency and parameter changes but for robott
-// Also talks about granularity and temporality as interface design issues
-Exploring Priority Parameters in Physiotherapist Decision Models for Tailoring Robot-Aided Rehabilitation
-https://link.springer.com/article/10.1007/s12369-025-01309-3
-
-//Patient-Therapists
-Physiotherapists' clinical reasoning is influenced by individual characteristics, knowledge, and patient perceptions, while contextual factors like economy and politics are more difficult to change.
-https://doi.org/10.1002/pri.1551
-
-Novice physical therapists rely more on informative factors for clinical decision making, while experienced physical therapists rely more on directive factors for decision making.
 
 // patient-relation ship important to adherence
 Therapists emphasized collaborative decision-making to enhance adherence, fostering trust and communication. Patients reported trusting their therapists, who played a major role in instilling confidence in AD use. 
 https://doi.org/10.18192/riss-ijhs.v11i1.7171
 
-
-Studies on clinical decision support show that therapists's sense of agency is strongly influenced by transapreny, usability, perceived reliability, legal repsonsilibility, and explicit mechanisms for taking back control (1). There is a need ro embed human onversigt and control in high-stakes clinical systems to balance automation efficineny with professional responsiblity (2)
+Studies on clinical decision support show that therapist's sense of agency is strongly influenced by transparency, usability, perceived reliability, legal responsibility, and explicit mechanisms for taking back control (1). There is a need to embed human oversight and control in high-stakes clinical systems to balance automation efficiency with professional responsibility (2)
 
 1. https://www.jmir.org/2025/1/e69678
 2.https://doi.org/10.1016/j.ijmedinf.2026.106362 << refer to this a lot

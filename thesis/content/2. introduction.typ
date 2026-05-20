@@ -15,9 +15,7 @@ Within digitalized healthcare specifically, fostering a deep emotional connectio
 If the system's agency is designed correctly and accounts for the entirety of the therapeutic process, therapists can provide quality evidence-based precision medicine *(source)* that is personalized to each individual patient. This would mean tailored therapy experiences according to each patient's own lived abilities, preferences and progress at their own pace @figueiredo2025. To determine how agency should be shared between the therapist and the machine to enable better personalized therapy for patients this study has looked at the entirety of the therapeutic process through Exergames: (1) assessment & therapy planning, (2) session planning, (3) rehabilitation sessions through exergames, (4) after session assessment and analysis. These phases were based on the Occupational Therapy Intervention Process Model, the Rehab Cycle, SOAP, previous Exergame therapist interface research (Hinojosa et al., 2017, Fisher, 2009; Negrini, 2019; Physiopedia, 2026/u.å; Physiofirstt 2023) and the Contextual Inquiry with BrainStimulation (See figure 1b). To properly determine how agency should be shared between the therapist and machine/system throughout the entire therapy process, the following research questions are asked: 
 
 
-*RQ1:* What factors influence therapists' sense of agency in providing personalized rehabilitation through exergame-based therapy systems?
-
-How do therapists reason about their agency in relation to a human-AI system for exergame-based rehabilitation therapy?
+*RQ1:* How do therapists reason about their agency in relation to a human-AI system for exergame-based rehabilitation therapy?
 
 *RQ2:* How does this agency distribution vary across the main phases of therapy?
 

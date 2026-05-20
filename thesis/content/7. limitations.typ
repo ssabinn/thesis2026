@@ -1,3 +1,7 @@
+Since we have only looekd at 7 dimensions, we can only comment on those
+
+since the scenarios wrer preented one after the other. the biasness developed from one might transfer to another or early scnearios may not get the full thoughrtout anwswers
+
 
 == Study Limitations
 Despite the strengths of this study, several limitations regarding the design of the study as well as number of participants should be acknowledged. This study has applied only one case study (Brain Stimulation) on relevant therapist interfaces for rehabilitation through exergames. Not accounting for other existing systems might have created adaptations on the four therapy phases *(see figure X)* and design of the co-design session activity *(see figures X-Y) *, ultimately affecting the results and prototype of this study. Moreover, while the participants had extensive experience with an *average of X years*, they are still too few to make any definitive and broad conclusions on the required agency distribution between the therapist and the user for all four therapy phases. Additionally, the imbalance of 1 physiotherapist and 4 occupational therapists might have affected the understanding of the workflow and necessities for the agency distribution and needs for a system interface to provide better personalized rehabilitation.

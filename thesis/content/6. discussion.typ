@@ -2,17 +2,16 @@
 // the point of discssion is methodological dicsussion and change in co-design based on results. what was insights
 
 = Discussion
-
+// background info, research purposes, methodology
 #text(red)[Write Point of the study, RQ?]
 This section discusses the findings of the study in relation to the research questions (see Objectives) and previous research (see Background) of this study. The findings cover the following sections: (1) Key Findings, (2) Point 1, (3) Point 2, (4) Point 3, (5) Study Limitations, and (6) Future Research. 
 
 
 == Key Findings
 //consensus
+The accumulated results of this study's contextual inquiry and co-design sessions suggests a positive outlook on exergame-based rehabilitation and a cautious outlook on AI-supported digitalized rehabilitation,*while agreeing it was an inevitable future*. They agreed exergame-based rehabilitation enables more effective personalization and high exercise repetitions, while simultaneously appearing fun and motivating for the patients, and digitalized rehabilitation would enable precision rehabilitation. Subsequently, reducing time consumption and effort, a common and critical constraint within the rehabilitation field, was also considered as a major key benefit. Hence, all participants emphasized that under time pressure if the required effort would otherwise be too high, they would be willing to accept the AI system's therapy plan and all additional parameters even if imperfect, but with condition as long as patient safety was not compromised. This trade-off was however only considered if the additional time and effort put, would not provide significantly better outcomes for the patient. While viewing AI-supported rehabilitation as an inevitable future, they hoped it would provide higher accessibility through remote rehabilitation for patients that live far, can not visit often or can not afford.
 
-The accumulated results of this study's contextual inquiry and co-design sessions suggests a positive outlook on exergame-based rehabilitation and a cautious outlook on AI-supported digitalized rehabilitation,*while agreeing it was an inevitable future*. They agreed exergame-based rehabilitation enables more effective personalization and high exercise repetitions, while simultaneously appearing fun and motivating for the patients, and digitalized rehabilitation would enable precision rehabilitation. Subsequently, reducing time consumption and effort, a common and critical constraint within the rehabilitation field, was also considered as a major key benefit. Hence, all participants emphasized that under time pressure if the required effort would otherwise be too high, they would be willing to accept the AI system's therapy plan and all additional parameters even if imperfect, but with condition as long as patient safety was not compromised. This trade-off was however only considered if the additional time and effort put, would not provide significantly better outcomes for the patient. While viewing AI-supported rehabilitation as an inevitable future, they hoped it would provide higher accessibility through remote rehabilitation for patients that live far or can not visit often.
-
-In spite of the positive attitude towards AI-supported exergame-based rehabilitation, there were conditions to the shared therapist-system agency relating to *the sense of* autonomy and control. In particular, participants preferred shared agency in the form of system recommendations which required therapists to accept, adjust or reject (_S2_) and, a system which requires instructions/inputs by the therapists (_S3_) as they felt more in control. As opposed to the fully autonomous system (_S4_) which majority of participants were strongly opposed to, perceiving a strong threat towards their professional role and expertise - despite knowing they could override the system by accepting, adjusting or rejecting as well. Only two participants were comfortable with the autonomous system, elaborating they would not feel replaced, but rather allow them to focus the additional time and effort on patient goals instead. Irrespective of participants' individual concerns, they were overall only willing to let go of control if there was scarcity of time, which is a common feature in healthcare system, and level of trust in the system, something that can only be built over time and based on the results it consistently produced. *The emphasis on acquired control was *argued* to assure better adaptation to each patient as every patient and day is unique.* *Another concern was how overreliance on this type of system could potentially reduce clinical reasoning skills, especially for novice therapists.* // was this only for AI or for all scenarios?? 
+In spite of the positive attitude towards AI-supported exergame-based rehabilitation, there were conditions to the shared therapist-system agency relating to *the sense of* autonomy and control. In particular, participants preferred shared agency in the form of system recommendations which required therapists to accept, adjust or reject (_S2_) and, a system which requires instructions/inputs by the therapists (_S3_) as they felt more in control. As opposed to the fully autonomous system (_S4_) which majority of participants were strongly opposed to, perceiving a strong threat towards their professional role and expertise - despite knowing they could override the system by accepting, adjusting or rejecting as well. Only two participants were comfortable with the autonomous system, elaborating they would not feel replaced, but rather allow them to focus the additional time and effort on patient goals instead. Irrespective of participants' individual concerns, they were overall only willing to let go of control if there was scarcity of time, which is a common constraint in healthcare system, and level of trust in the system, something that can only be built over time and based on the results it consistently produced. *The emphasis on acquired control was *argued* to assure better adaptation to each patient as every patient and day is unique.* *Another concern was how overreliance on this type of system could potentially reduce clinical reasoning skills, especially for novice therapists.* // was this only for AI or for all scenarios?? 
 
 Although there was an overall obvious preference for a system with agency in reasoning (_S2_) and a system with agency in execution (_S3_), the system requirements varied across the *four main phases of therapy*. During therapy planning & goal-setting (_Phase 1_), participants generally preferred higher self-agency mainly through manual control without any system support (_S1_) or by providing instructions to the system (_S3_). During session planning (_Phase 2_) however, participants wanted less manual control, and more system with hybrid control structure where the system either *managed* agency in reasoning (_S2_) or agency in execution (_S3_). On the other hand, for the rehabilitation session (_Phase 3_), participants wanted to delegate the system more agency in reasoning (_S2_) along with some agency in execution (_S4_), intervening manually only when absolutely necessary. Finally, for the post-session evaluation (_Phase 4_), participants wanted the least amount of manual control (S1), mainly preferring agency in reasoning (_S2_), with some agency in execution (_S3_ & _S4_). Surprisingly, system with full human agency in reasoning in reasoning and execution (_S1_) was picked even less than full system agency in reasoning and execution (_S4_) despite the fearful thoughts of possible replacement by AI. //Mention the discrepancies were present between what they desired and what was designed.
 
@@ -28,10 +27,43 @@ Lastly, the participants' medium preference was less about the type of technolog
 
 == Agency Bullshit (RQ1)
 
+#text(20pt, purple)[*RQ1:* How do therapists reason about their agency in relation to a human-AI system for exergame-based rehabilitation therapy?]
+
+
 //a balanced design that combines simplicity, focus on important informations, preset prompts, and manual adjustments for more technical experienced users. 
 
+// Bullshits by Dumdumass:
 
-=== LAST POINT Agency: A necessity or fear? (RQ1)
+// making claims, explaining results, comparing the new work with the previous studies, offering alternative explanations 
+- elaborate why agency might be important to the therapists, threatened or a necessity? 
+
+- if there is less time/effort, theyre more willing to let go of control, refer to paper which says the sense of agency decreases with high mental workload and higher level of automation
+- prefer shared agency made them feel empowered with the ability because they are still in control accept/reject/adjust (+ saves time, effort,...), as apposed to fully autonomous system, having the ability to fully override the system did not affect their opinion in regards to that --> connect to how full human agency was picked even less than full system agency in reasoning and execution (_S4_) despite the fearful thoughts of possible replacement by AI. - comment on why some people felt comfortable with AI (saved time/effort = more time for patient goals) and why others disliked it a lot (dangerous thing)
+- having control was also argued helped adapt to patients, as they are unique and so is the day. 
+- they want less details as preset/standard, but want the ability to access additional infromation when needed or when wanted - relate to agency/control, even in less details they did not want paremeter-type information, but rather functional/diagnostical information that relates to the therapists language/mentalmodel/nature of work., more details was however especially important when there was a disagreement/uncertainty, for the cause of understanding or investigating the difference in opinion.
+- having too much detail in the form of that are non-diagnostical in nature increase frustration and was perceived to prohibit the therapeutical work process because it does not relate to their mental-model 
+-  As such, fully understanding that the system is accurately reasoning or executing the necessary *actions* correctly was perceived as crucial to assure that patients were receiving safe and qualitative rehabilitation. 
+- on the contrary, they wanted even more details when the system reasoned and acted fully autonomysly due to lack of trust, or wanted to understand reasoning behind systems actions - relate to XAI
+- when that agency is given to the system it creates an overreliance which might inadvertently affect their own clinical reasoning and decision-making skills - this could be destructive to novice therapists (source AI make you dumber)
+- participants believed that therapeutic alliance (TA) is important because they can create trust, adherence, and motivation, - comment that we believe this gives them a higher sense of agency in providing consistent and correct therapy - link to paper which suggest patient relationship important. can you instill that adherence through the system itself? - also connect to how looking and meeting the patient was much more important than looking at the data alone. 
+- HOWEVER, they were willing to let go of this agency if they could trust the system to perform the rehabilitation without compromising ethical or security measures, increase accessibility to rehabilitation either through remote rehabilitation for patients that live far, can not visit often or otherwise could not afford rehabilitation.
+- have entire therapeutic process in one system - comment on how fragmentation can slow down their ability to provide therapy, and increase learning curve since they have to learn several systems from various vendors, designed differently (do not have familiarity/patterns), this familiarity is however necessary to increase their sense of agency in being able to effectively use the technology
+- when designing technolgoy, they should be designed for portability (medium-agnostic argument)
+
+
+
+. explain all necessities, compare to previous research
+2. explain contradictions and refer to previous research 
+
+why agency might be important to them? if it is actually important for digitalised exdrgames-rehab. or is it because they don't want to be threatened by the system
+
+
+
+
+if we;re making  this point , refer also to papers related to AI-supported self-rehabilitation.
+
+-----------
+
 - is the need for human agency due to the feeling of substitution and lack of control, or because the system truly can not create successful rehabilitation without face-to-face human interaction between a therapist and a patient???
 - can therapist-patient relationship really not be substituted??
 - argue that people with less critical injuries who do not need to be overseen because of safety-reasons could use this type of technology being remote, might reduce the pressure on the rehabilitation centers --> more people get rehabilitation
@@ -52,7 +84,7 @@ Patient-Therapists Relationship is important for rehabilitation because it creat
   // From observation and interview : Realtime adjustment were done based on feedback
  
   
-== Agency distribution across phases (RQ2)
+=== Agency distribution across phases (RQ2)
 
 // the participants agreed on a hybrid pattern of control of pre-planning supported by live adjustments during the session with patient. 
 
@@ -63,12 +95,12 @@ Patient-Therapists Relationship is important for rehabilitation because it creat
 https://www.mdpi.com/2504-3900/31/1/10
 
 
+#text(20pt, purple)[*RQ2:* How does this agency distribution vary across the main phases of therapy?]
 
-
-== Design Implications (RQ2)
+=== Design Implications (RQ2)
 Because [finding], the design should [principle/action] so that [user benefit].‚Äù
 
-1. The design should support phase-specific agency distribution
+1. The design should support phase-specific agency distribution & include all main phases of therapy
 
 2. The design should implement hybrid control model where system recommends and executes but therapists are in-the-loop to accept, reject, adjust.. instead of fully autonomous workflow
 
@@ -80,6 +112,11 @@ Because [finding], the design should [principle/action] so that [user benefit].‚
 
 6. include patient-therapist interaction important somehow? reduce ui complexity so that more focus on patient, simple control mechanisms, design screen layout so that user doesn't have to search for them.
 
+7. how to design a system which therapists can rely on, without compromising their decision-making skills or clinical reasoning long-term?
+
+8. want XAI
+
+9. For medium-agnostic, it should be designed with portability in mind,.
 
 
 === Illustrative / Prototype Example (RQ2) 
