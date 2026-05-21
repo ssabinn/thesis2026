@@ -3,7 +3,7 @@
 
 #show: umu-informatics-master-thesis.with(
   title: "Agency of control",
-  subtitle: "Therapist-Facing Adaptive Control Systems for Rehabilitation through Exergames",
+  subtitle: "Agency Distribution Across Therapeutic Process in Exergame-based Rehabilitation",
   authors: (
     (first-name: "Sabin", last-names: "Bhandari"),
     (first-name: "Marwah", last-names: "Saleh"),
