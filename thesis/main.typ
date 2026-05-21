@@ -15,8 +15,6 @@
   program_name: "Human-Computer Interaction and UX",
 )
 
-#include "content/1. acronyms.typ"
-#pagebreak()
 #include "content/2. introduction.typ"
 #include "content/3. background.typ"
 #include "content/4. method.typ"
