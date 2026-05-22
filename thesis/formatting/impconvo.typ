@@ -29,3 +29,39 @@ how u dare
 
 ( I wish i was sleeping too)x 
 Halooooooodum dum. Good morning Sleeping beauty!
+
+
+
+// holy fu
+*stop disturbing me!!*
+ck ure not sleep
+
+
+ing? :C oki 
+fine you can disturb for a bit
+
+yay
+
+are u not sleepy? we can do this later together
+dont be sad, we can fix remaining soon, its little left :D its fiiiiiiiiiiine, fair enough, but will he even have time to read through it all by today? realistically? maybe not. maybe he is a fast reader? oki well dont stay up too late. but... if we do go to supervision.. do we sleep first, then work late? no way we can work immedietaly . depending on when the supervision it. but yes. I would (for today) like to work a bit so that we don't forget his feedbacks. okay, i guesswe can add comments (if he doesnt add it himself) but then we can just fix braindead work, like adding resources and fixing figures etc. yeapyeap. and adding references to typst.
+yesss  thats what i meant, fuck standardizing tho, we need more brain for that
+and then just chill or sleep
+
+i am dead. and sad. but mostly dead. and a littul angry (at myself).
+
+i know. i just wanted to make it good enough to read for pedro so that we get good feedbacks.
+
+Alsoooooo, why are you awake? and in computer? why u no sleep
+i tried to sleep for like 30mins ._. then i was like oki ill just go into typst and see if i can re-formulate discussion one last time xD
+
+*still shaking head*
+*shaking head faster* oki oki focus xd 
+you sohuld deifnitely rest. I need your brain more than mine. hahahahaha i need u to grow brain to help my brain 
+too late for that :D 
+XDDD just... grow a few braincells at least :D
+i can try to kill less braincells.
+
+good idea, now... i will leave u to focus and "try to sleep" again :D
+yes please
+oki baiiii xD
+baiiiiiiiii :D

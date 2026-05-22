@@ -132,6 +132,21 @@ The participants were then presented with four scenarios developed from the scen
 3. *Scenario 3 (Prompt System):* Therapists reason independently and then prompt the system to execute the decisions. 
 4. *Scenario 4 (Full System Agency):* The system autonomously handles the entire therapeutic process independently including processing data, reasoning and executing. Therapists are kept on the loop and are informed of the decisions and plans. Therapists, however, have the authority to override any system decision when needed. 
 
+#figure(
+  table(
+    columns: (auto, auto, auto ,auto),
+    align: (left, left, left, left),
+    
+    [Code], [Scenario Name], [Agency in Reasoning], [Agency in Execution],
+  
+    [*S1*], [Full Human Agency], [Human], [Human],
+    [*S2*], [Recommendation System], [System], [Human],
+    [*S3*], [Prompt System], [Human], [System],
+    [*S4*], [Full System Agency], [System], [System],
+  ),
+  caption: [Scenario Matrix], 
+) <table-scenarios>
+
 Appendix X displays each scenario in more detail. For each scenario that was presented, participants were asked about how it made them feel and how it could affect their role as therapists. The participants were then asked questions formulated from the probe dimensions one after the other. The questions were designed to fit the scenarios while maintaining the dimensionality aspect of it, hence, every scenarios didn't have the exact same questions. 
 
 #figure(
