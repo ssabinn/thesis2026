@@ -15,6 +15,8 @@
   program_name: "Human-Computer Interaction and UX",
 )
 
+//external collaboration 
+
 #include "content/2. introduction.typ"
 #include "content/3. background.typ"
 #include "content/4. method.typ"
