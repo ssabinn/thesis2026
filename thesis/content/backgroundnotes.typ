@@ -62,7 +62,7 @@ Level of Automation
 
 
 MARWAH TO DO LIST:
-1. read/adjust through background 
+1. read/adjust through background, DONE
 2. fix introduction - TOMORROW 
 3. write abstract - TOMORROW 
 4. write conclusion TOMORROW 

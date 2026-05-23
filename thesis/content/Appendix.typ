@@ -14,55 +14,55 @@ after the reference list. The same layout instructions should be applied to the 
 appendix. The only difference is that you must include a header like in the two appendices to
 this document. A maximum of 10 pages can be used for appendices.
 
-*Short account:*
-abstract - marwah
-introduction - marwah 
-2.0 background - marwah
-2.1 exergames & automation in rehabilitation - sabin
-2.2 more than human agency - sabin
-2.3 Therapist interfaces for exergame-based therapy (phases) marwah
-3.0 methodology - marwah
-3.1 case study - marwah
-3.2 research through design - sabin
-3.3 epistemology & research design - marwah
-3.4 data collection techniques - marwah
-3.4.1 contextual inquiry A - Interviews, marwah
-3.4.2 contextual inquiry B - Observation, marwah
-3.4.3 Speculative co-design sessions, marwah & sabin
-3.4.3.1 pilot study - sabin
-3.4.3.2 final co-design session - sabin
-3.5 participants - marwah
-3.6 qualitative data analysis - marwah
-3.7 ethical considerations - marwah
-4. results - marwah
-4.1 contextual inquiry - marwah
-4.1.1 phases of therapy - marwah
-4.1.2 current system and technology benefits & limitations - marwah
-4.1.3 ideal digitalized rehabilitation - sabin
-4.2 co-design session - marwah
-4.2.1 desired system - marwah & sabin
-4.2.2 conditional control - sabin
-4.2.3 the paradox in details - sabin
-4.2.4 digitalized rehabilitation still nexessitate human interaction - marwah
-4.2.5 digitalized rehabilitation is the future - sabin
-5.0 discussion - marwah & sabin
-5.1 key findings - marwah
-5.2 agency ? - marwah
-5.3 agency distribution across the main phases - sabin
-5.3.1 design implications - sabin & marwah
-5.4 study limitations - marwah
-5.5 future research - marwah
-6. statement for conflict of interest - marwah
-7. conclusion - marwah
+= Short account
+Abstract - Marwah
+Introduction - Marwah 
+2.0 Background - Marwah
+2.1 Exergames & Automation in Rehabilitation - Sabin
+2.2 More-than-human Agency - Sabin
+2.3 *Therapist Interfaces for Exergame-based Therapy (phases)* - Marwah
+3.0 Methodology - Marwah
+3.1 Case Study - Marwah
+3.2 Research through Design - Sabin
+3.3 Epistemology & Research Design - Marwah
+3.4 Data Collection Techniques - Marwah
+3.4.1 Contextual Inquiry A - Interviews, Marwah
+3.4.2 Contextual Inquiry B - Observation, Marwah
+3.4.3 Speculative Co-Design Sessions - Marwah & Sabin
+3.4.3.1 Pilot Study - Sabin
+3.4.3.2 Final Co-Design Session - Sabin
+3.5 Participants - Marwah
+3.6 Qualitative Data Analysis - Marwah
+3.7 Ethical Considerations - Marwah
+4. Results - Marwah
+4.1 Contextual Inquiry - Marwah
+4.1.1 Phases of Therapy - Marwah
+4.1.2 Current System and Technology Benefits & Limitations - Marwah
+4.1.3 Ideal Digitalized Rehabilitation - Sabin
+4.2 Co-Design Session - Marwah
+4.2.1 Desired System - Marwah & Sabin
+4.2.2 Conditional Control - Sabin
+4.2.3 The Paradox in Details - Sabin
+4.2.4 Digitalized Rehabilitation Still Necessitate Human Interaction - Marwah
+4.2.5 Digitalized Rehabilitation is the Future - Sabin
+5.0 Discussion - Marwah & Sabin
+5.1 Key Findings - Marwah
+5.2 *Agency ?* - Marwah
+5.3 *Agency Distribution across the Main Phases* - Sabin
+5.3.1 Design Implications - Sabin & Marwah
+5.4 Study Limitations - Marwah
+5.5 Future Research - Marwah
+6. Statement for Conflict of Interest - Marwah
+7. Conclusion - Marwah
 
-typst & github configuration - sabin
-table of contents - sabin
-Tables - sabin
-Figures - mostly sabin
-Reference list - sabin mostly
-Appendices - sabin
+Typst & Github configuration for thesis writing - Sabin
+Table of Contents - Sabin
+Tables - Sabin
+Figures - Sabin mostly 
+Reference list - Sabin mostly
+Appendices - Sabin
 
-Both students have together went through all sectiosn of the study and re-structured and re-formulated when necessary. 
+Both students have together went through all sections of the study and re-structured, re-formulated and added additional elaborations when necessary. 
 
 
 
