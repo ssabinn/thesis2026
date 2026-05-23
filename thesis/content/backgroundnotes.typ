@@ -63,7 +63,7 @@ Level of Automation
 
 MARWAH TO DO LIST:
 1. read/adjust through background, DONE
-2. fix introduction - TOMORROW 
-3. write abstract - TOMORROW 
-4. write conclusion TOMORROW 
-5. add sources to discussion - TOMORROW IF TIME
+2. fix introduction - TOMORROW bcuz im too braindead atm
+3. write abstract - TOMORROW bcuz im too braindead atm
+4. write conclusion TOMORROW bcuz im too braindead atm
+5. add sources to discussion - TOMORROW IF TIME bcuz im too braindead atm

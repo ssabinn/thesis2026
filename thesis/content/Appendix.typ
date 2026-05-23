@@ -66,8 +66,6 @@ Both students have together went through all sections of the study and re-struct
 
 
 
-
-
 how do i remove the numbers?
 
 == Appendix A : Interview Questions (Product Manager)
