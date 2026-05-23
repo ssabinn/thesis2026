@@ -26,7 +26,7 @@ Lastly, the participants' medium preference was less about the type of technolog
 == Agency (?) (RQ1)
 //#text(15pt, purple)[*RQ1:* How do therapists reason about their agency in relation to a human-AI system for exergame-based rehabilitation therapy?]
 
-Automation of various work processes is increasingly transforming modern workplaces, with many functions now being carried out either partially or fully by automated systems *(insert _trust me bro_ sources)*. As such, the design of shared agency between human and computational system becomes essential, especially within rehabilitation where agency is critical to support therapists work without undermining or substituting the autonomy and expertise. In this study, we contribute to this area of work by interpreting (1) how therapists reason about their agency in relation to AI-supported exergame-based rehabilitation system, and (2) how the shared agency should be designed throughout the four main phases of therapy. 
+ As such, the design of shared agency between human and computational system becomes essential, especially within rehabilitation where agency is critical to support therapists work without undermining or substituting the autonomy and expertise. In this study, we contribute to this area of work by interpreting (1) how therapists reason about their agency in relation to AI-supported exergame-based rehabilitation system, and (2) how the shared agency should be designed throughout the four main phases of therapy. 
 
 Overall, the sense of agency in a AI-supported exergame-based rehabilitation system was an indispensable element for the participants as it supports them in delivering adaptive and effective therapy to their patients. The underlying reasons to this perception was however mixed and highly dependent on time and effort extorted by the therapist. On the one hand, participants were willing to let go of control to the system due to the workload demands and limited time resources within their rehabilitation field. On the other hand, majority of participants expressed feelings of threat, mainly by being undermined or possibly substituted by the AI if the work process were to be fully automated - even if they could intervene and override when necessary. Simultaneously, the fully automated system (_S4_) was still picked more than the system with full human agency (_S1_) despite participants wanting to remain in control. These results aligns with *(source)* that also found the the sense of agency decreases with both high mental workload and higher level of automation. Hence, the reasonable outcome of our results indicating the need for shared agency through hybrid control where the system can assist in either reasoning or execution, rather than being fully replaced. This aligns well with the study done with AI-based clinical decision support systems (CDSS) where clinicians preferred systems that supports them, rather than replacing their key role of clinical decision-making (Jones et al., 2023).
 
@@ -37,7 +37,6 @@ Another factor which affected the therapists sense of agency related to their ab
 Interestingly, the type of information was also equally important to the participants in building or dismantling trust in any of the automated systems. A common language in the form of functional and diagnostical information, rather than numerical or technical information would signify a higher shared understanding between the therapist and the system. We therefore believe that creating a system with common language could contribute to building reliability and trust while decreasing frustration due to the shared mental-model, which in turn allows both the human and the system to understand each others reasonings, instructions and actions. In the absence of a common language and clean information hierarchy, participants reported risks for disrupted workflow resulting in frustration and possibly affected rehabilitation sessions.
  
 Conversely, while wanting to depend on the system, participants revealed that any degree of automated system could result in an overreliance which might inadvertently affect their own clinical reasoning, decision-making skills and actions (Gerlich, 2025). The harshest and most destructive consequences of this overreliance was according to our participants for the novice therapists who are still in the process of learning the therapeutical processes, reasoning and decision-making skills. This is because novice therapists rely more on informative and objective factors for clinical decision-making compared to more experienced therapists (Holdar et al., 2013). Perhaps this could be counteracted by avoiding delegation of clinical reasoning and decision-making for novice therapists, until they feel confident in their clinical skills. This can be done by... Turnn off AI, get hints if needed, to lessen degree of help by the AI.
-
 
 
   
@@ -73,8 +72,6 @@ Finally, these findings suggest that exergame-based rehabilitaiton system agency
 // explain that if one does it correctly, our participants would be willing to trust the system to perform the rehabilitation if it does not compromise ethical or safety measures. necessity for building a system that does not compromise ethical or safety measures
 
 
-
-
 === Design Implications 
 Because [finding], the design should [principle/action] so that [user benefit].‚Äù
 
@@ -86,7 +83,7 @@ Because [finding], the design should [principle/action] so that [user benefit].‚
 
 4. The design should include a common language in the form of functional/diagnostical information between the system and the therapist.
 
-4. Optimize flow for minimal time and effort.. and maybe reduce stress on therapists. especially duirng and before sessions
+4. Optimize flow for minimal time and effort.. and maybe reduce stress on therapists. especially during and before sessions
 
 5. design to build trust toward ssytem over time?
 

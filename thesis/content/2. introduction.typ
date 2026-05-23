@@ -1,7 +1,11 @@
-= Introduction
-Over the decades, studies have proven how Exergames for rehabilitation is more effective than traditional therapy due to higher sense of engagement and motivation (@shah2022, ..add more sources from background). Every patient’s condition is however unique as is their recovery journey and goals, so the frequently used "one-size-fits-all" rehabilitation programs would be insufficient in effectively treating the patients (Figueiredo et al., 2025). *Personalized and individual care is therefore crucial to meaningfully address a patient's specific rehabilitation needs.* // discuss how agency distribution (human-system) is an important factor to provide personalized/individual care throughout the entire therapeutic process
+// *Standardization notes*
+//phases of therapy or phases of rehabilitation
+// exergame-based rehabilitation or exergame-based therapy 
 
-The findings suggest therapists require sufficient control and information to provide individualised therapy, but the interface must not impose excessive cognitive load or disrupt the flow of a session while meaningfully keeping them “in the loop” during sessions (Ferreira et al., 2022).  
+= Introduction
+Over the decades, studies have shown how Exergames for rehabilitation is more effective than traditional therapy due to higher sense of engagement and motivation (@shah2022, ..add more sources from background). Every patient’s condition is however unique as is their recovery journey and goals, so the frequently used "one-size-fits-all" rehabilitation programs would be insufficient in effectively treating the patients (Figueiredo et al., 2025). *Personalized and individual care is therefore crucial to meaningfully address a patient's specific rehabilitation needs.* // discuss how agency distribution (human-system) is an important factor to provide personalized/individual care throughout the entire therapeutic process
+
+The findings suggest therapists require sufficient control and information to provide individualized therapy, but the interface must not impose excessive cognitive load or disrupt the flow of a session while meaningfully keeping them “in the loop” during sessions (Ferreira et al., 2022).  
 
 It validates therapists are not passive users of the rehabilitation technology but active decision-makers whose expertise and workflow must be elaborately reflected in system design.
 
@@ -17,15 +21,10 @@ If the system's agency is designed correctly and accounts for the entirety of th
 
 *RQ1:* How do therapists reason about their agency in relation to a human-AI system for exergame-based rehabilitation therapy?
 
-*RQ2:* How does this agency distribution vary across the main phases of therapy?
+*RQ2:* How do therapists' preferences for agency distribution between themselves and a system (AI) vary across the main phases of exergame-based rehabilitation therapy (e.g., planning, etc)
 
 
-
-
-// Idea Dump
-
-How do therapists envision exergame‑based rehabilitation systems supporting their clinical agency, including conditional control, level of detail, and patient relationships, across different therapy phases?
-
+More-than-human perspectives make these design decisions visible by exposing how exergame systems, algorithms, workflow, and even organizational constraints contribute in shaping who is "in", "on", or "out of" the loop in different phases of therapy rather than treating automation simply as a means for efficiency. Additionally, these studies are still approached from anthropocentric perspective and fail to consider the inevitable future in which the networked computational components are continuously informed by algorithmic logic without human oversight. We need to ultimately be open to conversation about possible future instead of a single inevitable future. 
 
 
 
@@ -33,7 +32,5 @@ How do therapists envision exergame‑based rehabilitation systems supporting th
 //How do therapists reason about their role in relation to intelligent technology across different phases of the rehabilitation workflow?
 
 // How do therapists negotiate their sense of agency with exergame-based rehabilitation systems across the course of therapy?
-
-
 
 //This study examines how decision-making and decision-enacting agency should be balanced and distributed between therapists and systems across different phases of therapy when using exergames. It explore what a therapist-facing control system designed for such agency should or could look like to enable therapists to continually provide quality precision care for their patient.

@@ -23,7 +23,11 @@
 #include "content/7. limitations.typ"
 #include "content/9. conclusions.typ"
 
+
 #pagebreak()
 
 // #include "formatting/appendix.typ"
 #bibliography("references.yaml", style: "harvard-cite-them-right")
+
+//#pagebreak()
+//#include "content/Appendix.typ"

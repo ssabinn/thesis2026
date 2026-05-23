@@ -68,7 +68,7 @@ The figure also displays how many times each scenario was picked in total, where
   _"That [scenario 3] sounds like a lot of work. No, I got tired just of the idea that, Oh my God, no, it's too. That's too much." *- P5*_
 
 #figure(
-  image("../images/results_systemdesign.png"),
+  image("../images/barchart.png"),
   caption: [Results of ......]
 ) <systemdesign>
 

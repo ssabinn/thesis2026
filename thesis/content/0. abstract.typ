@@ -8,3 +8,7 @@ This this thesis investigates therapist-facing adaptive control systems for XR e
 - method
 - aim
 - conclusion
+
+for method:
+//participatory design
+//speculative design

@@ -1,6 +1,25 @@
 
-// Add scenarios from first pilot study
+= Appendices
+how do i remove the numbers?
 
+== Appendix A : Interview Questions (Product Manager)
+
+== Appendix B : Interview Questions (Product Owner / Neurologist)
+
+== Appendix C : Interview Questions (Occupational Therapists)
+
+== Appendix D : Observation (?)
+
+Add interview questions // Ask Pedro
+Persona
+Detailed Scenarios from co-design << 4 pictures
+// Should we mention scenarios images were created using AI ?
+Participants table to move to appendix (maybe?) // Ask Pedro
+
+===
+
+
+/// Delete Later ////
 
 // P1 - P5
 *Inquiry*

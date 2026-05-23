@@ -65,3 +65,23 @@ good idea, now... i will leave u to focus and "try to sleep" again :D
 yes please
 oki baiiii xD
 baiiiiiiiii :D
+
+
+I eat and i shop and I come sounds good
+i have brought STROWBERRIES
+i brink chikin OOOO we shouuld marinate before working
+yes doesn't need to be for long but yes. yes
+do you have onions, cucumber, kashmiri chili, i have yellow onion
+kashmiri chilli?? the stuff u rbought?
+brogu no no . That is Timmur. i get guess we use red chiili poweder 
+I bring timmur
+i have 2 timmur still :D wait how? we never finished them all :Dwhat do you mean you have timmur?okay i asked u, if kashmiri chilli was the one u brought me 
+which we put in that indian sallad right
+u said no it is called timmur
+im saying, then i have 2 timmur left :D
+no no 
+I am very confused but  xDDDD im confused now too but ig bring the chillis just in case? idk or we just use spice ? okay :D
+yesss 
+but coriander is frozen :D yes. oki i focus now 
+you have lime and coriander? I guess it is fine. Okies. cool cool
+ht then the obvipouis answer is no, i have everythign but that chillii sitll have 2 from timmur tho
