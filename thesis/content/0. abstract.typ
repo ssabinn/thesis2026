@@ -1,14 +1,8 @@
 #let abstract-content = [
-This this thesis investigates therapist-facing adaptive control systems for XR exergames used in post-stroke rehabilitation of visuospatial neglect (VSN). We study how the design of controls in XR exergames can enable therapists to monitor patients and adjust therapy parameters in real or non-real time.
+Exergames and automation for rehabilitation have shown to be effective for providing personalized therapy to patients with various conditions. However, therapists' sense of agency in relation to AI-supported computational systems for exergame-based rehabilitation remains largely under-explored, especially across all four main phases of therapy. This study investigates therapists sense of agency through a participatory Research through Design (RtD) approach by employing two main methods: (1) a contextual inquiry conducted through a case study (Brain Stimulation) *in the form of/including* interviews and observation, and (2) individual participatory speculative co-design sessions. Eight participants, with an average of *X years* were involved in the study: five participated in the contextual inquiry and five in the co-design session. The results indicate that under certain conditions, therapists' maintain a sense of agency in AI supported computational systems for exergame-based, provided that their responsibility and care over their patient is not threatened. Although, these conditions change across the four main phases of therapy. Future research should *involve/conduct... *
 ]
 
-- mention collab with brainstimulation
-- mention we only focus on physiotherapy and occupational therapy because thats the target group of BS
-- results
-- method
-- aim
-- conclusion
-
+//Ask pedro: do we actually add research questions in abstract???
 
 Your thesis should start with an abstract. The abstract should be approximately 150 words
 long, written in Georgia 11 points, italics. It must include the overall focus, basis for research,

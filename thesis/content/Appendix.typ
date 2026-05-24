@@ -49,20 +49,20 @@ Introduction - Marwah
 5.1 Key Findings - Marwah
 5.2 *Agency ?* - Marwah
 5.3 *Agency Distribution across the Main Phases* - Sabin
-5.3.1 Design Implications - Sabin & Marwah
-5.4 Study Limitations - Marwah
-5.5 Future Research - Marwah
+5.4 Design Implications - Sabin
+5.5 Study Limitations - Marwah
+5.6 Future Research - Marwah
 6. Statement for Conflict of Interest - Marwah
 7. Conclusion - Marwah
 
 Typst & Github configuration for thesis writing - Sabin
 Table of Contents - Sabin
 Tables - Sabin
-Figures - Sabin mostly 
-Reference list - Sabin mostly
+Figures - Sabin
+Reference list - Sabin
 Appendices - Sabin
 
-Both students have together went through all sections of the study and re-structured, re-formulated and added additional elaborations when necessary. 
+Both students have also, together, went through all study sections and re-structured, re-formulated, standardized and added additional elaborations or connections to background literature.
 
 
 

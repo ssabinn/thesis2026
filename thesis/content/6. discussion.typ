@@ -72,7 +72,7 @@ Finally, these findings suggest that exergame-based rehabilitaiton system agency
 // explain that if one does it correctly, our participants would be willing to trust the system to perform the rehabilitation if it does not compromise ethical or safety measures. necessity for building a system that does not compromise ethical or safety measures
 
 
-=== Design Implications 
+== Design Implications 
 Because [finding], the design should [principle/action] so that [user benefit].‚Äù
 
 1. The design should support phase-specific agency distribution across all main phases of therapy.
@@ -85,7 +85,7 @@ Because [finding], the design should [principle/action] so that [user benefit].‚
 
 4. Optimize flow for minimal time and effort.. and maybe reduce stress on therapists. especially during and before sessions
 
-5. design to build trust toward ssytem over time?
+5. design to build trust toward system over time?
 
 6. include patient-therapist interaction important somehow? reduce ui complexity so that more focus on patient, simple control mechanisms, design screen layout so that user doesn't have to search for them.
 
