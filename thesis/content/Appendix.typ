@@ -1,11 +1,55 @@
 
 = Appendices
+
+== Contextual Inquiry
+
+=== Interview Question (Founder / MD)
+
+
+=== Interview Questions (Product Owner)
+
+
+=== Interview Questions (Occuptational Therapists)
+
+
+== Speculative Co-design Sessions
+
+=== Persona
+#figure(
+  image("../images/persona.png"),
+  caption: [Persona]
+)<persona>
+
+=== Scenarios
+The images for the scenarios were created using Gemini Nano Banana 2. 
+
+#figure(
+  image("../images/scenario_1.png"),
+  caption: [Scenario 1: Full Human Agency]
+)<scenario1>
+
+#figure(
+  image("../images/scenario_2.png"),
+  caption: [Scenario 2: Recommendation System]
+)<scenario2>
+
+#figure(
+  image("../images/scenario_3.png"),
+  caption: [Scenario 3: Prompt System]
+)<scenario3>
+
+#figure(
+  image("../images/scenario_4.png"),
+  caption: [Scenario 4: Full System Agency]
+)<scenario4>
+
 // Delete after
 Note that as an appendix to the essay, if a thesis is written in a pair, there must also be a short account - at most one page - of each student's contribution to the thesis project. There is a template available in Canvas showing how this should be written. The reason why this appendix should be included with the report is that students' performance should be able to be assessed individually also in connection with group (or pair) work. Note that each student must contribute to all assessment criteria for the thesis project, but within each criterion you can of course divide work. A single author does not need such a description. As the thesis has a page limit you might want to consider placing some images and tables (that are not crucial for understanding your argumentation) in an appendix (as this is excluded from the page count). All appendices should be numbered and placed at the end of the thesis, after the reference list. The same layout instructions should be applied to the text in the appendix. The only difference is that you must include a header like in the two appendices to this document. A maximum of 10 pages can be used for appendices.
 
-= Short account
+== Short account
 Abstract - Marwah
-Introduction - Marwah 
+1.0 Introduction - Marwah 
+1.1 Objectives - Marwah
 2.0 Background - Marwah
 2.1 Exergames & Automation in Rehabilitation - Sabin
 2.2 More-than-human Agency - Sabin
@@ -36,7 +80,7 @@ Introduction - Marwah
 4.2.5 Digitalized Rehabilitation is the Future - Sabin
 5.0 Discussion - Marwah & Sabin
 5.1 Key Findings - Marwah
-5.2 *Agency ?* - Marwah 
+5.2 *Agency ?* - Marwah & Sabin
 5.3 *Agency Distribution across the Main Phases* - Sabin
 5.4 Design Implications - Sabin
 5.5 Study Limitations - Marwah
@@ -51,7 +95,7 @@ Figures - Sabin
 Reference list - Sabin
 Appendices - Sabin
 
-Both students have also, together, went through all study sections and re-structured, re-formulated, standardized and added additional elaborations or connections to background literature.
+Both students have also, together, went through all study sections and elaborated, re-structured, re-formulated, standardized and added additional connections to background literature.
 
 
 

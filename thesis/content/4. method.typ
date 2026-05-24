@@ -94,10 +94,7 @@ Before proceeding to the co-design sessions, we did a pilot study. The pilot stu
 
 The pilot study was informed by case study, literature, contextual inquiries with rehabilitation system product owners and their therapist users. We conducted the pilot study with one participant, in alignment with the full co-design session. A persona was created to ground the pilot co-design session in a realistic clinical session and provide a context where participants could refer to. This persona was used for the duration of the session (See @persona). 
 
-#figure(
-  image("../images/persona.png"),
-  caption: [Persona]
-)<persona>
+
 
 //should this be before pilot session
 The four main phases of rehabilitation were validated from relevant research and contextual inquiry (See Section 5.1.1): (1) Therapy Planning & Goal Setting, (2) Session Planning, (3) Rehabilitation Session, and (4) Post-Session Evaluation. These four phases were defined as standard, after being validated with the participant, when discussing scenarios for the duration of the pilot session. Similarly, fine-grained settings and exergame parameters were grouped by type and categorized by phases and then presented to the participant to validate (See @controls). The participant was then presented with *seven futuristic and provocative rehabilitation system* (See Appendix X) to probe the therapists' boundaries, and the requirements for settings and exergame parameters in different phases of rehabilitation for each of the scenarios. To further probe the scenarios, questions were designed to address at least three dimensions based on findings from contextual inquiry (see Results): (1) Temporality; pre-configuration or real-time adjustments of settings and exergame parameters, (2) Granularity; how fine-grained the settings, parameters and information available to the therapists should be, and (3) Interaction cost; time and effort required to perform any action. 
@@ -162,7 +159,7 @@ Appendix X displays each scenario in more detail. For each scenario that was pre
 Once all the scenarios were presented and probed, with the full knowledge of all possible scenarios, the participants were asked to design their ideal therapeutic system by distributing the scenarios across the four different phases (See @designsystem). The participants were allowed to place multiple scenarios in a phases as well as use multiple instances of the scenarios in multiple phases. Lastly, the participants were asked on what they thought the future of therapeutic system would be. 
 
 #figure(
-  image("../images/phases2.png"),
+  image("../images/phases.png"),
   caption: [(a) 3 Levels of Interaction, (b) Four Phases in exergames therapy control]
 ) <phases>
 #text(red)[ explain about scenarios ]

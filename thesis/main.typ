@@ -28,8 +28,9 @@
 
 #pagebreak()
 
-// #include "formatting/appendix.typ"
+//#include "formatting/appendix.typ"
 #bibliography("references.yaml", style: "harvard-cite-them-right")
 
-//#pagebreak()
-//#include "content/Appendix.typ"
+#pagebreak()
+
+#include "content/Appendix.typ"
