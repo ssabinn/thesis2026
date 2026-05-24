@@ -25,8 +25,9 @@ Lastly, the participants' medium preference was less about the type of technolog
 
 == Agency (?) (RQ1)
 //#text(15pt, purple)[*RQ1:* How do therapists reason about their agency in relation to a human-AI system for exergame-based rehabilitation therapy?]
+automation of various work processes is increasingly transforming modern workplaces in rehabilitation, with many functions now being carried out either partially or fully by automated systems (Vidal et al., 2025; Yu et al, 2026).
 
- As such, the design of shared agency between human and computational system becomes essential, especially within rehabilitation where agency is critical to support therapists work without undermining or substituting the autonomy and expertise. In this study, we contribute to this area of work by interpreting (1) how therapists reason about their agency in relation to AI-supported exergame-based rehabilitation system, and (2) how the shared agency should be designed throughout the four main phases of therapy. 
+With the increase in automation of process in rehabilitation, the design of shared agency between human and computational system becomes essential, especially within rehabilitation where agency is critical to support therapists work without undermining or substituting the autonomy and expertise. In this study, we contribute to this area of work by interpreting (1) how therapists reason about their agency in relation to AI-supported exergame-based rehabilitation system, and (2) how the shared agency should be designed throughout the four main phases of therapy. 
 
 Overall, the sense of agency in a AI-supported exergame-based rehabilitation system was an indispensable element for the participants as it supports them in delivering adaptive and effective therapy to their patients. The underlying reasons to this perception was however mixed and highly dependent on time and effort extorted by the therapist. On the one hand, participants were willing to let go of control to the system due to the workload demands and limited time resources within their rehabilitation field. On the other hand, majority of participants expressed feelings of threat, mainly by being undermined or possibly substituted by the AI if the work process were to be fully automated - even if they could intervene and override when necessary. Simultaneously, the fully automated system (_S4_) was still picked more than the system with full human agency (_S1_) despite participants wanting to remain in control. These results aligns with *(source)* that also found the the sense of agency decreases with both high mental workload and higher level of automation. Hence, the reasonable outcome of our results indicating the need for shared agency through hybrid control where the system can assist in either reasoning or execution, rather than being fully replaced. This aligns well with the study done with AI-based clinical decision support systems (CDSS) where clinicians preferred systems that supports them, rather than replacing their key role of clinical decision-making (Jones et al., 2023).
 
@@ -123,4 +124,5 @@ The prototype is of a mid-fi nature with the purpose of exemplifying and visuali
 
 
 
-
+*IMPORTANT TO DO:*
+//  reflect on how the results can contribute to the field of research. The reflection is characterized by an in-depth understanding of the results as well as related research

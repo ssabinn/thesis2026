@@ -58,7 +58,7 @@ When asked about interface, the participants wanted more simpler settings and ex
 == Co-Design Sessions
 The co-design sessions were conducted one-on-one with 4 occupational therapists and 1 physiotherapist. The co-design sessions resulted in five main themes: (1) Desired System, (2) Conditional Control (3) The Paradox in Details, (4) Digitalized Rehabilitation Still Necessitate Human Interaction, and (5) Digitalized Rehabilitation is the Future.
 
-=== Desired System (Change title)
+=== Desired Agency in Phases
 All participants *(P4-P8)* were tasked with designing their own system throughout all phases of therapy (see @designsystem) by assigning the scenarios (see @codesign) to each of the four phases: *(1) Therapy Planning & Goal-Setting, (2) Session planning, (3) Rehabilitation Session, and (4) Evaluation Session* (see @phases). The scenarios were: (1) a system with full human agency of the therapeutic process without system support, (2) a system that provides recommendations, (3) a system which requires instructions/inputs by the therapists, and (4) a system with full automation with therapists-on-the-loop. Each participant was informed to use one or more scenario cards as they see fit for each phase. The participants were also informed that they could use the same scenario card for all phases if they desired. 
 
 @systemdesign displays how the participants distributed each of the scenarios among the four phases during the designing of the desired system (See @designsystem). During _the therapy planning & goal-setting phase_, the participants preferred Scenario 1 (Full Human Agency) and Scenario 3 (Prompt System), both of which provided full autonomy and control of decision-making to the therapists without assistance from the system. For _session planning_, therapists preferred assistance from system either for recommendations and clinical reasoning or for execution of the decisions, preferring Scenario 2 (Recommendation System) and Scenario 3 (Prompt System). The results indicate therapists would prefer to automate the actual rehabilitation sessions either partially or fully with Scenario 2 (Recommendation System) and Scenario 4 (Full System Agency) being the most preferred. Similarly, the therapists seem to prefer partial or fully automated system to evaluate and reflect after the session is completed with results indicating preference for Scenario 2 (Recommendation System), Scenario 3 (Prompt System) and Scenario 4 (Full System Agency). 
@@ -137,7 +137,7 @@ When the system performed reasoning autonomously (Scenario 2, Scenario 4), parti
 Overall, participants did not want less information but more curated information. High degree of detail felt like a burden when required as input or displayed by default, but was however preferred when it was required for justification, served as a means for reflection or surfaced something the participants might have missed. 
 
 
-=== Digitalized Rehabilitation Still Necessitate Human Interaction
+=== Human-Human Interaction
 Another main theme that repeatedly arose throughout the entirety of the co-design session and across all above themes was the importance of a good patient-therapist relationship. All co-design participants *(P4-P8)* asserted that despite the benefits of digitalized rehabilitation through exergames, it still does not cover all the necessities for a successful rehabilitation. The two most significant necessities for successful rehabilitation which technology alone can not cover for are, (1) accounting for the remaining hours of a patient's day, and (2) making the patient feel seen, heard and understood throughout the rehabilitation process. 
 
 _"Rehabilitation process is not always linear that goes from progress to progress. So the contradiction is not unexpected. Because you're going to have dips." *- P5*_
@@ -156,7 +156,7 @@ All of the above mentioned reasoning were persistently connected to how essentia
 
 There were however some contextual situations where the participants *(P4-P8)* could consider not seeing the patient at all. Those were only if (1) the system was ethical and secure for remote use and if the patient would agree to being recorded for the purpose of observation and feedback, (2) whether or not the patient is in need of frequent feedback, further emphasizing the importance of not losing the human interaction in rehabilitation and (3) trust that the system would provide effective rehabilitation.
 
-=== Digitalized Rehabilitation is the Future
+=== Digitalized Future
 
 The participants were uncertain whether the type of medium for digitalized rehabilitation would affect the workflow in their therapeutic process, all participants agreed digitalized rehabilitation is the future. One participant *(P4)* with 25 years of experience as an OT illuminated the change in attitude towards digital therapy: 
 
