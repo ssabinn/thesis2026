@@ -3,9 +3,7 @@
 
 = Discussion
 // background info, research purposes, methodology
-#text(red)[Write Point of the study, RQ?]
-This section discusses the findings of the study in relation to the research questions (see Objectives) and previous research (see Background) of this study. The findings cover the following sections: (1) Key Findings, (2) Point 1, (3) Point 2, (4) Point 3, (5) Study Limitations, and (6) Future Research. 
-
+This study examined how therapists reason about their agency in relation to a human-AI system and how this agency was negotiated across the main phases of exergame-based rehabilitation therapy. To investigate this, the study combined contextual inquiries, including an observation, with speculative co-design sessions and a pilot study with clinical physiotherapists, clinical occupational therapists, and informants from Brain Stimulation, the company developing an XR-based rehabilitation platform. The discussion is organized into few parts. First, the key findings are presented and interpreted. Second, these findings are related to existing literatures to address the research questions. Third, design implications are presented with recommendations for the design of AI-supported exergame-based rehabilitation systems. Finally, the study's limitations and future designs are discussed. Overall, this discussion aims to provide insights not only to design to rehabilitation system, but also to the understanding of how agency between human and AI can be configured throughout the rehabilitation process.
 
 == Key Findings
 //consensus
@@ -24,10 +22,8 @@ Lastly, the participants' medium preference was less about the type of technolog
 //temporality ?
 
 == Agency (?) (RQ1)
-//#text(15pt, purple)[*RQ1:* How do therapists reason about their agency in relation to a human-AI system for exergame-based rehabilitation therapy?]
-automation of various work processes is increasingly transforming modern workplaces in rehabilitation, with many functions now being carried out either partially or fully by automated systems (Vidal et al., 2025; Yu et al, 2026).
 
-With the increase in automation of process in rehabilitation, the design of shared agency between human and computational system becomes essential, especially within rehabilitation where agency is critical to support therapists work without undermining or substituting the autonomy and expertise. In this study, we contribute to this area of work by interpreting (1) how therapists reason about their agency in relation to AI-supported exergame-based rehabilitation system, and (2) how the shared agency should be designed throughout the four main phases of therapy. 
+//With the increase in automation of process in rehabilitation, the design of shared agency between human and computational system becomes essential, especially within rehabilitation where agency is critical to support therapists work without undermining or substituting the autonomy and expertise. In this study, we contribute to this area of work by interpreting (1) how therapists reason about their agency in relation to AI-supported exergame-based rehabilitation system, and (2) how the shared agency should be designed throughout the four main phases of therapy. 
 
 Overall, the sense of agency in a AI-supported exergame-based rehabilitation system was an indispensable element for the participants as it supports them in delivering adaptive and effective therapy to their patients. The underlying reasons to this perception was however mixed and highly dependent on time and effort extorted by the therapist. On the one hand, participants were willing to let go of control to the system due to the workload demands and limited time resources within their rehabilitation field. On the other hand, majority of participants expressed feelings of threat, mainly by being undermined or possibly substituted by the AI if the work process were to be fully automated - even if they could intervene and override when necessary. Simultaneously, the fully automated system (_S4_) was still picked more than the system with full human agency (_S1_) despite participants wanting to remain in control. These results aligns with *(source)* that also found the the sense of agency decreases with both high mental workload and higher level of automation. Hence, the reasonable outcome of our results indicating the need for shared agency through hybrid control where the system can assist in either reasoning or execution, rather than being fully replaced. This aligns well with the study done with AI-based clinical decision support systems (CDSS) where clinicians preferred systems that supports them, rather than replacing their key role of clinical decision-making (Jones et al., 2023).
 
@@ -101,31 +97,13 @@ Because [finding], the design should [principle/action] so that [user benefit].�
 11. Option to turn off automation if required, especially for novice therapists. 
 
 
-=== Illustrative / Prototype Example (RQ2) 
-The prototype is of a mid-fi nature with the purpose of exemplifying and visualizing the results of this study. Figma and vibecoding through Claude was used to create the prototype with the basis of the design implications under 5.3 Design Implications.  
-
-- Clearly define what it is we actually built
-- what aspects/dimensions of our framework does it demonstrate/test?
-- Limitations of prototype
-- We should have a step by step prototype design process images (e.g. wireframes, design system, final design) to proove we actually did it 
-
-// The finished prototype(s) were then evaluated through an evaluative survey interview through the System Usability Scale (SUS) combined with a thinking aloud method with Brain Stimulation's PM, MD Founder and few of their end-user therapists. The purpose of conducting an evaluation was to understand the potential affordances and constraints of the new explorative control interface system has in tailoring rehabilitation @lewis2018.
-
-// ask pedro  which lvl of detail should we go and how do we showcase the results and guidelines in the interface without context (Anna, OT rehab/PT rehab/ Stroke rehab/ .. )
-
-
-  // _"I think particularly in the healthcare system, like time constraint is probably one of our biggest things that stop us from kind of delivering like better therapy" *- P8*_
-  
-  //_"I would like to have 1000 lvl’s because we know that 15 hours is the magical amount of time that you need to do to make something better. So being limited to 30-40 levels is not good." *- P4*_
-
-  - Include figures *only* and explain what was designed and how it relates to the results. 
-  - Also mention that they were based on above design implications
 
 
 
 
-*IMPORTANT TO DO:*
+
+
+
+
+*IMPORTANT TO DO BEFORE SUBMISSION:*
 //  reflect on how the results can contribute to the field of research. The reflection is characterized by an in-depth understanding of the results as well as related research
-
-
-

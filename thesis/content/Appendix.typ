@@ -1,18 +1,7 @@
 
 = Appendices
-Note that as an appendix to the essay, if a thesis is written in a pair, there must also be a short
-account - at most one page - of each student's contribution to the thesis project. There is a
-template available in Canvas showing how this should be written. The reason why this
-appendix should be included with the report is that students' performance should be able to
-be assessed individually also in connection with group (or pair) work. Note that each student
-must contribute to all assessment criteria for the thesis project, but within each criterion you
-can of course divide work. A single author does not need such a description.
-As the thesis has a page limit you might want to consider placing some images and tables
-(that are not crucial for understanding your argumentation) in an appendix (as this is excluded
-from the page count). All appendices should be numbered and placed at the end of the thesis,
-after the reference list. The same layout instructions should be applied to the text in the
-appendix. The only difference is that you must include a header like in the two appendices to
-this document. A maximum of 10 pages can be used for appendices.
+// Delete after
+Note that as an appendix to the essay, if a thesis is written in a pair, there must also be a short account - at most one page - of each student's contribution to the thesis project. There is a template available in Canvas showing how this should be written. The reason why this appendix should be included with the report is that students' performance should be able to be assessed individually also in connection with group (or pair) work. Note that each student must contribute to all assessment criteria for the thesis project, but within each criterion you can of course divide work. A single author does not need such a description. As the thesis has a page limit you might want to consider placing some images and tables (that are not crucial for understanding your argumentation) in an appendix (as this is excluded from the page count). All appendices should be numbered and placed at the end of the thesis, after the reference list. The same layout instructions should be applied to the text in the appendix. The only difference is that you must include a header like in the two appendices to this document. A maximum of 10 pages can be used for appendices.
 
 = Short account
 Abstract - Marwah
@@ -47,7 +36,7 @@ Introduction - Marwah
 4.2.5 Digitalized Rehabilitation is the Future - Sabin
 5.0 Discussion - Marwah & Sabin
 5.1 Key Findings - Marwah
-5.2 *Agency ?* - Marwah
+5.2 *Agency ?* - Marwah 
 5.3 *Agency Distribution across the Main Phases* - Sabin
 5.4 Design Implications - Sabin
 5.5 Study Limitations - Marwah
@@ -75,7 +64,7 @@ how do i remove the numbers?
 == Appendix C : Interview Questions (Occupational Therapists)
 
 == Appendix D : Observation (?)
-
+  
 Add interview questions // Ask Pedro
 Persona
 Detailed Scenarios from co-design << 4 pictures
