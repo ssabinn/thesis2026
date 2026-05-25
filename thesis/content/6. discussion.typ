@@ -20,6 +20,7 @@ Additionally, while AI-supported exergame-based system was advocated for, partic
 Lastly, the participants' medium preference was less about the type of technology and more about the existing learning curve, accuracy and quality of data, as well as portability to support their day to day workflow which requires them to frequently switch rooms. Therapists took notes on paper and not any particular technology. Later transcribed to technology. The medium preference was for something they are familiar with to reduce learning curve, and reduce the stress resulting from technical issues. Instead, more emphasis was put into how they preferred a single system that looked at the entire therapeutic process, rather than the existing fragmented ecosystem which separates phases into different systems. Such as journaling, therapeutic assessment and rehabilitation systems.
 
 //temporality ?
+Despite the level of automation that enabled real-time adaptive rehabilitation sessions,the therapists still preferred to pre-configure the session while also maintaining the ability of adjust in real-time.  
 
 == How therapists reason about their agency in Human-AI Rehabilitation System (RQ1)
 
@@ -29,6 +30,9 @@ Overall, the sense of agency in a AI-supported exergame-based rehabilitation sys
 
 Remaining in control and not being fully substituted by the system was also argued to be vital in fostering a good and trusting patient-relationship. This was said to boost adherence, trust and motivation to actually perform rehabilitation consistently as the "Therapeutic Alliance" (TA) is a necessity for rehabilitation (Kayes & McPherson, 2012). Furthermore, our results are also consistent on how therapists take subjective data into account more than the objective data (Molle et al., 2025). This is given the impact that patient preferences, feedback, physical and psychological states among other factors affect clinical reasoning, goal-setting and therapy plan (Molle et al., 2025; Holdar et al., 2013). This explains why our participants repeatedly picked meeting the patient over additional objective data provided by the system. It also explains why they perceive the interaction between themselves and the patient to be vital for successful rehabilitation.
 
+*Within digitalized healthcare specifically, fostering a deep emotional connection is also more difficult when compared to in-person consultations and can never be fully replicated making it another implication when designing a digital system for healthcare (Powel, 2025).*
+
+
 Another factor which affected the therapists sense of agency related to their ability to, on demand, access additional and more detailed information on the reasoning behind the systems recommendations and actions. This requirement was largely driven by skepticism regarding the systems reliability to actually provide correct recommendations and actions, which was especially the case when the system was fully automated. Moreover, if disagreements or uncertainties occurred, participants were adamant in needing more detailed information to investigate and understand the difference in opinion. We therefore believe the participants seek a system which decreases the "black box" nature of AI-supported systems. This can be done through Explainable AI (XAI), a method which proposes to improve transparency, trust, reliability and interpretability *(Arrieta et al., 2019)*. However, we want to point out that XAI can also affect the mental model of the user, and potentially even increase noise in decision-making (Bauer et al., 2023).
  
 Interestingly, the type of information was also equally important to the participants in building or dismantling trust in any of the automated systems. A common language in the form of functional and diagnostical information, rather than numerical or technical information would signify a higher shared understanding between the therapist and the system. We therefore believe that creating a system with common language could contribute to building reliability and trust while decreasing frustration due to the shared mental-model, which in turn allows both the human and the system to understand each others reasonings, instructions and actions. In the absence of a common language and clean information hierarchy, participants reported risks for disrupted workflow resulting in frustration and possibly affected rehabilitation sessions.
@@ -37,11 +41,9 @@ Conversely, while wanting to depend on the system, participants revealed that an
   
 == Agency distribution across the main phases (RQ2)
 
-//#text(20pt, purple)[*RQ2:* How does this agency distribution vary across the main phases of therapy?]
-
 When it comes to agency distribution across the main phases of therapy, the findings suggest that therapists do not have a single, stable preference for control in a *Human-AI system*. Instead, their preference varied on in which therapy phase they are in. This aligns with the theory of co-performance, and helps reconceptualize therapists and AI system as co-performers whose roles and responsibilities shift as the rehabilitation process evolves rather than being a fixed configuration (Kuijer & Giaccardi, 2018). In our case, the therapists and AI system continuously renegotiate what is acceptable and appropriate at each phases. 
 
-In the first phase, where understanding the patient motivation, deciding on long-term patient goals, and planning treatment are important, the therapists favored full human agency in reasoning specifically (_S1,S3_). This can be interpreted as therapists' need to reconcile the subjective information from the patient, like patient motivation and life context, which are difficult to externalize into data. This phases also corelates how therapists see as their primary role and central to their professional identity. As the reasoning becomes distributed or even led by AI-system, the nature of "expert" becomes less clear and could be perceived as threatening as destabilizes the therapists' professional identity (Frauenberger, 2019). Our findings extend this argument into exergame-based rehabilitation showing therapist explicitly resist giving the role of early-stage decision-maker. 
+In the first phase, where understanding the patient motivation, deciding on long-term patient goals, and planning treatment are important, the therapists favored full human agency in reasoning specifically (_S1,S3_). This can be interpreted as therapists' need to reconcile the subjective information from the patient, like patient motivation and life context, which are difficult to externalize into data. This phase also corelates how therapists see as their primary role and central to their professional identity. As the reasoning becomes distributed or even led by AI-system, the nature of "expert" becomes less clear and could be perceived as threatening as it destabilizes the therapists' professional identity (Frauenberger, 2019). Our findings extend this argument into exergame-based rehabilitation showing therapist explicitly resist giving the role of early-stage decision-maker. //write how this also contradicts more-than-human design who asks to keep the human out of the center
 
 When planning the session, therapists' preference shifted to increasingly accepting, and even preferring, system-led reasoning and/or execution (_S2, S3_), as long as they retain the ability to intervene. Participants framed session planning as repetitive and time-consuming, especially in a time-constraint situation. The system support is seen as valuable for selecting and sequencing exercises consistent with the main therapy goals. This aligns with co-performance theory where AI system gradually take over repetitive and low-level tasks, while therapists still retain the capacity to define goals and constraint, intervene when deemed appropriate and provide final judgement.
 //This however aligns with their preference for less detail and only focus on higher level therapeutic decisions. 
@@ -50,12 +52,9 @@ For rehabilitation sessions itself, participants were most willing to delegate a
 
 However, in the post evaluation (_Phase 4_), they wanted the least amount of manual control, strongly favouring system-led reasoning (_S2_), with some agency in execution (_S3,S4_). This could indicate the participants felt the system could efficiently reconciling data across tasks and sessions, and analysing trends and progress than them doing it manually. The lesser degree of preference in delegating execution shows that they still prefer to interpret the results themselves and decide if plans needs to be adjusted. Studies on AI-supported clinical decision support systems (CDSS) shows clinicians trust the system to handle administrative and analysis tasks but prefer to retain the control for interpretation and final decision.
 
-Across all four main phases, the observed pattern is not a simple increase in automation, but a dynamic hybrid arrangement in which agency is situational to demands and purpose of each phase. Early phases emphasize human agency to preserve therapeutic alliance (TA), ethical and professional responsibility, and personalised care. *Regular* phases for rehabilitation sessions emphasize shared agency to manage workload and repetition, while the later emphasized system agency in analysis while maintaining human interpretation and judgement. How agency is distributed is inseparable from the phase arguing that agency must be understood at the level of evolving situation rather than a static task allocation (co-performance). 
+Across all four main phases, the observed pattern is not a simple increase in automation, but a dynamic hybrid arrangement in which agency is situational to demands and purpose of each phase. Early phases emphasize human agency to preserve therapeutic alliance (TA), ethical and professional responsibility, and personalized care. *Regular* phases for rehabilitation sessions emphasize shared agency to manage workload and repetition, while the later emphasized system agency in analysis while maintaining human interpretation and judgement. How agency is distributed is inseparable from the phase arguing that agency must be understood at the level of evolving situation rather than a static task allocation (Kuijer & Giaccardi, 2018). 
  
-Altogether, therapists phase-dependant preferences highlights discrepancies between what therapists desired and how current exergame-based rehabilitation systems are structured. Existing exergame systems tend to focus on automation and detailed parameter control within the rehabilitation session, while focusing less for phases like collaborative planning and goal-setting, and evaluation (Figueiredo et al., 2025; Ferreira et al., 2022). Moreover, these systems are further fragmented across assessment, rehabilitation, and documentation, which increases learning costs and therapists' sense of familiarity. The lack of familiarity, as mentioned by participants, also decreases the sense of agency and increased unnecessary stress. In contrast, our studies shows therapists would like to have a single system that encapsulated the entire therapeutic process from assessment to evaluation. 
-
-(RQ2) 
-Finally, these findings suggest that exergame-based rehabilitaiton system agency distribution should be designed to be adaptable, phase-sensitive with hybrid agency distribution across the phases rather than having automation as a constant across all phases. 
+Altogether, therapists phase-dependant preferences highlights discrepancies between what therapists desired and how current exergame-based rehabilitation systems are structured. Existing exergame systems tend to focus on automation and detailed parameter control within the rehabilitation session, while focusing less for phases like collaborative planning and goal-setting, and evaluation (Figueiredo et al., 2025; Ferreira et al., 2022). Moreover, these systems are further fragmented across assessment, rehabilitation, and documentation, which increases learning costs and therapists' sense of familiarity. The lack of familiarity, as mentioned by participants, also decreases the sense of agency and increased unnecessary stress. In contrast, our studies shows therapists would like to have a single system that encapsulated the entire therapeutic process from assessment to evaluation. Finally, these findings suggest that exergame-based rehabilitaiton system agency distribution should be designed to be adaptable, phase-sensitive with hybrid agency distribution across the phases rather than having automation as a constant across all phases. 
 
 //when designing technology, they should be designed for portability (medium-agnostic argument)
 
@@ -64,54 +63,49 @@ Finally, these findings suggest that exergame-based rehabilitaiton system agency
  *Perhaps the role of therapists still could remain as important despite full automation by transforming the current workflow going from decision-making to AI reviewers to serve the role as a controller and ...of therapy planning and X for assuring higher accessibility .*
 
 
- // conclude with more-than-human design
- - argue that people with less critical injuries who do not need to be overseen because of safety-reasons could use this type of technology being remote, might reduce the pressure on the rehabilitation centers --> more people get rehabilitation
-// If the system includes X, Y and Z, one could potentially increase therapists ability to feel in control while increasing accessibility to rehabilitation through remote rehabilitation for patients that live far, can not visit often or otherwise could not afford rehabilitation.
-
-// explain that if one does it correctly, our participants would be willing to trust the system to perform the rehabilitation if it does not compromise ethical or safety measures. necessity for building a system that does not compromise ethical or safety measures
-
-
+ 
 == Design Implications 
-Because [finding], the design should [principle/action] so that [user benefit].”
+The design implications for the study can be presented as implications for agency, and implications for ux and information design.
 
-1. The design should support phase-specific agency distribution across all main phases of therapy.
-*agency and control*
-Because the therapists' sense of agency and preferred level vary across therapy phases, the design should support phase-specific agency distribution across all main phases of therapy. The automation should be increased for repetitive and low-level tasks and reduced where human judgement and patient relationship building are critical.
+//Because [finding], the design should [principle/action] so that [user benefit].” 
 
-2. The design should implement hybrid control model where system recommends and executes but therapists are in-the-loop to accept, reject, adjust instead of fully autonomous workflow.
-*agency and control*
-Because the therapists preffered shared con
+=== Agency and Control
 
-3. The design should prioritize low-detail interfaces with access to additional detail on demand.  (for both input like instructions and output like recommendations, feedback and data). 
-*UX and information design*
+1. Because the therapists' sense of agency and preferred level vary across therapy phases, the design should support phase-specific agency distribution across all main phases of therapy. The automation should be increased for repetitive and low-level tasks and reduced where human judgement and patient relationship building are critical.
 
-4. The design should include a common language in the form of functional/diagnostical information between the system and the therapist.
-*UX and information design*
-
-
-4. Optimize flow for minimal time and effort.. and maybe reduce stress on therapists. especially during and before sessions
-*UX and information design*
-
-
-5. design to build trust toward system over time?
-
-6. include patient-therapist interaction important somehow? reduce ui complexity so that more focus on patient, simple control mechanisms, design screen layout so that user doesn't have to search for them.
-*UX and information design*
+2. Because the therapists preferred shared agency where the system recommends and executes but they remain responsible for decisions, the design should implement a hyrbid control model in which the systems recommends and executes while therapists are in-the-loop to accept, reject, adjust so that they maintain the sense of agency without feeling replaced. 
 
 7. how to design a system which therapists can rely on, without compromising their decision-making skills or clinical reasoning long-term?
-*Agency and control*
-
-8. want XAI
-*UX and information design*
-
-9. For medium-agnostic, it should be designed with portability in mind,.
-*UX and information design*
+Since the researches ans well as our studies have shown that overreliance
 
 10. Future prospects: the role of therapists still could remain as important despite full automation by transforming the current workflow going from decision-making to AI reviewers to serve the role as a controller and ...of therapy planning and X created by the system for assuring higher accessibility .
 
 
+*UX and information design*
+
+3. The design should prioritize low-detail interfaces with access to additional detail on demand.  (for both input like instructions and output like recommendations, feedback and data). 
+
+
+4. The design should include a common language in the form of functional/diagnostical information between the system and the therapist.
+
+
+4. Optimize flow for minimal time and effort.. and maybe reduce stress on therapists. especially during and before sessions
+
+
+6. include patient-therapist interaction important somehow? reduce ui complexity so that more focus on patient, simple control mechanisms, design screen layout so that user doesn't have to search for them.
+
+8. want XAI, and how 
+
+
+9. For medium-agnostic, it should be designed with portability in mind,.
+
 11. Option to turn off automation if required, especially for novice therapists. 
-*UI and information design*
+
+*no category*
+
+5. design to build trust toward system over time?
+
+
 
 
 

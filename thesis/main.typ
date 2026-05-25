@@ -9,7 +9,7 @@
     (first-name: "Marwah", last-names: "Saleh"),
   ),
   abstract: abstract-content,
-  keywords: ("More-Than-Human Design", "Therapist Interface", "Adaptive Systems", "Exergames", "Rehabilitation"),
+  keywords: ("More-Than-Human Design", "Agency", "Therapist Interface", "Adaptive Systems", "Exergames", "Rehabilitation"),
   thesis_number: "2026.XX",
   thesis_type: "Master thesis, 30 hp",
   program_name: "Human-Computer Interaction and UX",

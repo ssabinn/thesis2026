@@ -1,3 +1,10 @@
+maybe add :
+
+Drawing on the post-phenomenological argument that humans and technologies constitute each other in the act of experiencing the world, he provocatively states ‘Designing technology is designing human beings’. As an example for the agency of technology in this mediation with the world, he brings up social media and how it has brought about new ‘types and dimensions of social relations’ and thereby contribute to ‘shape human existence’.
+-- relate this to "therapists" as reviewer, how the 
+
+
+
 
 ////////////////////////////////////////
 

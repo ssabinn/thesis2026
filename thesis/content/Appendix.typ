@@ -48,8 +48,7 @@ Note that as an appendix to the essay, if a thesis is written in a pair, there m
 
 == Short account
 Abstract - Marwah
-1.0 Introduction - Marwah 
-1.1 Objectives - Marwah
+1.0 Introduction - Marwah & Sabin
 2.0 Background - Marwah
 2.1 Exergames & Automation in Rehabilitation - Sabin
 2.2 More-than-human Agency - Sabin

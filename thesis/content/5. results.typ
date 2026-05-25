@@ -3,16 +3,11 @@ This chapter presents the results of this study's two main data collection techn
 
 
 // if something that was not expected or explicitly explored, bring it up as an unexpected and important finding 
-
 // like time consumtpion and effort was used to "design" the dimension - Interaction Cost // add a line or two about time consumption/
-
 // if any results from inquiry was not used in co-design, but the issue comes up in again.. mention that in discussion. If it doesn't say it wasn't considerd or important for the design.
-
 // For writing results... Write abstract.. then concrete with quotes.. 
-
 // re-name scenarios, re-name phases across entire study, fix figure number references throughout study, 
 
-use the results in co-design //??????
 
 == Contextual Inquiry
 The contextual inquiry was conducted in collaboration with Brain Stimulation and was used to inform the needs and design decisions of this study's co-design sessions. The contextual inquiry resulted in three main themes: (1) Phases of Therapy, (2) Current System and Technology Benefits & Limitations, and (3) Ideal Digitalized Rehabilitation.

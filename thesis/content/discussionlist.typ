@@ -28,3 +28,12 @@ List:
 
 //Toward Precision Rehabilitation for Neurological Diseases: Data-Driven Approach to Exergame Personalization (check for cost & remote therapy)
 //https://www.mdpi.com/2504-3900/31/1/10
+
+
+
+
+ // conclude with more-than-human design
+ - argue that people with less critical injuries who do not need to be overseen because of safety-reasons could use this type of technology being remote, might reduce the pressure on the rehabilitation centers --> more people get rehabilitation
+// If the system includes X, Y and Z, one could potentially increase therapists ability to feel in control while increasing accessibility to rehabilitation through remote rehabilitation for patients that live far, can not visit often or otherwise could not afford rehabilitation.
+
+// explain that if one does it correctly, our participants would be willing to trust the system to perform the rehabilitation if it does not compromise ethical or safety measures. necessity for building a system that does not compromise ethical or safety measures

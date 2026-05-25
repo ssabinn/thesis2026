@@ -17,3 +17,8 @@ The prototype is of a mid-fi nature with the purpose of exemplifying and visuali
 
   - Include figures *only* and explain what was designed and how it relates to the results. 
   - Also mention that they were based on above design implications
+
+
+
+
+For Discussion
