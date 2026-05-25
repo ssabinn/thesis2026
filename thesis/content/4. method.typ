@@ -42,7 +42,7 @@
 This chapter presents the methodological approach adopted for this study. It describes: (1) case of study, (2) epistemology & research design, (3) data collection techniques, (4) participant recruitment, (5) data analysis method, and (6) ethical considerations.
 
 == Case Study/Study Area
-To properly explore and propose agency distribution throughout the four phases of therapy, we employed a case study approach as our research method @myers2020 in collaboration with Brain Stimulation. Brain Stimulation is a company that provides two services to therapists and clinicians who work with patients suffering from visuospatial neglect (VSN). The two services include: (1) A digital screening tool used for cognitive assessment of patients using various standardized tests to assess cognitive function such as attention and visual neglect, and (2) a digital therapy system, including a therapist monitoring tool and various XR-based exergames, that provide more engaging and motivating rehabilitation of cognitive and motor functions through interactive and multisensory 3D games.
+To properly explore and propose agency distribution throughout the four phases of therapy, we employed a case study approach as our research method @ myers2020 in collaboration with Brain Stimulation. Brain Stimulation is a company that provides two services to therapists and clinicians who work with patients suffering from visuospatial neglect (VSN). The two services include: (1) A digital screening tool used for cognitive assessment of patients using various standardized tests to assess cognitive function such as attention and visual neglect, and (2) a digital therapy system, including a therapist monitoring tool and various XR-based exergames, that provide more engaging and motivating rehabilitation of cognitive and motor functions through interactive and multisensory 3D games.
 
 == Research through Design
 This study adopts a *_/Participatory Research through Design (Participatory RtD)/_* approach to investigate how 
@@ -57,7 +57,7 @@ This allowed the study to move from understanding current rehabilitation work pr
 == Epistemology & Research Design
 // LowIQboi gets participatory research through design elaboration, mention design of co-design sessions and activities, dimensions, persona, 4 phases of therapy - not needed anymore?
 
-The epistemology will be of an interpretative nature as we will attempt to understand the necessary agency distribution between the 4 main phases of therapy (see figure 1b). Doing so will let us get deeper and more qualitative insights into the actual contexts, tools, and workflows of therapists and how their therapy process could feel more supported, thus provide better rehabilitation. For validity purposes, the entirety of research process as well as prototype design process was documented in the form of images and text @myers2020. 
+The epistemology will be of an interpretative nature as we will attempt to understand the necessary agency distribution between the 4 main phases of therapy (see @phases). Doing so will let us get deeper and more qualitative insights into the actual contexts, tools, and workflows of therapists and how their therapy process could feel more supported, thus provide better rehabilitation. For validity purposes, the entirety of research process as well as prototype design process was documented in the form of images and text @ myers2020. 
 
 #figure(
   image("../images/methods.png"),
@@ -66,25 +66,29 @@ The epistemology will be of an interpretative nature as we will attempt to under
 
 
 == Data Collection Techniques
-To attain a detailed and holistic understanding of everything, this study adopted several data collection techniques, namely, interviews, observation and speculative co-design sessions. This approach was crucial for this study (1) to develop understanding in how the agency should be distributed between therapists and computational system across all four main phases of therapy (See figure 1b), and (2) to create a concept-design prototype of the therapist interface based on the findings *(See figures X-Z).*
+To attain a detailed and holistic understanding of the agency distribution between therapists and AI-supported exergame-based rehabilitation system, and how it shifts across different phases of rehabilitation, this study adopted several data collection techniques, namely, interviews, observation and speculative co-design sessions. This approach was crucial for this study to (1) unders in how the agency should be distributed between therapists and computational system across all four main phases of therapy (See @phases), and (2) design implications 
+
+
+prototype of the therapist interface based on the findings *(See figures X-Z).*
 
 === Contextual Inquiry A - Interviews
-This study's explorations started with a contextual inquiry through semi-structured interviews with the company’s product manager (PM) and MD/Founder to understand the products, the workflow, the underlying reasoning and logic behind the rehabilitation products. Semi-structured interviews were also conducted with three occupational therapists (OT) who have used either one or both of Brain Stimulation's digital services (assessment and therapy tool) to understand their workflow, appreciations and pain points with the tools (Myers 2020). All five interviews were designed to last a maximum of 45-60 minutes long. The interviews were through verbal consent recorded and transcribed using Teams and were later controlled and corrected for validity purposes.
+This study's explorations started with a contextual inquiry through semi-structured interviews with the company’s product manager (PM) and MD/Founder to understand the products, the workflow, the underlying reasoning and logic behind the rehabilitation products. Semi-structured interviews were also conducted with three occupational therapists (OT) who have used either one or both of Brain Stimulation's digital services (assessment and therapy tool) to understand their workflow, appreciations and pain points with the tools (Myers 2020). All five interviews were designed to last a maximum of 45-60 minutes long. 
 
 Given the diversity in the respondents roles, the interview guides varied in focus areas to capture accurate and role-specific contextual information. The interview with the PM focused on tool functionality, current assessment tests in their first tool, which data metrics are collected and how they are translated into exergame rehab through their second tool, technical constraints, game control adaptability and future development plans. The interview for the MD/Founder was however more focused on clinical and research foundations of the two systems, the rationale for adopting XR technologies specifically and key insights from early research that shaped the current design of Brain Stimulation's tools, as well as how the assessment and therapy phases are linked using the tools. Lastly, the interview for the OT's using either one or both of Brain Stimulation's tools were more focused on their workflow, how the tools support their assessment and therapy work as well as which pain points existed and what they felt was missing from the tools. 
 
 By capturing several perspectives across product, clinical and end-user, a more holistic understanding of the workflow across phases, tools, capabilities, and limitations was conceptualized. This helped us identify strengths and gaps which informed the design construction of the co-design sessions, ultimately affecting this study's findings and concept design prototype. 
 
 === Contextual Inquiry B - Observation
-One observation was also conducted with one of the three occupational therapists from the previous interviews during a rehabilitation session. The aim of the observation was to observe how a therapist actually use Brain Stimulation's digital therapy system (tool 2) to conduct a therapy session. The observation lasted for the full session (60 minutes) and was only carried out, recorded, and transcribed after verbal consent from both the patient and the occupational therapist. The transcription was later controlled and corrected for validity purposes. 
+One observation was also conducted with one of the three occupational therapists from the previous interviews during a rehabilitation session. The aim of the observation was to observe how a therapist actually use Brain Stimulation's digital therapy system (tool 2) to conduct a therapy session. The observation lasted for the full session (60 minutes) 
 
 The occupational therapist was encouraged to perform the thinking aloud method while interacting with the digital tool during the session. This approach was employed to capture real-time reasoning, decision-making, and insights into how the tool supported or hindered the therapists ability to assess and provide personalized rehabilitation. To limit potential reinterpretation or distortion caused by recall limitations and facilitate high validation, the entirety of the observation was documented in text and audio. The observation further deepened the contextual understanding of the therapy session, the product use in clinical setting, and current agency distribution between the therapist and the tool (Myers 2020). 
 
 // HCI should move beyond classic user-centered design and toward more participatory, agonistic, and speculative design practices that ask what kinds of worlds and relationships technologies are creating
 
 === Speculative Co-Design Sessions
+//Rehabilitation systems for exergame-based therapy are inherently socio-technical environments, where boundaries between human and system remains ambiguous and subject of this study's investigation. Entanglement HCI proposes using speculative, agonistic, and participatory methods to explore agency, its distribution, and responsibility (Frauenberger, 2019). Thus, 
 
-Rehabilitation systems for exergame-based therapy are inherently socio-technical environments, where boundaries between human and system remains ambiguous and subject of this study's investigation. Entanglement HCI proposes using speculative, agonistic, and participatory methods to explore agency, its distribution, and responsibility (Frauenberger, 2019). Thus, we employ speculative co-design sessions within a participatory Research through Design approach (Smith et al., 2025), inviting participants to a design-futuring space structured around four situated and specific futures through which desirable configurations and concerns in future rehabilitation system can be explored (See @codesign). A total of six one-on-one speculative co-design sessions were conducted with occupational therapists, physiotherapists and researchers within the field (see @codesign), of which one was a pilot study that was performed to adjust and improve the activities, questions and overall quality of the co-design session. All six co-design sessions were designed to last between 1.5 to 2 hours. All sessions were recorded, after verbal consent, and transcribed using Teams and were later reviewed and corrected for validity purposes.
+We employ speculative co-design sessions within a participatory Research through Design approach (Smith et al., 2025), inviting participants to a design-futuring space structured around four situated and specific futures through which desirable configurations and concerns in future rehabilitation system can be explored (See @codesign). A total of six one-on-one speculative co-design sessions were conducted with occupational therapists, physiotherapists and researchers within the field (see @codesign), of which one was a pilot study that was performed to adjust and improve the activities, questions and overall quality of the co-design session. All six co-design sessions were designed to last between 1.5 to 2 hours. 
 
 ==== Pilot Study
 Before proceeding to the co-design sessions, we did a pilot study. The pilot study provides valuable insights into potential challenges in the research project (Van Teijlingen & Hundley, 2001). The purpose of this pilot was to test the feasibility of our co-design session design, to understand how therapists' agency was affected by the availability of specific fine-grained settings and exergame parameters across different scenarios and across different phases (See @phases). We aimed to assess the validity of the design of our co-design session in order to explore agency boundaries.
@@ -92,7 +96,7 @@ Before proceeding to the co-design sessions, we did a pilot study. The pilot stu
 The pilot study was informed by case study, literature, contextual inquiries with rehabilitation system product owners and their therapist users. We conducted the pilot study with one participant, in alignment with the full co-design session. A persona was created to ground the pilot co-design session in a realistic clinical session and provide a context where participants could refer to. This persona was used for the duration of the session (See Appendix X ). 
 
 //should this be before pilot session
-The four main phases of rehabilitation were validated from relevant research and contextual inquiry (See Section 5.1.1): (1) Therapy Planning & Goal Setting, (2) Session Planning, (3) Rehabilitation Session, and (4) Post-Session Evaluation. These four phases were defined as standard, after being validated with the participant, when discussing scenarios for the duration of the pilot session. Similarly, fine-grained settings and exergame parameters were grouped by type and categorized by phases and then presented to the participant to validate (See @controls). The participant was then presented with *seven futuristic and provocative rehabilitation system* (See Appendix X) to probe the therapists' boundaries, and the requirements for settings and exergame parameters in different phases of rehabilitation for each of the scenarios. To further probe the scenarios, questions were designed to address at least three dimensions based on findings from contextual inquiry (see Results): (1) Temporality; pre-configuration or real-time adjustments of settings and exergame parameters, (2) Granularity; how fine-grained the settings, parameters and information available to the therapists should be, and (3) Interaction cost; time and effort required to perform any action. 
+The four main phases of rehabilitation were validated from relevant research and contextual inquiry (See @phasesoftherapy): (1) Therapy Planning & Goal Setting, (2) Session Planning, (3) Rehabilitation Session, and (4) Post-Session Evaluation. These four phases were defined as standard, after being validated with the participant, when discussing scenarios for the duration of the pilot session. Similarly, fine-grained settings and exergame parameters were grouped by type and categorized by phases and then presented to the participant to validate (See @controls). The participant was then presented with *seven futuristic and provocative rehabilitation system* (See Appendix X) to probe the therapists' boundaries, and the requirements for settings and exergame parameters in different phases of rehabilitation for each of the scenarios. *To further probe the scenarios, questions were designed to address at least three dimensions based on findings from contextual inquiry (see Results): (1) Temporality; pre-configuration or real-time adjustments of settings and exergame parameters, (2) Granularity; how fine-grained the settings, parameters and information available to the therapists should be, and (3) Interaction cost; time and effort required to perform any action.* 
 
 #figure(
   image("../images/controls.png"),
@@ -114,6 +118,25 @@ These findings were used to make following adjustments to the co-design session:
 3. Agency in decision-making and Agency in execution were then decided as primary dimensions with the rest of the dimensions serving as a means to further probe and isolate findings. A scenario 2x2 matrix was created for the primary dimensions ranging from full human agency to full system agency and then scenarios were developed for each combination to explore  shift across the spectrum and independently examine the dimensions. Questions were formulated for other dimensions, referred to as probe dimensions, to further probe the agency distribution in each of the scenarios. This allowed the study to shift from abstract thinking about randomized scenarios to being open to critical conversation about possible futures in a controlled manner.
 
 The findings from the pilot study was omitted from final data analysis and only used to adjust the final co-design session to focus on agency distribution instead.
+
+#figure(
+  table(
+    columns: (auto, auto, auto),
+    align: left,
+
+    [Dimension], [Type of Investigation], [Reasoning for Inclusion],
+    [Agency in Reasoning], [Primary], [since therapists and AI-system both parttake in reasoning and execution, we wanted to understand how agency in these two complimentary activity],
+    [Agency in Execution], [Primary], [],
+    [Granularity], [Secondary], [Generated from Contextual Inquiry (See @dimension-granularity) ],
+    [Temporality], [Secondary], [Generated from Contextual Inquiry (See @phasesoftherapy)],
+    [Interaction Cost], [Secondary], [ Generated from Contextual Inquiry (See @dimension-interactioncost)],
+    [Patient vs Data], [Secondary], [Generated from Contextual Inquiry (See X)],
+    [Materiality], [Secondary], [If the implications can be material agnostic; since rehabilitation is used across a wide range of technology ],
+    
+  ),
+)
+
+
 //
 
 ==== Final Co-Design Session
@@ -217,10 +240,11 @@ Finally, the design activity "desired system" was compared with one question in 
 ) <designsystem>
 
 == Ethical Considerations
-This study involves therapists and may involve non-interfering observation of usage of Brain Stimulation's digital therapy system during a rehabilitation session, which can raise ethical considerations regarding informed consent, privacy and data handling. All interviews, co-design sessions and observations were only recorded and conducted after the participants provided explicit consent. The resulting recordings, transcripts, and images were stored in secure university-sanctioned Microsoft services in accordance with their data protection guidelines. Additionally, the prototype developed will be clearly presented as an exploratory design artifact intended to probe and inform design space for future systems, rather than a clinically-validated or commercial product. 
+This study involves therapists and may involve non-interfering observation of usage of Brain Stimulation's digital therapy system during a rehabilitation session, which can raise ethical considerations regarding informed consent, privacy and data handling. All interviews, co-design sessions and observation were therefore only conducted and recorded after all participants had provided explicit verbal consent. The recordings were later transcribed, controlled and corrected using Teams for validity purposes. All recordings and transcripts were stored in secure university-sanctioned Microsoft services in accordance with their data protection guidelines. Additionally, because this study does not involve collection of sensitive data, participants were comfortable providing verbal consent instead of written consent. Naturally, participants also had the opportunity to withdraw their consent and participation in the study at any time. 
 
-*Message to Pedro : Can we mention that we took verbal consent before recording and transcribing interviews, observations and co-design sessions once under "3.7 Ethical Considerations" or does it need to be mentioned everytime under each relevant section? *
 
-    Can we mention that we took verbal consent before recording and transcribing interviews, observations and co-design sessions *once* under "3.7 Ethical Considerations" or does it need to be mentioned everytime under each relevant section?
+
+
+
+
     
-

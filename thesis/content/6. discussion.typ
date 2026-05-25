@@ -7,7 +7,7 @@ This study examined how therapists reason about their agency in relation to a hu
 
 == Key Findings
 //consensus
-The accumulated results of this study's contextual inquiry and co-design sessions suggests a positive outlook on exergame-based rehabilitation and a cautious outlook on AI-supported digitalized rehabilitation,*while agreeing it was an inevitable future*. They agreed exergame-based rehabilitation enables more effective personalization and high exercise repetitions, while simultaneously appearing fun and motivating for the patients, and digitalized rehabilitation would enable precision rehabilitation. Subsequently, reducing time consumption and effort, a common and critical constraint within the rehabilitation field, was also considered as a major key benefit. Hence, all participants emphasized that under time pressure if the required effort would otherwise be too high, they would be willing to accept the AI system's therapy plan and all additional parameters even if imperfect, but with condition as long as patient safety was not compromised. This trade-off was however only considered if the additional time and effort put, would not provide significantly better outcomes for the patient. While viewing AI-supported rehabilitation as an inevitable future, they hoped it would provide higher accessibility through remote rehabilitation for patients that live far, can not visit often or can not afford.
+The accumulated results of this study's contextual inquiry and co-design sessions suggests a positive outlook on exergame-based rehabilitation and a cautious outlook on AI-supported digitalized rehabilitation,*while agreeing it was an inevitable future*. They agreed digi They agreed exergame-based rehabilitation enables more effective personalization and high exercise repetitions, while simultaneously appearing fun and motivating for the patients, and digitalized rehabilitation would enable precision rehabilitation. Subsequently, reducing time consumption and effort, a common and critical constraint within the rehabilitation field, was also considered as a major key benefit. Hence, all participants emphasized that under time pressure if the required effort would otherwise be too high, they would be willing to accept the AI system's therapy plan and all additional parameters even if imperfect, but with condition as long as patient safety was not compromised. This trade-off was however only considered if the additional time and effort put, would not provide significantly better outcomes for the patient. While viewing AI-supported rehabilitation as an inevitable future, they hoped it would provide higher accessibility through remote rehabilitation for patients that live far, can not visit often or can not afford.
 
 In spite of the positive attitude towards AI-supported exergame-based rehabilitation, there were conditions to the shared therapist-system agency relating to *the sense of* autonomy and control. In particular, participants preferred shared agency in the form of system recommendations which required therapists to accept, adjust or reject (_S2_) and, a system which requires instructions/inputs by the therapists (_S3_) as they felt more in control. As opposed to the fully autonomous system (_S4_) which majority of participants were strongly opposed to, perceiving a strong threat towards their professional role and expertise - despite knowing they could override the system by accepting, adjusting or rejecting as well. Only two participants were comfortable with the autonomous system, elaborating they would not feel replaced, but rather allow them to focus the additional time and effort on patient goals instead. Irrespective of participants' individual concerns, they were overall only willing to let go of control if there was scarcity of time, which is a common constraint in healthcare system, and level of trust in the system, something that can only be built over time and based on the results it consistently produced. *The emphasis on acquired control was *argued* to assure better adaptation to each patient as every patient and day is unique.* *Another concern was how overreliance on this type of system could potentially reduce clinical reasoning skills, especially for novice therapists.* // was this only for AI or for all scenarios?? 
 
@@ -65,55 +65,25 @@ Altogether, therapists phase-dependant preferences highlights discrepancies betw
 
  
 == Design Implications 
-The design implications for the study can be presented as implications for agency, and implications for ux and information design.
 
-//Because [finding], the design should [principle/action] so that [user benefit].” 
+The findings suggest that AI-supported exergame-based rehabilitation systems should not be designed around a fixed level fo automation but around how agency can shift across the different phases of the rehabilitation. Based on this, the following design implications focus on agency and control, and on UX and information design can be presented.
 
 === Agency and Control
 
-1. Because the therapists' sense of agency and preferred level vary across therapy phases, the design should support phase-specific agency distribution across all main phases of therapy. The automation should be increased for repetitive and low-level tasks and reduced where human judgement and patient relationship building are critical.
+1. Since therapists preferred different level of system control across therapy planning, session planning, rehabilitation sessions, and post-evaluation sessions, the system should be designed with phase-specific agency distribution.
+2. Therapists should be responsible for final clinical decision-making and early phases to build therapeutic alliance, while the AI-system looks after repetitive and lower-risk tasks.
+3. Support a hybrid control model where the system can provide recommendations or execute actions based on instruction, but therapists can accept, reject or adjust them.
+4. Avoid full autonomy as the default, since it was often associated with loss of control and weaker sense of sense of agency, and thus a threat to the therapists' professional identity.
+5. Make interventions and override always available and present, especially when patient safety or quality of care might be affected.
 
-2. Because the therapists preferred shared agency where the system recommends and executes but they remain responsible for decisions, the design should implement a hyrbid control model in which the systems recommends and executes while therapists are in-the-loop to accept, reject, adjust so that they maintain the sense of agency without feeling replaced. 
+=== UX and Information Design
 
-7. how to design a system which therapists can rely on, without compromising their decision-making skills or clinical reasoning long-term?
-Since the researches ans well as our studies have shown that overreliance
-
-10. Future prospects: the role of therapists still could remain as important despite full automation by transforming the current workflow going from decision-making to AI reviewers to serve the role as a controller and ...of therapy planning and X created by the system for assuring higher accessibility .
-
-
-*UX and information design*
-
-3. The design should prioritize low-detail interfaces with access to additional detail on demand.  (for both input like instructions and output like recommendations, feedback and data). 
-
-
-4. The design should include a common language in the form of functional/diagnostical information between the system and the therapist.
+1. Prioritze simple contextual interfaces with only the most relevant information shown by default, to reduce cognitive and time burden
+2. Expose higher degree of details only on demand. The higher degree of details could be controls, parameters, and recommendations. This is important for therapists to inspect, reflect, or question the system's reasoning. 
+3. Provide support for natural, functional, and diagnostical language in align with therapeutic process rather than only technical and parametrical details. 
+4. For automated workflow, provide detailed explanation on the reasoning and actions under taken so therapists can inspect the process and understand why something was suggested or changed. 
+5. Design the interface to be simpler and less cognitively demanding during rehabilitation sessions to support patient interaction 
 
 
-4. Optimize flow for minimal time and effort.. and maybe reduce stress on therapists. especially during and before sessions
-
-
-6. include patient-therapist interaction important somehow? reduce ui complexity so that more focus on patient, simple control mechanisms, design screen layout so that user doesn't have to search for them.
-
-8. want XAI, and how 
-
-
-9. For medium-agnostic, it should be designed with portability in mind,.
-
-11. Option to turn off automation if required, especially for novice therapists. 
-
-*no category*
-
-5. design to build trust toward system over time?
-
-
-
-
-
-
-
-
-
-
-
-*IMPORTANT TO DO BEFORE SUBMISSION:*
+//*IMPORTANT TO DO BEFORE SUBMISSION:*
 //  reflect on how the results can contribute to the field of research. The reflection is characterized by an in-depth understanding of the results as well as related research

@@ -29,8 +29,26 @@
 #pagebreak()
 
 //#include "formatting/appendix.typ"
-#bibliography("references.yaml", style: "harvard-cite-them-right")
+//#bibliography("references.yaml", style: "harvard-cite-them-right")
 
 #pagebreak()
 
+
+#bibliography("works.bib", style: "apa", title: "References")
+
+
+
+// ======= APPENDIX (add more here) =======
+#let setup-appendices(body) = {
+  set heading(numbering: "A.1.")
+  counter(heading).update(0)
+  show heading.where(level: 1): set heading(supplement: "Appendix")
+
+  pagebreak()
+  body
+}
+#show: setup-appendices // uncomment if appendix is used
+
 #include "content/Appendix.typ"
+// #include "appendix/testappe.typ"
+// #include "appendix/testappe.typ"
