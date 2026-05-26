@@ -78,7 +78,7 @@ The findings suggest that AI-supported exergame-based rehabilitation systems sho
 4. Avoid full autonomy as the default, since it was often associated with loss of control and weaker sense of sense of agency, and thus a threat to the therapists' professional identity.
 5. Make interventions and override always available and present, especially when patient safety or quality of care might be affected.
 
-=== UX and Information Design
+=== UX and Information Architecture
 
 1. Prioritze simple contextual interfaces with only the most relevant information shown by default, to reduce cognitive and time burden
 2. Expose higher degree of details only on demand. The higher degree of details could be controls, parameters, and recommendations. This is important for therapists to inspect, reflect, or question the system's reasoning. 

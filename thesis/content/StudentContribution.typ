@@ -10,7 +10,7 @@ Sabin Bhandari & Marwah Saleh
 Eight supervision sessions were conducted jointly and one supervision session was attended by Sabin alone with our supervisor, Pedro Sanches.  
 
 == AI USE
-We used Gemini Nano Banana 2 for image generations to our scenarios in co-design session. To find additional synonyms, conjunctions and research papers, Consensus and ChatGPT was at times used when other sources were not enough. 
+We used Gemini Nano Banana 2 for image generations to our scenarios in co-design session. To find additional synonyms, conjunctions and research papers, Consensus and ChatGPT was at times used when other sources were not enough. Perplexity AI was used to check for grammatical errors.
 
 == RESEARCH QUESTION AND AIM
 Sabin Bhandari & Marwah Saleh

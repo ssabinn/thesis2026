@@ -31,7 +31,6 @@
 //#include "formatting/appendix.typ"
 //#bibliography("references.yaml", style: "harvard-cite-them-right")
 
-#pagebreak()
 
 
 #bibliography("works.bib", style: "apa", title: "References")

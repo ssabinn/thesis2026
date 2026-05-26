@@ -1,13 +1,11 @@
-
-
-= Appendix : Contextual Inquiry
+= Appendix : Contextual Inquiry <interviews>
 
 == Interview Question (Founder)
 
 *Introduction*
 1. Could you briefly describe your respective roles in relation to RehAtt® DiSTRO and the XR rehabilitation games?
 2. Could you give a brief overview of your research history in visuospatial neglect and VR-based rehabilitation? Followup: Why did you start Brain Stimulation
-3. Looking back, what key insights from your early research most strongly shaped the initial design of RehAtt and the decision to use VR and XR technologies for VSN rehabilitation? Why XR?
+3. Looking back, what key insights from your early research most strongly shaped the initial design of RehAtt and the decision to use VR and XR technologies for rehabilitation? Why XR?
 4. Without XR, how is the rehabilitation currently performed?
 
 *Product*
@@ -20,12 +18,11 @@
 9. What is the use case difference between physiotherapists and Ots using this product? 
 10. Similarly, how are the games selected for XR? 
 11. How do therapists currently use the assessment results to decide which rehabilitation games to use and at what difficulty level?
-12. Which assessment results are most influential when tailoring therapy for a patient with VSN? Follow-up: Are some results underused or harder to interpret?
+12. Which assessment results are most influential when tailoring therapy for the patient? Follow-up: Are some results underused or harder to interpret?
 13. To what extent is this decision-making standardized versus dependent on individual therapist expertise?
 14. Are there aspects of a patient’s visuospatial neglect or recovery that are difficult to capture with the current assessment tools?  Prompt: behavior, fatigue, attention, asymmetries, strategy use
 16. From your experience, where do therapists struggle most when translating assessment data into individualized rehabilitation? Like: time, confidence, lack of controls, lack of granularity
 16. What makes levels harder/simpler, what is the logic behind the levels? is it related to research as well or not?
-17. In an ideal system, how much control should be manual versus automatically adaptive?
 
 *General*
 18. In an ideal system, how much control should be manual versus automatically adaptive?
@@ -97,8 +94,7 @@
 18. If you could redesign the assessment–therapy connection from scratch today, what could a well-designed XR or digital system enable you during VSN rehabilitation? 
 19. Is there anything we didn’t ask that you think is critical when designing a future control system for XR-based rehabilitation for VSN? 
 
-= Appendix: Speculative Co-design Sessions
-The images for the personas and scenarios were created using Gemini Nano Banana 2. 
+= Appendix: Pilot Study
 
 == Persona <persona>
 #figure(
@@ -106,7 +102,28 @@ The images for the personas and scenarios were created using Gemini Nano Banana 
   caption: [Persona]
 )<personaimg>
 
-=== Scenarios
+== Pilot Session Plan <pilotstudyplan>
+#figure(
+  image("../images/pilotstudyplan.png"),
+  caption: [Pilot Co-design Session]
+)<pilotstudyimg>
+
+== Pilot Study Scenarios <pilotstudyscenarios>
+#figure(
+  image("../images/pilotscenarioimg.png"),
+  caption: [Scenarios for Pilot Study]
+)<pilotscenarioimg>
+
+= Appendix: Speculative Co-design Sessions
+The images for the personas and scenarios were created using Gemini Nano Banana 2. 
+
+== Full Codesign Session <finalcodesignplan>
+#figure(
+  image("../images/codesignplanning.png"),
+  caption: [Codesign Session Planning in Figjam]
+)<codesignplanning>
+
+== Co-design Scenarios <scenarioimages>
 
 #figure(
   image("../images/scenario_1.png"),
