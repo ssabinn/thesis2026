@@ -102,11 +102,17 @@
   caption: [Persona]
 )<personaimg>
 
-== Pilot Session Plan <pilotstudyplan>
+== Pilot Study Plan <pilotstudyplan>
 #figure(
   image("../images/pilotstudyplan.png"),
   caption: [Pilot Co-design Session]
 )<pilotstudyimg>
+
+== Controls by Phases <pilotcontrols>
+#figure(
+  image("../images/controls.png"),
+  caption: [List of controls and parameters by main phases of rehabilitation system]
+)
 
 == Pilot Study Scenarios <pilotstudyscenarios>
 #figure(
