@@ -1,6 +1,8 @@
 // Delete after
 // Note that as an appendix to the essay, if a thesis is written in a pair, there must also be a short account - at most one page - of each student's contribution to the thesis project. There is a template available in Canvas showing how this should be written. The reason why this appendix should be included with the report is that students' performance should be able to be assessed individually also in connection with group (or pair) work. Note that each student must contribute to all assessment criteria for the thesis project, but within each criterion you can of course divide work. A single author does not need such a description. As the thesis has a page limit you might want to consider placing some images and tables (that are not crucial for understanding your argumentation) in an appendix (as this is excluded from the page count). All appendices should be numbered and placed at the end of the thesis, after the reference list. The same layout instructions should be applied to the text in the appendix. The only difference is that you must include a header like in the two appendices to this document. A maximum of 10 pages can be used for appendices.
 
+
+/*
 = STUDENT CONTRIBUTIONS
 
 == NAME OF STUDENTS
@@ -80,3 +82,6 @@ Reference list - Sabin
 Appendices - Sabin
 
 Both students have also, together, went through all study sections and elaborated, re-structured, re-formulated, standardized and added additional connections to background literature.
+
+
+*/
