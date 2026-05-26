@@ -2,7 +2,7 @@
 // Based on Department of Informatics formatting requirements
 
 #import "front_cover.typ": front_cover
-#import "appendix.typ": appendix
+//#import "appendix.typ": appendix
 #import "../content/0. abstract.typ": abstract-content
 
 #let umu-informatics-master-thesis(
@@ -134,7 +134,7 @@
     ]
     
     v(2em)
-    pagebreak()
+    //pagebreak()
   // ]
   
   // ==================== MAIN BODY ====================

@@ -20,7 +20,7 @@
       font: "Verdana",
       size: 22pt, 
       weight: "bold", 
-      tracking: 0.5pt)
+      tracking: 0.1pt)
       #upper(title)
   ]
   

@@ -42,11 +42,11 @@
 This chapter presents the methodological approach adopted for this study. It describes: (1) case of study, (2) epistemology & research design, (3) data collection techniques, (4) participant recruitment, (5) data analysis method, and (6) ethical considerations.
 
 == Case Study/Study Area
-To properly explore and propose agency distribution throughout the four phases of therapy, we employed a case study approach as our research method @ myers2020 in collaboration with Brain Stimulation. Brain Stimulation is a company that provides two services to therapists and clinicians who work with patients suffering from visuospatial neglect (VSN). The two services include: (1) A digital screening tool used for cognitive assessment of patients using various standardized tests to assess cognitive function such as attention and visual neglect, and (2) a digital therapy system, including a therapist monitoring tool and various XR-based exergames, that provide more engaging and motivating rehabilitation of cognitive and motor functions through interactive and multisensory 3D games.
+To properly explore and propose agency distribution throughout the four phases of therapy, we employed a case study approach as our research method in collaboration with Brain Stimulation @myers2013. Brain Stimulation is a company that provides two services to therapists and clinicians who work with patients suffering from visuospatial neglect (VSN). The two services include: (1) A digital screening tool used for cognitive assessment of patients using various standardized tests to assess cognitive function such as attention and visual neglect, and (2) a digital therapy system, including a therapist monitoring tool and various XR-based exergames, that provide more engaging and motivating rehabilitation of cognitive and motor functions through interactive and multisensory 3D games.
 
 == Research through Design
 This study adopts a *_/Participatory Research through Design (Participatory RtD)/_* approach to investigate how 
-decision-making agency should be distributed between therapists and system across the different phases of therapy for personalised exergame-based rehabilitation. Research through Design (RtD) refer to design activities that contribute to the generation of knowledge by making, iterating and reflecting to explore a design space (Stappers & Giaccardi, 2014). RtD is positions itself as a mode of inquiry allowing exploratory and practice-base research. RtD was selected for the study because the agency distribution in therapeutic process in its entirety is an unexplored design space, with fuzzy borders between humans and system, and this study aims to generate design knowledge through iteratively making and reflecting of technology designed to be used by therapists for rehabilitation, rather than limiting to exploration of existing systems.
+decision-making agency should be distributed between therapists and system across the different phases of therapy for personalised exergame-based rehabilitation. Research through Design (RtD) refer to design activities that contribute to the generation of knowledge by making, iterating and reflecting to explore a design space @rtd. RtD is positions itself as a mode of inquiry allowing exploratory and practice-base research. RtD was selected for the study because the agency distribution in therapeutic process in its entirety is an unexplored design space, with fuzzy borders between humans and system, and this study aims to generate design knowledge through iteratively making and reflecting of technology designed to be used by therapists for rehabilitation, rather than limiting to exploration of existing systems.
 
 Participatory design strengthens RtD by involving therapists and researchers, so their knowledge of clinical workflows, decision-making needs, and domain expertise can be used to investigate the boundaries of agency. On the other hand, having Brain Stimulation informants as participants can inform of the technological space and adaptation realities #text(red)[mention pilot studies?]. Participatory design elevates therapists from just being a user to active co-designers who are capable to addressing the power imbalance with emergent technologies.
 
@@ -57,7 +57,7 @@ This allowed the study to move from understanding current rehabilitation work pr
 == Epistemology & Research Design
 // LowIQboi gets participatory research through design elaboration, mention design of co-design sessions and activities, dimensions, persona, 4 phases of therapy - not needed anymore?
 
-The epistemology will be of an interpretative nature as we will attempt to understand the necessary agency distribution between the 4 main phases of therapy (see @phases). Doing so will let us get deeper and more qualitative insights into the actual contexts, tools, and workflows of therapists and how their therapy process could feel more supported, thus provide better rehabilitation. For validity purposes, the entirety of research process as well as prototype design process was documented in the form of images and text @ myers2020. 
+The epistemology will be of an interpretative nature as we will attempt to understand the necessary agency distribution between the 4 main phases of therapy (see @phases). Doing so will let us get deeper and more qualitative insights into the actual contexts, tools, and workflows of therapists and how their therapy process could feel more supported, thus provide better rehabilitation. For validity purposes, the entirety of research process as well as prototype design process was documented in the form of images and text @myers2013. 
 
 #figure(
   image("../images/methods.png"),
@@ -66,13 +66,12 @@ The epistemology will be of an interpretative nature as we will attempt to under
 
 
 == Data Collection Techniques
-To attain a detailed and holistic understanding of the agency distribution between therapists and AI-supported exergame-based rehabilitation system, and how it shifts across different phases of rehabilitation, this study adopted several data collection techniques, namely, interviews, observation and speculative co-design sessions. This approach was crucial for this study to (1) unders in how the agency should be distributed between therapists and computational system across all four main phases of therapy (See @phases), and (2) design implications 
+To attain a detailed and holistic understanding of the agency distribution between therapists and AI-supported exergame-based rehabilitation system, and how it shifts across different phases of rehabilitation, this study adopted several data collection techniques, namely, interviews, observation and speculative co-design sessions. This approach was crucial for this study to (1) understand how therapists reason about their agency in relation to AI-supported systems for exergame-based rehabilitation and how it should be distributed between therapists across the four main phases of therapy (See @phases), and (2) design implications to potentially direct future researchers and designers on how therapists preference for shared agency could be implemented (See @designimplications).
 
 
-prototype of the therapist interface based on the findings *(See figures X-Z).*
 
 === Contextual Inquiry A - Interviews
-This study's explorations started with a contextual inquiry through semi-structured interviews with the company’s product manager (PM) and MD/Founder to understand the products, the workflow, the underlying reasoning and logic behind the rehabilitation products. Semi-structured interviews were also conducted with three occupational therapists (OT) who have used either one or both of Brain Stimulation's digital services (assessment and therapy tool) to understand their workflow, appreciations and pain points with the tools (Myers 2020). All five interviews were designed to last a maximum of 45-60 minutes long. 
+This study's explorations started with a contextual inquiry through semi-structured interviews with the company’s product manager (PM) and MD/Founder to understand the products, the workflow, the underlying reasoning and logic behind the rehabilitation products. Semi-structured interviews were also conducted with three occupational therapists (OT) who have used either one or both of Brain Stimulation's digital services (assessment and therapy tool) to understand their workflow, appreciations and pain points with the tools @myers2013. All five interviews were designed to last a maximum of 45-60 minutes long. 
 
 Given the diversity in the respondents roles, the interview guides varied in focus areas to capture accurate and role-specific contextual information. The interview with the PM focused on tool functionality, current assessment tests in their first tool, which data metrics are collected and how they are translated into exergame rehab through their second tool, technical constraints, game control adaptability and future development plans. The interview for the MD/Founder was however more focused on clinical and research foundations of the two systems, the rationale for adopting XR technologies specifically and key insights from early research that shaped the current design of Brain Stimulation's tools, as well as how the assessment and therapy phases are linked using the tools. Lastly, the interview for the OT's using either one or both of Brain Stimulation's tools were more focused on their workflow, how the tools support their assessment and therapy work as well as which pain points existed and what they felt was missing from the tools. 
 
@@ -81,7 +80,7 @@ By capturing several perspectives across product, clinical and end-user, a more 
 === Contextual Inquiry B - Observation
 One observation was also conducted with one of the three occupational therapists from the previous interviews during a rehabilitation session. The aim of the observation was to observe how a therapist actually use Brain Stimulation's digital therapy system (tool 2) to conduct a therapy session. The observation lasted for the full session (60 minutes) 
 
-The occupational therapist was encouraged to perform the thinking aloud method while interacting with the digital tool during the session. This approach was employed to capture real-time reasoning, decision-making, and insights into how the tool supported or hindered the therapists ability to assess and provide personalized rehabilitation. To limit potential reinterpretation or distortion caused by recall limitations and facilitate high validation, the entirety of the observation was documented in text and audio. The observation further deepened the contextual understanding of the therapy session, the product use in clinical setting, and current agency distribution between the therapist and the tool (Myers 2020). 
+The occupational therapist was encouraged to perform the thinking aloud method while interacting with the digital tool during the session. This approach was employed to capture real-time reasoning, decision-making, and insights into how the tool supported or hindered the therapists ability to assess and provide personalized rehabilitation. To limit potential reinterpretation or distortion caused by recall limitations and facilitate high validation, the entirety of the observation was documented in text and audio. The observation further deepened the contextual understanding of the therapy session, the product use in clinical setting, and current agency distribution between the therapist and the tool @myers2013. 
 
 // HCI should move beyond classic user-centered design and toward more participatory, agonistic, and speculative design practices that ask what kinds of worlds and relationships technologies are creating
 
@@ -93,7 +92,7 @@ We employ speculative co-design sessions within a participatory Research through
 ==== Pilot Study
 Before proceeding to the co-design sessions, we did a pilot study. The pilot study provides valuable insights into potential challenges in the research project (Van Teijlingen & Hundley, 2001). The purpose of this pilot was to test the feasibility of our co-design session design, to understand how therapists' agency was affected by the availability of specific fine-grained settings and exergame parameters across different scenarios and across different phases (See @phases). We aimed to assess the validity of the design of our co-design session in order to explore agency boundaries.
 
-The pilot study was informed by case study, literature, contextual inquiries with rehabilitation system product owners and their therapist users. We conducted the pilot study with one participant, in alignment with the full co-design session. A persona was created to ground the pilot co-design session in a realistic clinical session and provide a context where participants could refer to. This persona was used for the duration of the session (See Appendix X ). 
+The pilot study was informed by case study, literature, contextual inquiries with rehabilitation system product owners and their therapist users. We conducted the pilot study with one participant, in alignment with the full co-design session. A persona was created to ground the pilot co-design session in a realistic clinical session and provide a context where participants could refer to for the duration of the session (See @persona).
 
 //should this be before pilot session
 The four main phases of rehabilitation were validated from relevant research and contextual inquiry (See @phasesoftherapy): (1) Therapy Planning & Goal Setting, (2) Session Planning, (3) Rehabilitation Session, and (4) Post-Session Evaluation. These four phases were defined as standard, after being validated with the participant, when discussing scenarios for the duration of the pilot session. Similarly, fine-grained settings and exergame parameters were grouped by type and categorized by phases and then presented to the participant to validate (See @controls). The participant was then presented with *seven futuristic and provocative rehabilitation system* (See Appendix X) to probe the therapists' boundaries, and the requirements for settings and exergame parameters in different phases of rehabilitation for each of the scenarios. *To further probe the scenarios, questions were designed to address at least three dimensions based on findings from contextual inquiry (see Results): (1) Temporality; pre-configuration or real-time adjustments of settings and exergame parameters, (2) Granularity; how fine-grained the settings, parameters and information available to the therapists should be, and (3) Interaction cost; time and effort required to perform any action.* 
@@ -112,10 +111,14 @@ These findings were used to make following adjustments to the co-design session:
 
 1. Shift the focus of the study from how therapists agency was affected by the availability of specific fine-grained settings and exergame parameters to how agency should be distributed between therapists and the system in *decision-making as well as decision-execution* across different phases.
 
-2. Elevate dimensions as the primary means to probe agency distribution by expanding the number of dimensions to seven: (1) Agency in *decision-making*; who does *clinical reasoning and decision-making* (2) Agency in execution; who enacts or executes the decisions, and exergame parameters, (3) Granularity; how fine-grained the settings, parameters and information available to or provided by the therapists should be, (4) Temporality; pre-configuration or real-time adjustments of settings, (5) Interaction cost; time and effort required to perform any action. (6) Patient vs Data; prioritization of patient experience or data availability // conntect to theory & contextual inquiry, patient-interqction and remote capabilities of such a system
-, and (7) Materiality; how technology affects therapeutic process. // to provide a proper framework, we wanted to construct a system that is medium-agnostic, hence explored materiality. 
+2. Differentiate agency in reasoning from agency in execution because AI-supported rehabilitation creates a situation where both therapists and the system can both think and act @Ismail2021 @Zhao2020. Separating agency in two dimensions let us understand the boundaries in agency distribution i.e. clinical reasoning and operational execution.
 
-3. Agency in decision-making and Agency in execution were then decided as primary dimensions with the rest of the dimensions serving as a means to further probe and isolate findings. A scenario 2x2 matrix was created for the primary dimensions ranging from full human agency to full system agency and then scenarios were developed for each combination to explore  shift across the spectrum and independently examine the dimensions. Questions were formulated for other dimensions, referred to as probe dimensions, to further probe the agency distribution in each of the scenarios. This allowed the study to shift from abstract thinking about randomized scenarios to being open to critical conversation about possible futures in a controlled manner.
+3. Include materiality as one of the dimensions for probing, considering how rehabilitation systems are explored and implemented across a wide range of technologies (*Cheok et al., 2015*; Santos et al., 2025, Doumas et al., 2025). While any meaningful investigation into the agency distribution should be medium-agnostic, including materiality as a dimensions enables exploration on whether and how the technological medium itself shapes the therapist's sense of agency. 
+
+3. Elevate dimensions as the primary means to probe agency distribution by expanding the number of dimensions to seven (see @dimensionstable): (1) _Agency in reasoning_; who does clinical reasoning and judgement (2) _Agency in execution_; who enacts or executes the decisions, and exergame parameters, (3) _Granularity_; how fine-grained the settings, parameters and information available to or provided by the therapists should be, (4) _Temporality_; pre-configuration or real-time adjustments of settings, (5) _Interaction Cost_; time and effort required to perform any action. (6) *_Patient vs Data_;* prioritization of patient experience or data availability // conntect to theory & contextual inquiry, patient-interqction and remote capabilities of such a system
+, and (7) _Materiality_; how technology affects therapeutic process. // to provide a proper framework, we wanted to construct a system that is medium-agnostic, hence explored materiality. 
+
+4. _Agency in Reasoning_ and _Agency in Execution_ were then decided as primary dimensions with the rest of the dimensions serving as a means to further probe and isolate findings. A scenario 2x2 matrix was created for the primary dimensions ranging from full human agency to full system agency and then scenarios were developed for each combination to explore  shift across the spectrum and independently examine the dimensions. Questions were formulated for other dimensions, referred to as probe dimensions, to further probe the agency distribution in each of the scenarios. This allowed the study to shift from abstract thinking about randomized scenarios to being open to critical conversation about possible futures in a controlled manner.
 
 The findings from the pilot study was omitted from final data analysis and only used to adjust the final co-design session to focus on agency distribution instead.
 
@@ -125,24 +128,22 @@ The findings from the pilot study was omitted from final data analysis and only 
     align: left,
 
     [Dimension], [Type of Investigation], [Reasoning for Inclusion],
-    [Agency in Reasoning], [Primary], [since therapists and AI-system both parttake in reasoning and execution, we wanted to understand how agency in these two complimentary activity],
-    [Agency in Execution], [Primary], [],
+    [Agency in Reasoning], [Primary], [Added to probe agency distribution on clinical reasoning],
+    [Agency in Execution], [Primary], [Added to probe agency distribution on translating clinical reasoning into specific operational actions ],
     [Granularity], [Secondary], [Generated from Contextual Inquiry (See @dimension-granularity) ],
     [Temporality], [Secondary], [Generated from Contextual Inquiry (See @phasesoftherapy)],
     [Interaction Cost], [Secondary], [ Generated from Contextual Inquiry (See @dimension-interactioncost)],
-    [Patient vs Data], [Secondary], [Generated from Contextual Inquiry (See X)],
-    [Materiality], [Secondary], [If the implications can be material agnostic; since rehabilitation is used across a wide range of technology ],
+    [Patient vs Data], [Secondary], [Generated from Contextual Inquiry (See X) ],
+    [Materiality], [Secondary], [Added to ],
     
   ),
-)
-
-
-//
+  caption: [Dimensions used to probe agency distribution in co-design sessions]
+) <dimensionstable>
 
 ==== Final Co-Design Session
 // Add more details about the scenarios, make it more tangible in another figure, mention which one is Scenario 1, 2, 3, and 4.
 
-The redesigned final co-design session aimed to understand the distribution of agency, what the boundaries are, and if there were any conditions to this agency. Similar to pilot study the participants were first presented with a persona (See Appendix X) that grounded the entire co-design session in clinical practice. Then they were introduced to four main phases of rehabilitation (See @phases) and subsequently validated with the participants. These phases were set as standard for the entirety of the session to have a common language.
+The redesigned final co-design session aimed to understand the distribution of agency, what the boundaries are, and if there were any conditions to this agency. Similar to pilot study the participants were first presented with a persona (See @persona) that grounded the entire co-design session in clinical practice. Then they were introduced to four main phases of rehabilitation (See @phases) and subsequently validated with the participants. These phases were set as standard for the entirety of the session to have a common language.
 
 The participants were then presented with four scenarios developed from the scenario matrix, based on two primary dimensions and which were probed one after the other. (See @codesign). The scenarios presented during the co-design session are as follows: 
 
@@ -182,7 +183,7 @@ Once all the scenarios were presented and probed, with the full knowledge of all
 ) <phases>
 #text(red)[ explain about scenarios ]
 
-Conducting the co-design sessions in above described manner successfully informed this study's two aims, namely: (1) to develop understanding in how the agency should be distributed between therapists and computational system across all four main phases of therapy (See figure 1b), and (2) to create a concept-design prototype of the therapist interface based on the findings.
+Conducting the co-design sessions in above described manner successfully informed this study's two aims, namely: (1) to develop understanding in how the agency should be distributed between therapists and computational system across all four main phases of therapy (See @phases), and (2) to create a concept-design prototype of the therapist interface based on the findings.
 
 == Participants
 The participants were selected through a purposive sampling method *(ADD SOURCE)* where only individuals who attained one or several of the following criteria's were invited: (1) Works or has worked as a clinical occupational therapist, (2) Works or has worked as a clinical physiotherapist, (3) PhD students, professors and/or researchers within occupational therapy, physiotherapy and/or rehabilitation field. These requirements were essential in both attaining a contextual inquiry and qualitative data from the co-design session. //include exp. and knowledge and skill. 
@@ -206,12 +207,12 @@ Several networks was used to recruit therapists and/or researchers fulfilling ab
   
     [*P5*], [Clinical OT,  \ BS end-user], [11 yrs], [Distro], [Contextual Interview, \ Co-Design Session],
   
-    [*P6*], [Clinical OT, Researcher], [x], [Leisure Games], [ Pilot Study, \
+    [*P6*], [Clinical OT, Researcher], [10 years], [Leisure PC Games], [ Pilot Study, \
     Co-Design Session],
   
-    [*P7*], [OT, PhD], [x], [Leisure Games], [ Co-Design Session],
+    [*P7*], [OT, PhD], [15 years], [Leisure Mobile/Tablet Games], [ Co-Design Session],
   
-    [*P8*], [Physiotherapist], [x], [Wii Games], [ Co-Design Session],
+    [*P8*], [Physiotherapist], [5 years], [Wii Games,], [ Co-Design Session],
   
   ),
   caption: [Participants Background.], 
@@ -227,9 +228,9 @@ The affinity diagramming was first applied on the entire contextual inquiry, bot
   caption: [Phases in affinity diagramming for co-design sessions]
 )<analysis>
 
-The affinity diagramming on the co-design sessions was however done through three main phases. In the first phase, each co-design workshop was reviewed independently and systematically by the sections, namely: therapy phases, scenario 1, scenario 2, scenario 3, scenario 4, desired system, and future (see @analysis). In the second phase, insights from all participants were clustered to create subthemes by each section of the co-design session again (see Fig; check DiVA). In the last phase, insights from all scenarios (1-4) were clustered into bigger subthemes to find the nominating factors that therapists value, thus creating the final main themes: (1) Control, (2) The Paradox in Details, (3) Digitalized Rehabilitation Still Necessitates Human-Human Interaction, (4) Digitilized Rehabilitation is the future, and *(5) Desired System*. 
+The affinity diagramming on the co-design sessions was however done through three main phases. In the first phase, each co-design workshop was reviewed independently and systematically by the sections, namely: therapy phases, scenario 1, scenario 2, scenario 3, scenario 4, desired system, and future (see @analysis). In the second phase, insights from all participants were clustered to create subthemes by each section of the co-design session again. In the last phase, insights from all scenarios (1-4) were clustered into bigger subthemes to find the nominating factors that therapists value, thus creating the final main themes: (1) Control, (2) The Paradox in Details, (3) Digitalized Rehabilitation Still Necessitates Human-Human Interaction, (4) Digitilized Rehabilitation is the future, and *(5) Desired System*. 
 
-Finally, the design activity "desired system" was compared with one question in particular which was repeatedly asked during all scenarios (_"if you could have this scenario in only one of the 4 therapy phases, in which phase would it be the most valuable to have?"_) and then analyzed. The reason for comparing those was to determine if any contradictions would arise between the activity and the question (See @designsystem. 
+Finally, the design activity "desired system" was compared with one question in particular which was repeatedly asked during all scenarios (_"if you could have this scenario in only one of the 4 therapy phases, in which phase would it be the most valuable to have?"_) and then analyzed. The reason for comparing those was to determine if any contradictions would arise between the activity and the question (See @designsystem). 
 
 //include figures to display our process (see hannah and joel thesis and others) 
 //find out what to do between findings and prototype talk about how we did a MoSCoW on all these findings/themes in order to prioritize the focus of our prototype(s) *if we actually do prototype(s)*

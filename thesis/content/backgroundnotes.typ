@@ -66,11 +66,3 @@ Level of Automation
 // *Pedro comment: this stuff should be in background instead. specially if there's prior research on automated rehab
 
 // Vidal : https://dl.acm.org/doi/10.1145/3706598.3713823 
-
-
-MARWAH TO DO LIST:
-1. read/adjust through background, DONE
-2. fix introduction - will probably fix later in the day cuz im braindamaged atm
-3. write abstract - DONE
-4. write conclusion - DRAFT DONE
-5. add sources to discussion - soon

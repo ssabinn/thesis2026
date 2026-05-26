@@ -2,17 +2,17 @@
 #import "content/0. abstract.typ": abstract-content 
 
 #show: umu-informatics-master-thesis.with(
-  title: "Agency of control",
-  subtitle: "Agency Distribution Across Therapeutic Process in Exergame-based Rehabilitation",
+  title: "In Control?",
+  subtitle: "Exploring Human–AI Co-Performance in Exergame Rehabilitation",
   authors: (
     (first-name: "Sabin", last-names: "Bhandari"),
     (first-name: "Marwah", last-names: "Saleh"),
   ),
   abstract: abstract-content,
-  keywords: ("More-Than-Human Design", "Agency", "Therapist Interface", "Adaptive Systems", "Exergames", "Rehabilitation"),
-  thesis_number: "2026.XX",
-  thesis_type: "Master thesis, 30 hp",
-  program_name: "Human-Computer Interaction and UX",
+  keywords: ("Co-performance", "Agency", "Entanglement HCI", "AI-Supported Systems", "Exergames", "Rehabilitation", ),
+  thesis_number: "2026.05",
+  thesis_type: "Master Thesis, 30 hp",
+  program_name: "Human-Computer Interaction and User Experience",
 )
 
 //external collaboration 
@@ -52,3 +52,18 @@
 #include "content/Appendix.typ"
 // #include "appendix/testappe.typ"
 // #include "appendix/testappe.typ"
+
+
+// === student == //
+
+#let studentcont(body) = {
+  set heading(numbering: none)
+  counter(heading).update(0)
+  show heading.where(level: 1): set heading(supplement: "Students")
+
+  pagebreak()
+  body
+}
+#show: studentcont
+
+#include "content/StudentContribution.typ"
