@@ -71,6 +71,25 @@ Altogether, therapists phase-dependant preferences highlights discrepancies betw
 
 The findings suggest that AI-supported exergame-based rehabilitation systems should not be designed around a fixed level of automation but around how agency can shift across the different phases of the rehabilitation. Based on this, the following design implications focus on agency and control, and on UX and information design can be presented.
 
+
+Our central design claim is that AI-supported exergame rehabilitation should be designed around the configurability of the human–AI boundary, not around a fixed level of automation. 
+The design problem is not how much to automate through AI but how to make the agential cut easily configurable by the therapist, by phase, and under shifting conditions of time and trust.
+
+
+_Phase-dependant co-performance_: The cut should be defined per phase and not defined as a fixed division. Human-led during Assessment and Goal Setting, Shared in Session Planning and During Session, and System-Led for analysis in evaluation. This implication is only applicable where where the practice is structured and cyclical, and might be less applicable where the phase boundaries are not clear. 
+
+_The cut is enacted and not fixed_: The sense of agency is supported by retaining the ability to re-draw the cut. This ability to make the cut i.e. intervene, adjust, and override should be an always-present action, and not buried under settings. The availability of this intervention matters as much as it use. 
+
+_Default to Less, but provide for more:_ It is important to provide default 
+
+
+
+
+
+
+
+*FUCK EVERYTHING I HAVE WRITTEN BELOW*
+
 === Agency and Control
 
 1. Since therapists preferred different level of system control across assessment & goal-setting, session planning, rehabilitation sessions, and post-evaluation sessions, the system should be designed with phase-specific agency distribution.

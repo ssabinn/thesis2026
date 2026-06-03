@@ -70,7 +70,7 @@ The figure also displays how many times each scenario was picked in total, where
 
 #figure(
   image("../images/barchart.png"),
-  caption: [Results of ......]
+  caption: [Cumulative results of "Desired System" activity in co-design Sessions]
 ) <systemdesign>
 
 The @systemdesign also suggests that the participants do not want fully automated system for _Assessment & Goal-Setting_ nor in _Session Planning_ as they need more control in early stages to provide individualized rehabilitation as P4 describes below:

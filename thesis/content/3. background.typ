@@ -1,3 +1,4 @@
+// clarify that we are focusing on AI and not automation
 
 = Background
 This section presents relevant research and frameworks to establish an overview of research on therapist interfaces for rehabilitation through exergames. The chapter covers the following areas: (1) Exergames & Automation in Rehabilitation, (2) More-than-Human Agency, and (3) Therapist Interfaces for Exergame-Based Rehabilitation.
@@ -24,7 +25,9 @@ These subjective information like patient preferences and feedback, patient moti
 
 //connect with below section
 
-== More-than-Human Agency 
+//== More-than-Human Agency 
+== From Entanglement to Co-Performance
+
 From more-than-human perspective in Human Computer Interaction (HCI), computational systems can be viewed as co-creators of actions, phenomena, and experiences, and not just as tools "used by" humans @Frauenberger2019. In relation to these systems, humans are not acting alone. The fourth wave emphasizes the need to move away from the notion of human-centered design where humans are autonomous decision-makers interacting with neutral tools, or view computational systems as autonomous tools that simply replace humans. Instead, the fourth wave view them as co-performers where humans and computational systems continuously shape each other and perform social practices together @Frauenberger2019 @Kuijer2018. As such, agency is not something human posses individually or independently, but rather relational and distributed across relationships between humans, technologies, institutions, environments, and norms. 
 
 Therefore, from a more-than-human perspective, agency in rehabilitation can be presented as distributed across humans (therapists and patients) and non-humans (such as exergame systems, algorithms, interfaces, sensors, data representations, institutions, and even regulatory frameworks, rather than being possessed by any single actor @GiaccardiRedstrom2020 @Frauenberger2019. As these system become more data-driven, healthcare decisions are increasingly influenced by algorithmic logic and historical data apart from just therapist reasoning @Jones2023. This means, in the context of exergame-based rehabilitation, therapy outcomes would be shaped not only by therapists' decisions and patients' performance, but also by how algorithms classify performance, how data is presented, what data is shown or hidden, what technology is used, and even institutional and legal constraints. This reiterates the fact that design in therapeutic scenarios is more about configuring relationships and agencies among multiple human and nonhuman actors over time, rather than just optimizing features within an interface. 

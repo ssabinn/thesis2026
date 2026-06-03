@@ -15,3 +15,6 @@ Evidently, the existing systems in research do not address the sense of therapis
 
 *RQ2:* How do therapists' preferences for agency distribution between themselves and a system (AI) vary across the main phases of exergame-based rehabilitation (i.e. Assessment & Goal-setting, Session Planning, Rehabilitation Session, and Post-Session Evaluation)?
 
+
+
+*Here when we mean AI, we include ML, Generative AI, and even Agentic AI*

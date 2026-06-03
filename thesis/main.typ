@@ -2,7 +2,7 @@
 #import "content/0. abstract.typ": abstract-content 
 
 #show: umu-informatics-master-thesis.with(
-  title: "In Control?",
+  title: "Agency by Design",
   subtitle: "Exploring Human–AI Co-Performance in Exergame Rehabilitation",
   authors: (
     (first-name: "Sabin", last-names: "Bhandari"),
@@ -10,8 +10,8 @@
   ),
   abstract: abstract-content,
   keywords: ("Co-performance", "Agency", "Entanglement HCI", "AI-Supported Systems", "Exergames", "Rehabilitation", ),
-  thesis_number: "2026.05",
-  thesis_type: "Master Thesis, 30 hp",
+  thesis_number: "2026.06",
+  thesis_type: "Master Thesis, 30 HP/ECTS",
   program_name: "Human-Computer Interaction and User Experience",
 )
 
@@ -31,9 +31,7 @@
 //#include "formatting/appendix.typ"
 //#bibliography("references.yaml", style: "harvard-cite-them-right")
 
-
-
-#bibliography("works.bib", style: "apa", title: "References")
+#bibliography("works.bib", style: "harvard-cite-them-right", title: "References")
 
 
 
