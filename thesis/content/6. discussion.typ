@@ -96,7 +96,7 @@ _Preserve Therapeutic Alliance:_ Reserve certain performances like observing, re
 
 
 
-
+/*
 *FUCK EVERYTHING I HAVE WRITTEN BELOW*
 
 === Agency and Control
@@ -122,3 +122,5 @@ _Preserve Therapeutic Alliance:_ Reserve certain performances like observing, re
 // relate to this 
 // https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00073 
 //Results highlight that 70% of participants preferred a hybrid personalization mode, combining automated and manual adjustments. For synchronization, 50% favored a hybrid approach, while 40% preferred real-time (synchronous) updates. According to the questionnaire responses on personalization, the most valued data type was motivation (70%), followed by emotional state and reaction to stimuli (60% each). 
+
+*/

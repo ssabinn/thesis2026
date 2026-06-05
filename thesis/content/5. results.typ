@@ -106,10 +106,8 @@ Additionally, similar to the results from the contextual inquiry, time was again
 
   _“I would say yes, because I'm human and… sometimes you don't have the time or the effort to do it”_ - P4
 
-  #quote[I would say yes, because I'm human and… sometimes you don't have the time or the effort to do it]
+  #quote(block:true)["I would say yes, because I'm human and… sometimes you don't have the time or the effort to do it" (P4)]
 
-
-  
 This trade-off had a clear limit though, as the therapists still prioritized patient’s care if they believed additional time or effort would significantly provide better outcomes for the patient. 
   
   _“No extra control is not worth the time, unless it gives a better outcome”_ -P7
@@ -144,6 +142,8 @@ _"Rehabilitation process is not always linear that goes from progress to progres
 This became even more conclusive when all participants stated they would rather see the patient over additional quantitative data enabled through technology. The participants argued that not having access to observe the patient, meant the therapist could not give or receive feedback, and therefore not be able to take patient's requests and state of mind into account. The participants emphasis on human connection and its impact on the therapy was well articulated by P8:
 
   _"Digitalized therapy can be like an adjunct, it can't fully take away from what we do, that kind of patient connection and the utilization of clinical reasoning and skills on site."_ - P8
+
+  
 
 One participant in particular *(P6)* also illuminated the issue of not being able to determine whether the patient had actually done the assigned exercises and improved, or had another person do the exercises for them if they were to never meet the patient for checkups. The participant further elaborated that this could increase the chances of incorrect assessment which could lead to detrimental consequences for both the patient and the therapist. Regardless, the participant could still see the potential of some remote rehabilitation with more infrequent meetings as: 
 

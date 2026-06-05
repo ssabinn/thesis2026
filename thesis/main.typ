@@ -31,7 +31,7 @@
 //#include "formatting/appendix.typ"
 //#bibliography("references.yaml", style: "harvard-cite-them-right")
 
-#bibliography("works.bib", style: "harvard-cite-them-right", title: "References")
+#bibliography("works.bib", style: "elsevier-harvard", title: "References")
 
 
 

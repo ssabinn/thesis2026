@@ -28,7 +28,7 @@
     program_name: program_name,
   )
   
- // ==================== PAGE SETUP ====================
+  // ==================== PAGE SETUP ====================
   set page(
     paper: "a4",
     margin: 2.5cm,
@@ -38,30 +38,46 @@
   
   // ==================== TEXT SETUP ====================
   set text(
-    font: "Georgia", 
-    size: 11pt, 
-    top-edge: 0.75em, 
-    bottom-edge: -0.25em
+    //font: "Noto Serif Georgian",
+    font: "Georgia",
+    size: 11pt,
+    top-edge: 0pt,
+   bottom-edge: 0pt,
   )
+  
+  // align("left")
+  //show par: set text(top-edge: 0pt, bottom-edge: 0pt)
   
   // ==================== PARAGRAPH SETUP ====================
-  let line_spacing = 16 
-  let font_size = 11
-  let leading = line_spacing - font_size
-  
+
+  //let line_spacing = 16 
+  //let font_size = 11
+  //let leading = line_spacing - font_size
+
+  // set par(
+  //   justify: true,
+  //   leading: 16pt, // 16pt total line spacing - 11pt font = 5pt leading
+  //   first-line-indent: 0.5cm,
+  //   spacing: 16pt, 
+  // )
+
   set par(
-    justify: true,
-    leading: 4pt,
-    spacing: 5pt,
-    first-line-indent: 0.5cm
-  )
+  leading: 0pt,
+  spacing: 0pt,
+  justify: true,
+  first-line-indent: 0.5cm,
+)
+show par: set text(top-edge: 13pt, bottom-edge: -3pt)
   
+ 
   // ==================== HEADING STYLES ====================
+  
+  /* OLD one 
   set heading(numbering: "1.1")
-  let extra = 7   // visual leading to simulate; tune this one number
-  let heading_spacing_1 = 6 + extra
-  let heading_spacing_2 = 3 + extra
-  let heading_spacing_3 = 0 + extra
+
+  let heading_spacing_1 = leading + 4
+  let heading_spacing_2 = leading + 2
+  let heading_spacing_3 = leading + 0
   
   show heading.where(level: 1): it => {
     set text(size: 16pt, weight: "bold")
@@ -78,6 +94,36 @@
   show heading.where(level: 3): it => {
     set text(size: 12pt, weight: "bold")
     set block(above: 12pt, below: heading_spacing_3 * 1pt)
+    it
+  }
+
+  show heading.where(level: 4): it => {
+    set text(size: 12pt, weight: "semibold")
+    set block(above: 12pt, below: heading_spacing_3 * 1pt)
+    it
+  }
+  */
+
+  set heading(numbering: "1.1")
+
+  show heading.where(level: 1): it => {
+    set text(size: 16pt, weight: "bold", font: "Georgia")
+    set block(above: 24pt, below: 6pt, height: auto,)
+    it
+  }
+  show heading.where(level: 2): it => {
+    set text(size: 14pt, weight: "bold", font: "Georgia")
+    set block(above: 12pt, below: 3pt)
+    it
+  }
+  show heading.where(level: 3): it => {
+    set text(size: 12pt, weight: "bold", font: "Georgia")
+    set block(above: 12pt, below: 0pt)
+    it
+  }
+  show heading.where(level: 4): it => {
+    set text(size: 12pt, weight: "semibold", font: "Georgia")
+    set block(above: 12pt, below: 0pt)
     it
   }
   
@@ -98,19 +144,16 @@
   }
   
   // ==================== FOOTNOTE FORMATTING ====================
-  set footnote.entry(
-    separator: line(length: 30%, stroke: 0.5pt),
-    clearance: 0.5em,
-    gap: 0.5em,
-  )
-  
+
+
   show footnote.entry: it => {
-    set text(size: 10pt)
-    set par(first-line-indent: 0pt) // single spacing = default leading
-    it
-  }
-  
-  // ==================== QUOTE FORMATTING ====================
+  set text(size: 10pt, font: "Georgia", top-edge: "cap-height", bottom-edge: "baseline")
+  set par(leading: 0.65em, first-line-indent: 0pt)   // single spacing
+  it
+}
+
+
+ // ==================== QUOTE FORMATTING ====================
   show quote.where(block: false): it => {
     ["] + h(0pt, weak: true) + it.body + h(0pt, weak: true) + ["]
     if it.attribution != none [ #it.attribution]
@@ -118,15 +161,13 @@
   
   // Long quotes: italic, 1cm inside both margins, 15pt line spacing
   show quote.where(block: true): it => block(
-    above: 1.2em,
-    below: 1.2em,
   )[
     #pad(left: 1cm, right: 1cm)[
-      #set par(leading: 4pt) // 15pt line spacing - 11pt line box = 4pt
+      #set par(leading: 15pt, spacing: 15pt) 
       #text(style: "italic")[#it.body]
     ]
   ]
-
+  
   // ==================== ABSTRACT ====================
   
   // if abstract != none [
