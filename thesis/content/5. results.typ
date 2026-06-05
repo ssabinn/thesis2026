@@ -57,10 +57,10 @@ When asked about interface, the participants wanted simpler settings and exergam
 Interestingly, when inquired about "who adjusts the settings and exergame parameters" between themselves and the system, the participants preferred hybrid agency despite wanting to be in full control. One participant (P1) clearly illustrated this contradiction through conducted research on self-rehabilitation with minimal therapists supervision which was found to be successful, despite therapists advocating for full control and presence. This finding reinforced the need to focus on the agency in both reasoning and execution as the primary dimensions (See Pilot Study Adjustment 4). 
 
 == Co-Design Sessions
-The co-design sessions were conducted one-on-one with 4 occupational therapists and 1 physiotherapist. The sessions resulted in five main themes: (1) Desired System, (2) Conditional Control (3) The Paradox in Details, (4) Human-Human Interaction, and (5) Digitalized Future.
+The co-design sessions were conducted one-on-one with 4 occupational therapists and 1 physiotherapist. The sessions resulted in five main themes: (1) Desired System, (2) Conditional Control (3) The Paradox in Details, (4) Human-Human Interaction, and (5) Digitalized Futur Rehabilitation.
 
 === Desired Agency in Phases
-All participants (P4-P8) were tasked with designing their own system throughout all phases of rehabilitation (see @designsystem) by assigning the scenarios (see @codesign) to each of the four phases: (1) Assessment & Goal-Setting, (2) Session Planning, (3) Rehabilitation Session, and (4) Post-Session Evaluation (see @phases). The scenarios were: (S1) a system with full human agency of the rehabilitaiton process without system support, (S2) a system that provides recommendations, (S3) a system which requires instructions as inputs by the therapists, and (S4) a system with full automation with therapists-on-the-loop. Each participant was informed to use one or more scenario cards as they see fit for each phase. The participants were also informed that they could use the same scenario card for all phases if they desired. 
+All participants (P4-P8) were tasked with designing their own system throughout all phases of rehabilitation (see @designsystem) by assigning the scenarios (see @codesign) to each of the four phases: (1) Assessment & Goal-Setting, (2) Session Planning, (3) Rehabilitation Session, and (4) Post-Session Evaluation (see @phases). The scenarios were: (S1) a system with full human agency of the rehabilitation process without system support, (S2) a system that provides recommendations, (S3) a system which requires instructions as inputs by the therapists, and (S4) a system with full automation with therapists-on-the-loop. Each participant was informed to use one or more scenario cards as they see fit for each phase. The participants were also informed that they could use the same scenario card for all phases if they desired. 
 
 @systemdesign displays how the participants distributed each of the scenarios among the four phases during the designing of the desired system (See @designsystem). During the _assessment & goal-setting phase_, the participants preferred Full Human Agency (_S1_) and Prompt System (_S3_), both of which provided full autonomy and control of decision-making to the therapists without assistance from the system. For _Session Planning_, therapists preferred assistance from system either for recommendations on clinical reasoning preferring (_S2_), or for execution of the decisions (_S3_). The results indicated therapists would prefer to automate the actual rehabilitation sessions either partially in reasoning (S2) or fully (S4). Similarly, the therapists seem to prefer partial or fully automated system to evaluate and reflect after the session is completed with results indicating preference for recommendation system (_S2_), Prompt System (_S3_) and Full System Agency (_S4_). 
 
@@ -73,9 +73,9 @@ The figure also displays how many times each scenario was picked in total, where
   caption: [Cumulative results of "Desired System" activity in co-design Sessions]
 ) <systemdesign>
 
-The @systemdesign also suggests that the participants do not want fully automated system for _Assessment & Goal-Setting_ nor in _Session Planning_ as they need more control in early stages to provide individualized rehabilitation as P4 describes below:
+The @systemdesign also suggests that the participants do not want fully automated system for _Assessment & Goal-Setting_ nor in _Session Planning_ as they need more control in early stages to provide individualized rehabilitation as P5 describes below:
 
-  _"I like to be in control because every person that I meet is different and every day is different." - P4_
+  _"I would like to understand what the impairment are, I want to have like full control. I want to test some different things and then I don't want to like a computer to decide." - P5_
 
 During each scenario walk-through, all co-design participants were also asked at which phase they would find a scenario to be most useful before they got to design their own system. Out of the five co-design participants, only two participants (P4, P7) resulted in conflicting discrepancies. P4 had elaborated that Scenario 1 (Full Human Agency) would be the most useful for _session planning_ and _evaluation session_ at first, then changed their mind and picked rehabilitation session. When P4 however designed their own system, they assigned Scenario 1 (Full Human Agency) to _Assessment & Goal-Setting_ and nothing else, despite knowing they could use the same scenario for all phases. P7 on the other hand had appointed _Scenario 2_ (Recommendation System) to be most useful for _Assessment & Goal-Setting_, yet only picked Scenario 3 (Prompt System) for _Assessment & Goal-Setting_ when designing the desired system. P7 also did this despite knowing they could combine several scenarios for the same phase as well. 
 
@@ -94,17 +94,21 @@ Participants also mentioned relying too heavily on the system would reduce their
 
   _“As long as I can adjust if I want to, of course, then it could be a good alternative.”_ - P5
 
-In contrast, three out of the five participants (P4, P6, P8) did not prefer a fully autonomous system (Scenario 4), even if they were able to override rehabilitation parameters. They associated full automation with a loss of control over the rehabilitation process and expressed concern about how this would affect their role as a therapists and the patient-therapist relationship. However, two participant (P5, P7) were largely positive about the fully autonomous system (Scenario 4) as long as they could override, elaborating that their work would be easier this way and allow them to focus on patient goals. 
+In contrast, three out of the five participants (P4, P6, P8) did not prefer a fully AI system (Scenario 4), even if they were able to override rehabilitation parameters. They associated full automation with a loss of control over the rehabilitation process and expressed concern about how this would affect their role as a therapists and the patient-therapist relationship. However, two participant (P5, P7) were largely positive about the fully AI system (Scenario 4) as long as they could override, elaborating that their work would be easier this way and allow them to focus on patient goals. 
 
 _“If this was the main therapy, I would have a problem with this ... My opinion wouldn’t change even if I could override things”_ - P6
 
-Even across scenarios, the participants agreed on a hybrid pattern of control of pre-planning supported by live adjustments during the session with patient. These adjustments were fine-tuning rather than a complete replanning but were still viewed as important to account for patient fatigue, pain or day-to-day variations. These feeling remained consistent across all scenarios except the fully autonomous system.
+Even across scenarios, the participants agreed on a hybrid pattern of control of pre-planning supported by live adjustments during the session with patient. These adjustments were fine-tuning rather than a complete replanning but were still viewed as important to account for patient fatigue, pain or day-to-day variations. These feeling remained consistent across all scenarios except the fully AI system.
   
   _“Every great plan can crumble quite quickly depending on like, say, fatigue, pain.”_ - P8
 
 Additionally, similar to the results from the contextual inquiry, time was again a central factor, this time in regards to how much control participants were willing to let go of. Time was described as a luxury in healthcare that competed with realities of clinical practice with P8 noting _“time constraint is probably one of our biggest things that stop us from kind of delivering like better therapy”_. Under this time pressure, all participants said they would be willing to accept system's plan and parameters, even if they were imperfect for the moment, rather than interrupt the rehabilitation session, if the required time or effort was too high, as long as there was no harm to the patient. 
 
   _“I would say yes, because I'm human and… sometimes you don't have the time or the effort to do it”_ - P4
+
+  #quote[I would say yes, because I'm human and… sometimes you don't have the time or the effort to do it]
+
+
   
 This trade-off had a clear limit though, as the therapists still prioritized patient’s care if they believed additional time or effort would significantly provide better outcomes for the patient. 
   
@@ -123,7 +127,7 @@ Similarly, all participants (P4-P8) also described they prefer to give instructi
   
   _“You might want to wish to improve (the range of motion) but I don't think the system should tell you how much to increase by.”_ - P8 
 
-Participants (P4-P8) saw detailed output as most useful in moments of disagreement or uncertainty, which required further investigation to check its validity or to learn. When there was a discrepancies between system reasoning and their own, one participant (P6) explained “you would probably have to like think about why would it say that why would the system say that of course you would have to make that reflection”. Regardless of the composition of agency between human-machine, the higher degree of granularity was important either to understand why there was difference in reasoning, or to learn why the system provided recommendation or what changes the system made based on their instructions. The participants viewed the high granularity to explain the system’s reasoning and system’s processes as a positive requirement. They mentioned this framing was particularly valuable for novice therapists to learn reasoning behind therapeutic decisions. 
+Participants (P4-P8) saw detailed output as most useful in moments of disagreement or uncertainty, which required further investigation to check its validity or to learn. When there was a discrepancies between system reasoning and their own, one participant (P6) explained “you would probably have to like think about why would it say that why would the system say that of course you would have to make that reflection”. Regardless of the composition of agency between human-AI, the higher degree of granularity was important either to understand why there was difference in reasoning, or to learn why the system provided recommendation or what changes the system made based on their instructions. The participants viewed the high granularity to explain the system’s reasoning and system’s processes as a positive requirement. They mentioned this framing was particularly valuable for novice therapists to learn reasoning behind therapeutic decisions. 
   
   _“would be nice to know the why the recommendation is set.”_ -(P7)
   
@@ -151,13 +155,13 @@ All of the above mentioned reasoning were persistently connected to how essentia
 
 There were however some contextual situations where the participants (P4-P8) could consider not seeing the patient at all. Those were only if (1) the system was ethical and secure for remote use and if the patient would agree to being recorded for the purpose of observation and feedback, (2) whether or not the patient is in need of frequent feedback, further emphasizing the importance of not losing the human interaction in rehabilitation and (3) trust that the system would provide effective rehabilitation.
 
-=== Digitalized Future
+=== Digitalized Future Rehabilitation
 
 The participants were uncertain whether the type of medium for digitalized rehabilitation would affect the workflow in their rehabilitation process, all participants agreed AI-supported digitalized rehabilitation is the future. One participant (P4) with 25 years of experience as an OT illuminated the change in attitude towards digital therapy: 
 
 "As an OT, when I started, it was frowned upon, and . . . now, everyone is doing computers or tablets . . . it's a huge part of the activities that we do every day" . - P4
 
-While every participant agreed that we are moving towards AI-supported digital therapy, the level of digitalization varied from simple digitalized assessment (P5) to fully automated therapy system (P4, P6). P6 hoped that the access to rehabilitation for people who wouldn’t have otherwise received is one of the outcome of more technologically advanced rehabilitation system while P8 hoped that the technology is more helpful than harmful and that we do not lose our patient-centeredness because of it. 
+While every participant agreed that we are moving towards AI-supported digital therapy, the level of digitalization varied from simple digitalized assessment (P5) to fully AI therapy system (P4, P6). P6 hoped that the access to rehabilitation for people who wouldn’t have otherwise received is one of the outcome of more technologically advanced rehabilitation system while P8 hoped that the technology is more helpful than harmful and that we do not lose our patient-centeredness because of it. 
 
   _“I don’t want technology to take away from the humanization of what we do, but it could definitely assist us in being more thoughtful to aid that clinical reasoning and help us be more efficient.” - P8_
 

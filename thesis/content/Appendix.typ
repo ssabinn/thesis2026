@@ -150,7 +150,8 @@ The images for the personas and scenarios were created using Gemini Nano Banana 
   caption: [Scenario 4: Full System Agency]
 )<scenario4>
 
+== Analysis <analysis-example>
 
-
-
-
+#figure( image("../images/analysis_example.png"),
+  caption: [Analysis Example of "Conditional Control"]
+) <analysisexample>

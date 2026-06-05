@@ -2,86 +2,35 @@
 // Note that as an appendix to the essay, if a thesis is written in a pair, there must also be a short account - at most one page - of each student's contribution to the thesis project. There is a template available in Canvas showing how this should be written. The reason why this appendix should be included with the report is that students' performance should be able to be assessed individually also in connection with group (or pair) work. Note that each student must contribute to all assessment criteria for the thesis project, but within each criterion you can of course divide work. A single author does not need such a description. As the thesis has a page limit you might want to consider placing some images and tables (that are not crucial for understanding your argumentation) in an appendix (as this is excluded from the page count). All appendices should be numbered and placed at the end of the thesis, after the reference list. The same layout instructions should be applied to the text in the appendix. The only difference is that you must include a header like in the two appendices to this document. A maximum of 10 pages can be used for appendices.
 
 
-/*
+
 = STUDENT CONTRIBUTIONS
 
 == NAME OF STUDENTS
-Sabin Bhandari & Marwah Saleh
+Marwah Saleh & Sabin Bhandari
 
 == SUPERVISION
 Eight supervision sessions were conducted jointly and one supervision session was attended by Sabin alone with our supervisor, Pedro Sanches.  
 
 == AI USE
-We used Gemini Nano Banana 2 for image generations to our scenarios in co-design session. To find additional synonyms, conjunctions and research papers, Consensus and ChatGPT was at times used when other sources were not enough. Perplexity AI was used to check for grammatical errors.
+We used Gemini Nano Banana 2 for image generations to our scenarios in co-design session. To find additional synonyms, conjunctions and research papers, Consensus, Google Scholar Labs, and ChatGPT was at times used when other sources were not enough. Perplexity AI was sometimes used to check for grammatical errors.
 
 == RESEARCH QUESTION AND AIM
-Sabin Bhandari & Marwah Saleh
+We both formulated and re-formulated the research question and aim for the thesis study.
 
 == RELATED RESEARCH 
-Both
+We both went through the related research and worked on it together, both on writing and structuring.
+
 == RESEARCH DESIGN AND METHODOLOGY
-Both
+Both of us worked on designing the research and methodology as well as writing.
 
 == DATA ANALYSIS
+Both of us participated in interviews, observation, and co-design sessions. We independently divided participants among us to transcribe and did coding. The affinity diagramming and final analysis was performed together. Both worked on different sections when writing results and went through them together again.
 
 == DISCUSSION
+The discussion points were discussed and planned together. We then divided the points for us to write individually. They were later synthesized together.
 
 == CRITICAL REFLECTION
-Both 
+We both participated in the critical reflection during discussion sessions. Additionally, Marwah worked on ethical considerations, study limitations and future research. 
 
 == LANGUAGE, STRUCTURE, FORMAT
-
-
-
-== Short account
-Abstract - Marwah
-1.0 Introduction - Marwah & Sabin
-2.0 Background - Marwah
-2.1 Exergames & Automation in Rehabilitation - Sabin
-2.2 More-than-human Agency - Sabin
-2.3 *Therapist Interfaces for Exergame-based Therapy (phases)* - Marwah
-3.0 Methodology - Marwah
-3.1 Case Study - Marwah
-3.2 Research through Design - Sabin
-3.3 Epistemology & Research Design - Marwah
-3.4 Data Collection Techniques - Marwah
-3.4.1 Contextual Inquiry A - Interviews, Marwah
-3.4.2 Contextual Inquiry B - Observation, Marwah
-3.4.3 Speculative Co-Design Sessions - Marwah & Sabin
-3.4.3.1 Pilot Study - Sabin
-3.4.3.2 Final Co-Design Session - Sabin
-3.5 Participants - Marwah
-3.6 Qualitative Data Analysis - Marwah
-3.7 Ethical Considerations - Marwah
-4. Results - Marwah
-4.1 Contextual Inquiry - Marwah
-4.1.1 Phases of Therapy - Marwah
-4.1.2 Current System and Technology Benefits & Limitations - Marwah
-4.1.3 Ideal Digitalized Rehabilitation - Sabin
-4.2 Co-Design Session - Marwah
-4.2.1 Desired System - Marwah & Sabin
-4.2.2 Conditional Control - Sabin
-4.2.3 The Paradox in Details - Sabin
-4.2.4 Digitalized Rehabilitation Still Necessitate Human Interaction - Marwah
-4.2.5 Digitalized Rehabilitation is the Future - Sabin
-5.0 Discussion - Marwah & Sabin
-5.1 Key Findings - Marwah
-5.2 *Agency ?* - Marwah & Sabin
-5.3 *Agency Distribution across the Main Phases* - Sabin
-5.4 Design Implications - Sabin
-5.5 Study Limitations - Marwah
-5.6 Future Research - Marwah
-6. Statement for Conflict of Interest - Marwah
-7. Conclusion - Marwah
-
-Typst & Github configuration for thesis writing - Sabin
-Table of Contents - Sabin
-Tables - Sabin
-Figures - Sabin
-Reference list - Sabin
-Appendices - Sabin
-
-Both students have also, together, went through all study sections and elaborated, re-structured, re-formulated, standardized and added additional connections to background literature.
-
-
-*/
+Marwah worked on fixing the structure and language of the thesis while Sabin worked on fixing the format, appendices, and figures in Typst. Additionally, both students have also, together, went through all study sections and elaborated, re-structured, re-formulated, standardized and added additional connections to background literature.
