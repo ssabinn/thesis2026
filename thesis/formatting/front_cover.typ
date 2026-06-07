@@ -10,7 +10,7 @@
   set page(numbering: none, margin: 2.5cm)
   
   align(center)[
-    #image("umulogo.png", width: 25%)
+    #image("umulogo.png", width: 30%)
   ]
   
   v(18%) // Large gap before the title
@@ -18,13 +18,15 @@
   align(center)[
     #set text(
       font: "Verdana",
-      size: 22pt, 
+      size: 32pt, 
       weight: "bold", 
-      tracking: 0.1pt)
+      tracking: 0.1pt, 
+    )
       #upper(title)
+      
   ]
   
-  v(1.5em)
+  v(-1em)
   
   align(center)[
     #set text(
@@ -35,7 +37,7 @@
     #subtitle
   ]
   
-  v(2em)
+  v(0em)
   
   let author_string = authors.map(a => [#a.first-name #a.last-names]).join(", ")
 

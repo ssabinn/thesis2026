@@ -147,7 +147,7 @@ The images for the personas and scenarios were created using Gemini Nano Banana 
 
 #figure(
   image("../images/scenario_4.png"),
-  caption: [Scenario 4: Full System Agency]
+  caption: [Scenario 4: Full System Agency],
 )<scenario4>
 
 == Analysis <analysis-example>

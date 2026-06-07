@@ -12,7 +12,7 @@ Marwah Saleh & Sabin Bhandari
 Eight supervision sessions were conducted jointly, and due to sickness one supervision session was attended by Sabin alone with our supervisor, Pedro Sanches.  
 
 == AI USE
-We used Gemini Nano Banana 2 for image generations to our scenarios in co-design session. Additionally ChatGPT and Perplexity were used to find additional synonyms, conjunctions, and check for grammatical errors. 
+We used Gemini Nano Banana 2 for image generations to our scenarios in co-design session. Additionally ChatGPT and Perplexity were used to find additional synonyms, conjunctions, and to check for grammatical errors. 
 
 == RESEARCH QUESTION AND AIM
 We both formulated and re-formulated the research question and aim for the thesis study.
@@ -33,4 +33,4 @@ The discussion points were discussed and planned together. We then divided the p
 We both participated in the critical reflection during discussion sessions. Additionally, Marwah worked on ethical considerations and future research. 
 
 == LANGUAGE, STRUCTURE, FORMAT
-Marwah worked on fixing the structure and language of the thesis while Sabin worked on fixing the format, appendices, and figures into Typst. Additionally, both students have also, together, went through all study sections and elaborated, re-structured, re-formulated, standardized and added additional connections to background literature.
+Marwah worked on fixing the structure and language of the thesis, while Sabin worked on fixing the format, appendices, and figures into Typst. Additionally, both students have also, together, went through all study sections and elaborated, re-structured, re-formulated, standardized and added additional connections to background literature.

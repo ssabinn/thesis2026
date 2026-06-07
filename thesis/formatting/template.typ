@@ -59,7 +59,7 @@
   // ==================== HEADING STYLES ====================
   set heading(numbering: "1.1")
   let extra = 7   // visual leading to simulate; tune this one number
-  let heading_spacing_1 = 6 + extra
+  let heading_spacing_1 = 4 + extra
   let heading_spacing_2 = 3 + extra
   let heading_spacing_3 = 0 + extra
   

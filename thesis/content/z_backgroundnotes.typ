@@ -66,3 +66,17 @@ Level of Automation
 // *Pedro comment: this stuff should be in background instead. specially if there's prior research on automated rehab
 
 // Vidal : https://dl.acm.org/doi/10.1145/3706598.3713823 
+
+
+
+
+
+
+// elaborate on human-in-the loop (section 4.1 immediacy)
+// Despite the mutual determination of humans and computer, the characterization of interaction is still tied to human intentionality, even when human agency, human-in-the-loop, and intentionality are no longer the only perspectives considered within the fourth wave @Comber2019. 
+
+// Additonally, These autonomous systems powered by AI and ML process information and make functional decisions in a "black box", without the awareness of therapists. These can give rise to algorithmic bias. 
+
+//agency is not a static property of subjects or objects, but a dynamic, practice-based and relational capacity that is exercised in concrete performances and socio-material configurations. Human and artificial entities both participate in enacting practices and realities, but humans retain a distinctive role in judging and negotiating what counts as appropriate, ethical, and desirable forms of those performances
+
+//Rehabilitation systems for exergame-based therapy are inherently socio-technical environments, where boundaries between human and system remains ambiguous and subject of this study's investigation. Entanglement HCI proposes using speculative, agonistic, and participatory methods to explore agency, its distribution, and responsibility (Frauenberger, 2019). Thus, 
