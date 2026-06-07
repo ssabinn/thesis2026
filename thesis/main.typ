@@ -5,16 +5,17 @@
   title: "Agency by Design",
   subtitle: "Exploring Human–AI Co-Performance in Exergame Rehabilitation",
   authors: (
-    (first-name: "Sabin", last-names: "Bhandari"),
     (first-name: "Marwah", last-names: "Saleh"),
+    (first-name: "Sabin", last-names: "Bhandari"),
   ),
   abstract: abstract-content,
   keywords: ("Co-performance", "Agency", "Entanglement HCI", "AI-Supported Systems", "Exergames", "Rehabilitation", ),
   thesis_number: "2026.06",
   thesis_type: "Master Thesis, 30 HP/ECTS",
-  program_name: "Human-Computer Interaction and User Experience",
+  program_name: "Master's Programme in Human Computer Interaction and User Experience",
 )
 
+https://umu.diva-portal.org/smash/record.jsf?dswid=-9086&pid=diva2%3A1877207&c=1&searchType=UNDERGRADUATE&language=en&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22kevin+dalli%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all 
 //external collaboration 
 
 #include "content/2. introduction.typ"

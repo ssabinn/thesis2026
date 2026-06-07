@@ -9,7 +9,7 @@
 Marwah Saleh & Sabin Bhandari
 
 == SUPERVISION
-Eight supervision sessions were conducted jointly and one supervision session was attended by Sabin alone with our supervisor, Pedro Sanches.  
+Eight supervision sessions were conducted jointly, and due to sickness one supervision session was attended by Sabin alone with our supervisor, Pedro Sanches.  
 
 == AI USE
 We used Gemini Nano Banana 2 for image generations to our scenarios in co-design session. To find additional synonyms, conjunctions and research papers, Consensus, Google Scholar Labs, and ChatGPT was at times used when other sources were not enough. Perplexity AI was sometimes used to check for grammatical errors.
@@ -18,7 +18,7 @@ We used Gemini Nano Banana 2 for image generations to our scenarios in co-design
 We both formulated and re-formulated the research question and aim for the thesis study.
 
 == RELATED RESEARCH 
-We both went through the related research and worked on it together, both on writing and structuring.
+We both went through the related research and worked on it together, and both on writing and structuring. We started with creating literature inventory in Google Sheet and regularly updated it as our study progressed. 
 
 == RESEARCH DESIGN AND METHODOLOGY
 Both of us worked on designing the research and methodology as well as writing.
@@ -30,7 +30,7 @@ Both of us participated in interviews, observation, and co-design sessions. We i
 The discussion points were discussed and planned together. We then divided the points for us to write individually. They were later synthesized together.
 
 == CRITICAL REFLECTION
-We both participated in the critical reflection during discussion sessions. Additionally, Marwah worked on ethical considerations, study limitations and future research. 
+We both participated in the critical reflection during discussion sessions. Additionally, Marwah worked on ethical considerations and future research. 
 
 == LANGUAGE, STRUCTURE, FORMAT
-Marwah worked on fixing the structure and language of the thesis while Sabin worked on fixing the format, appendices, and figures in Typst. Additionally, both students have also, together, went through all study sections and elaborated, re-structured, re-formulated, standardized and added additional connections to background literature.
+Marwah worked on fixing the structure and language of the thesis while Sabin worked on fixing the format, appendices, and figures into Typst. Additionally, both students have also, together, went through all study sections and elaborated, re-structured, re-formulated, standardized and added additional connections to background literature.

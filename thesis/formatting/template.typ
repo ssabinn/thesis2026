@@ -89,7 +89,7 @@
   }
   
   // Table captions above, figure captions below
-  show figure.where(kind: table): set figure.caption(position: top)
+  show figure.where(kind: table): set figure.caption(position: bottom)
   show figure.where(kind: image): set figure.caption(position: bottom)
   
   // No indent after figures
