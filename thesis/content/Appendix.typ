@@ -152,6 +152,6 @@ The images for the personas and scenarios were created using Gemini Nano Banana 
 
 == Analysis <analysis-example>
 
-#figure( image("../images/analysis_example.png"),
+#figure( image("../images/analysis_ex.png"),
   caption: [Analysis Example of "Conditional Control"]
 ) <analysisexample>

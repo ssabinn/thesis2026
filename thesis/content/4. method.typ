@@ -50,8 +50,9 @@ Overall, this study applies the four core activities in the double diamond desig
 
 #figure(
   image("../images/methods.png"),
-  caption: [Research Design]
+  caption: [Research Design],
 ) <method>
+
 
 == Data Collection Techniques
 This study adopted several data collection techniques, namely, interviews, an observation, and speculative co-design sessions. This approach was crucial for this study to (1) understand how therapists reason about their agency in relation to AI-supported systems for exergame-based rehabilitation and how it should be configured between therapists across the four main phases of rehabilitation (See @phases), and (2) design implications to potentially direct future researchers and product designers on how therapists preference for shared agency could be implemented (See @designimplications).
@@ -73,6 +74,12 @@ The pilot study was informed by case study, literature, and contextual inquiries
 
 In the pilot study, the participant was presented with seven futuristic and provocative rehabilitation system scenarios (See Appendix @pilotstudyscenarios) to probe the therapists' agency boundaries with the system, and the requirements for fine-grained settings and exergame parameters in different phases of rehabilitation. The scenarios were selected to highlight four dimensions listed below, that were important to their sense of agency, surfacing from previous research and the contextual inquiry (@section:contextualinquiry). 
 
+#figure(
+  image("../images/phases.png"),
+  caption: [Rehabilitation Process. (a) Brain Stimulation's Three Main Phases, (b) Four Phases in exergames-based rehabilitation system]
+) <phases>
+#linebreak()
+
 The dimensions used for the scenarios are: 
 
 1. _Granularity_: Because participants reported preference for simpler controls, with the ability to adjust or customize them when needed (see @dimension-granularity), granularity was included as a dimension to explore how fine-grained the settings, parameters, and information available to the therapists should be, and how they negotiate this agency with the system across different phases.
@@ -84,11 +91,6 @@ The dimensions used for the scenarios are:
 4. _Temporality_: Observation showed that the therapist pre-configured the session and consistently adjusted exergames parameters through real-time adjustments of settings and exergame parameters (see @section:phasesoftherapy). Temporality was, thus, included as dimension to explore how it was distributed with the system during rehabilitation process.
 
 The scenarios were all situated through the four main phases of rehabilitation which were validated and defined as standard from relevant research and contextual inquiry (See @section:phasesoftherapy): (1) Assessment & Goal-Setting, (2) Session Planning, (3) Rehabilitation Session, and (4) Post-Session Evaluation. The participant was made aware of the four phases and the construction of them and had validated them before proceeding with the pilot study. During the pilot study, the participant was encouraged to reflect on the seven futuristic scenarios throughout the four phases of rehabilitation (See @phases). Similarly, fine-grained settings and exergame parameters were grouped by type and categorized by phases and then presented to the participant to validate (See Appendix @pilotcontrols).
-
-#figure(
-  image("../images/phases.png"),
-  caption: [Rehabilitation Process. (a) Brain Stimulation's Three Main Phases, (b) Four Phases in exergames-based rehabilitation system]
-) <phases>
 
 Although, the purpose of the study was to initially understand how therapists' agency was affected by the availability of specific fine-grained settings and exergame parameters across different scenarios and across different phases (See Appendix @pilotcontrols and @phases). The pilot study along with the contextual inquiry quickly proved that specific fine-grained parameters and settings is not what affected therapists' sense of agency, rather it was how the dimensions affected their sense of agency and the configuration of agency shared between the therapists and the system. The elaboration from the participants indicated that this was related to how fine-grained settings and exergame parameters could always be added or removed depending on the type of game, patient and therapy required. Additionally, the scenarios presented in the pilot study (see Appendix @pilotstudyscenarios) were not comparable to each other and the questions used to probe them (e.g., "Would you be comfortable/uncomfortable using this in any particular phase? why?" and "What controls would you need in this scenario?" were too open and vague. This resulted in two difficulties, first the participant could not elaborately reflect due to the ambiguousness of the questionnaire, and second the results could not be isolated and attributed to any particular dimension or scenario.
 
@@ -129,7 +131,7 @@ The redesigned final co-design session aimed to understand the sense of agency i
 2. *Scenario 2 (S2 / Recommendation System):* The system performs clinical reasoning and provides recommendations. The therapists have control to accept, reject or adjust the recommendations. The therapists executes the reasoning independently.
 3. *Scenario 3 (S3 / Prompt System):* Therapists reason independently and then prompt the system to execute the decisions. 
 4. *Scenario 4 (S4 / Full System Agency):* The system is fully AI and handles the entire rehabilitation process independently including processing data, reasoning and executing. Therapists are kept on the loop and are informed of the decisions and plans. Therapists, however, have the authority to override any system decision when needed. 
-
+#linebreak()
 #figure(
   table(
     columns: (auto, auto, auto ,auto),
@@ -145,12 +147,15 @@ The redesigned final co-design session aimed to understand the sense of agency i
   caption: [Scenario Matrix], 
 ) <table-scenarios>
 
-Appendix @scenarioimages displays each scenario in more detail. For each scenario that was presented, participants were asked about how it made them feel and how it could affect their role as therapists. The participants were then asked questions formulated from the probe dimensions one after the other (See Appendix @finalcodesignplan). The questions were designed to fit the scenarios while maintaining the dimensionality aspect of it, hence, every scenarios did noy have the exact same questions. An example of this is "_Would the level of details of the recommendations you get in this scenario matter to you? E.g.: Increase the difficulty as it does not seem challenging for the patient vs Increase the speed to 20, distance by 1m and texture of shape to 30 as it does not seem challenging for the patient_" was asked for the Recommendation System (S2), while "_Would the level of detail in which you need to prompt matter to you? E.g.: Increase difficulty of the task vs adjust the color of shapes to brown to make it difficult to see and increase the distance of the target by 1m_" was asked for the Prompt System (S3).
-
 #figure(
   image("../images/codesign.png"),
   caption: [Co-design Session. (a) Primary Dimension Matrix (b) Probe Dimensions (c) Scenario Matrix]
 )<codesign>
+#linebreak()
+
+Appendix @scenarioimages displays each scenario in more detail. For each scenario that was presented, participants were asked about how it made them feel and how it could affect their role as therapists. The participants were then asked questions formulated from the probe dimensions one after the other (See Appendix @finalcodesignplan). The questions were designed to fit the scenarios while maintaining the dimensionality aspect of it, hence, every scenarios did noy have the exact same questions. An example of this is "_Would the level of details of the recommendations you get in this scenario matter to you? E.g.: Increase the difficulty as it does not seem challenging for the patient vs Increase the speed to 20, distance by 1m and texture of shape to 30 as it does not seem challenging for the patient_" was asked for the Recommendation System (S2), while "_Would the level of detail in which you need to prompt matter to you? E.g.: Increase difficulty of the task vs adjust the color of shapes to brown to make it difficult to see and increase the distance of the target by 1m_" was asked for the Prompt System (S3).
+
+
 
 Once all the scenarios were presented and probed, and participants were fully informed of all possible scenarios, the participants were asked to design their ideal rehabilitation system by distributing the scenarios across the four different phases (See @designsystem). In this activity "_Desired System_", the participants were allowed to place multiple scenarios in a phases as well as use multiple instances of the scenarios in multiple phases. This enables the understanding of how participants preferred to distribute different forms of agency configuration across the main phases. Lastly, the participants were asked to reflect on what they considered the future of rehabilitation systems, to speculate on preferred or expected future configurations of agency. 
 
@@ -197,6 +202,7 @@ After all data was gathered, we performed a bottom-up approach through affinity 
 *
 The affinity diagramming was first applied on the entire contextual inquiry, both on the observation and all 5 interviews with the PM, MD/Founder, and three end-user therapists of Brain Stimulation products. The analysis was done through two main phases, (1) each interview was reviewed independently and systematically, (2) insights from all interviews along with the observation were clustered into sub-themes which then created the following main themes: (1) Phases of Rehabilitation, (2) Current System and Technology Benefits & Limitations, and (3) Ideal Digitalized Rehabilitation. However, the affinity diagramming on the co-design sessions was done through three main phases (see @analysis). In the first phase, each co-design workshop was reviewed independently and systematically by the sections (see Appendix @finalcodesignplan) to generate individual insights. In the second phase, insights from all participants were clustered to create sub-themes by each section of the co-design session again. In the last phase, insights from all scenarios (_S1 - S4_) were clustered into bigger sub-themes to find the key factors that therapists reason they value, thus creating the final main themes: (1) Desired Agency in Phases, (2) Conditional Control, (3) The Paradox in Details, (4) Human-Human Interaction, and (5) Digitalized Future Rehabilitation. *A more detailed example of this process, illustrating how individual insights were developed into the final main theme is provided in Appendix @analysis-example, which shows the construction of the second theme, “conditional control". The same process was applied on all datasets when developing the main themes in both the contextual inquiry and the speculative co-design sessions to achieve a systematic and consistent analysis.*
 
+#linebreak()
 #figure(
   image("../images/analysis_contextual.png"),
   caption: [Affinity diagramming process and final themes for contextual inquiry]
@@ -205,6 +211,7 @@ The affinity diagramming was first applied on the entire contextual inquiry, bot
   image("../images/analysis.png"),
   caption: [Affinity diagramming process and final themes for co-design sessions]
 )<analysis>
+#linebreak()
 
 Finally, the design activity "_Desired System_" (See @designsystem) was compared with one question in particular which was repeatedly asked during all scenarios (_"if you could have this scenario in only one of the 4 rehabilitation phases, in which phase would it be the most valuable to have?"_) and then analyzed. The reason for comparing those was to determine if any contradictions would arise between the activity and the question. 
 

@@ -48,7 +48,7 @@
   
   align(center)[
     #set text(font: "Verdana", size: 10pt, weight: "bold")
-    Department of informatics \
+    Department of Informatics \
     #set text(weight: "regular")
     #thesis_type \
     #program_name \
