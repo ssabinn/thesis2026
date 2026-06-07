@@ -46,7 +46,7 @@ When asked about interface, the participants wanted simpler settings and exergam
 Interestingly, when inquired about "who adjusts the settings and exergame parameters" between themselves and the AI-supported system, the participants preferred hybrid agency despite wanting to be in full control. One participant (P1) clearly illustrated this contradiction through conducted research on self-rehabilitation with minimal therapists supervision which was found to be successful, despite therapists advocating for full control and presence. This finding reinforced the need to focus on the _agency in reasoning_ and _agency in execution_ as the primary dimensions (See Pilot Study Adjustment 4). 
 
 == Speculative Co-Design Sessions
-The co-design sessions were conducted one-on-one with 4 occupational therapists and 1 physiotherapist. The sessions resulted in five main themes: (1) Desired System, (2) Conditional Control (3) The Paradox in Details, (4) Human-Human Interaction, and (5) Digitalized Future Rehabilitation.
+The co-design sessions were conducted one-on-one with 4 occupational therapists and 1 physiotherapist. The sessions resulted in five main themes: (1) Desired Agency in Phases, (2) Conditional Control (3) The Paradox in Details, (4) Human-Human Interaction, and (5) Digitalized Future Rehabilitation.
 
 === Desired Agency in Phases
 All participants (P4-P8) were tasked with designing their own system throughout all phases of rehabilitation (see @designsystem) by assigning the scenarios (see @codesign) to each of the four phases: (1) Assessment & Goal-Setting, (2) Session Planning, (3) Rehabilitation Session, and (4) Post-Session Evaluation (see @phases). The scenarios were: (S1) a system with full human agency of the rehabilitation process without system support, (S2) a system that provides recommendations, (S3) a system which requires instructions as inputs by the therapists, and (S4) a system with full automation with therapists-on-the-loop. Each participant was informed to use one or more scenario cards as they see fit for each phase. The participants were also informed that they could use the same scenario card for all phases if they desired. 
@@ -84,7 +84,7 @@ Participants also mentioned that relying too heavily on the system would end up 
 
 #quote(block: true)[“As long as I can adjust if I want to, of course, then it could be a good alternative.” (P5)]
 
-In contrast, three out of the five participants (P4, P6, P8) did not prefer a fully autonomous system (_S4_), even if they were able to override rehabilitation parameters. They associated full automation with a loss of control over the rehabilitation process and expressed concern about how this would affect their role as a therapists and the patient-therapist relationship. However, two participant (P5, P7) were largely positive about the fully autonomous system (S4) as long as they could override, elaborating that their work would be easier this way and would allow them to focus more on patient goals instead. 
+In contrast, three out of the five participants (P4, P6, P8) did not prefer a fully autonomous system (_S4_), even if they were able to override rehabilitation parameters. They associated full automation with a loss of control over the rehabilitation process and expressed concern about how this would affect their role as a therapists and the patient-therapist relationship. However, two participants (P5, P7) were largely positive about the fully autonomous system (S4) as long as they could override, elaborating that their work would be easier this way and would allow them to focus more on patient goals instead. 
 
 #quote(block: true)[“If this was the main therapy, I would have a problem with this. My opinion wouldn’t change even if I could override things”  (P6)]
 
@@ -101,7 +101,7 @@ This trade-off had a clear limit though, as the therapists still prioritized pat
 #quote(block: true)[“No, extra control is not worth the time, unless it gives a better outcome” (P7)]
  
 === The Paradox in Details
-There was an underlying tension on how high the granularity of the information presented by the system or provided to the system should be. Higher degree of detail was simultaneously seen as a route to understand and as a cognitive and temporal burden. Each participant (P4-P8) presented a clear preference for lesser degree of detail and default interface with less information with the option to access additional information when necessary. They wanted combination of presets with manual adjustments to provide effect individualized rehabilitation.
+There was an underlying tension on how high the granularity of the information presented by the system or provided to the system should be. Higher degree of detail was simultaneously seen as a route to understand and as a cognitive and temporal burden. Each participant (P4-P8) presented a clear preference for lesser degree of detail and default interface with less information with the option to access additional information when necessary. They wanted combination of presets with manual adjustments to provide effective individualized rehabilitation.
 
 #quote(block: true)[“It would be nice to have some of the features hidden or taken care of by the computer.” (P4)]
   
@@ -143,7 +143,7 @@ There were however some contextual situations where the participants (P4-P8) cou
 
 The participants were uncertain whether the type of medium for digitalized rehabilitation would affect the workflow in their rehabilitation process, although all participants agreed AI-supported digitalized rehabilitation is the future. One participant (P4) with 25 years of experience as an OT illuminated the change in attitude towards digital rehabilitation: 
 
-#quote(block: true)["As an OT, when I started, it was frowned upon, andnow, everyone is doing computers or tablets. It's a huge part of the activities that we do every day" (P4)]
+#quote(block: true)["As an OT, when I started, it was frowned upon, and now, everyone is doing computers or tablets. It's a huge part of the activities that we do every day" (P4)]
 
 While every participant agreed that rehabilitation is moving towards AI-supported digital systems, the level of digitalization varied from simple digitalized assessments (P5) to fully AI rehabilitation systems (P4, P6). P6 hoped that the access to rehabilitation for people who would otherwise not receive rehabilitation would one of the outcome of more technologically advanced rehabilitation systems. P8, on the other hand, hoped that the rehabilitation system is more helpful than harmful and that we do not lose our patient-centeredness because of it. 
 
