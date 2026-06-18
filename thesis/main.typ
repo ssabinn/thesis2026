@@ -4,10 +4,11 @@
 #show: umu-informatics-master-thesis.with(
   title: "Agency by Design",
   subtitle: "Exploring Human–AI Co-Performance in Exergame Rehabilitation",
-  authors: (
-    (first-name: "Marwah", last-names: "Saleh"),
-    (first-name: "Sabin", last-names: "Bhandari"),
+  authors: ( 
+  (first-name: "Marwah", last-names: "Saleh", ),
+  (first-name: "Sabin", last-names: "Bhandari"),
   ),
+
   abstract: abstract-content,
   keywords: ("Co-performance", "Sense of Agency","Entanglement HCI", "AI-Supported Systems", "Exergames", "Rehabilitation", ),
   thesis_number: "2026.06",

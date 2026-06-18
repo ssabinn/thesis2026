@@ -39,7 +39,7 @@
   
   v(0em)
   
-  let author_string = authors.map(a => [#a.first-name #a.last-names]).join(", ")
+  let author_string = authors.map(a => [#a.first-name #a.last-names]).join(" & ")
 
   align(center)[
     #set text(font: "Georgia",size: 11pt)
