@@ -45,7 +45,7 @@ Across all four main phases, the observed pattern is not a simple increase in au
  
 == Implications for Design <designimplications>
 
-The central implication for design is that AI-supported exergame-based rehabilitation systems should not be designed around a fixed level of automation but around how agency can shift across the different phases of the rehabilitation for therapists' to retain the sense of agency. The design problem is not how much to automate through AI but how to make this agential cut easily configurable by therapists, phase, and under shifting conditions of time, trust, and level of detail. 
+The central implication for design is that AI-supported exergame-based rehabilitation systems should not be designed around a fixed level of automation but around how agency can shift across the different phases of the rehabilitation for therapists to retain the sense of agency. The design problem is not how much to automate through AI but how to make this agential cut easily configurable by therapists, phase, and under shifting conditions of time, trust, and level of detail. 
 
 *_Phase-dependent co-performance_:* The cut should be defined per phase and not defined as a fixed division. Human-led during _Assessment & Goal-Setting_, Shared in _Session Planning_ and _Rehabilitation Session_, and System-Led for analysis in evaluation. This implication is only applicable where the rehabilitation practice is structured and cyclical, and might be less applicable where the phase boundaries are not clear. 
 
