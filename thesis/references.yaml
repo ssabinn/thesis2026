@@ -239,3 +239,15 @@ wiberg2014:
     - E. Stolterman
   date: 2014
   url: "https://dl.acm.org/doi/epdf/10.1145/2639189.2639487"
+
+  @book{Holtzblatt2015,
+  title = {Contextual Design: Evolved},
+  ISBN = {9783031022074},
+  ISSN = {1946-7699},
+  url = {http://dx.doi.org/10.1007/978-3-031-02207-4},
+  DOI = {10.1007/978-3-031-02207-4},
+  journal = {Synthesis Lectures on Human-Centered Informatics},
+  publisher = {Springer International Publishing},
+  author = {Holtzblatt,  Karen and Beyer,  Hugh},
+  year = {2015}
+}

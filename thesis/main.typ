@@ -13,7 +13,7 @@
   keywords: ("Co-performance", "Sense of Agency","Entanglement HCI", "AI-Supported Systems", "Exergames", "Rehabilitation", ),
   thesis_number: "2026.06",
   thesis_type: "Master Thesis, 30 HP",
-  program_name: "Master's Programme in Human Computer Interaction and User Experience",
+  program_name: "Human Computer Interaction and User Experience",
 )
 
 
@@ -58,7 +58,7 @@
 
 
 // === student == //
-
+/*
 #let studentcont(body) = {
   set heading(numbering: none)
   counter(heading).update(0)
@@ -68,5 +68,6 @@
   body
 }
 #show: studentcont
+*/
 
-#include "content/StudentContribution.typ"
+//#include "content/StudentContribution.typ"

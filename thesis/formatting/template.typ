@@ -57,7 +57,18 @@
   )
   
   // ==================== HEADING STYLES ====================
-  set heading(numbering: "1.1")
+  //set heading(numbering: "1.1")
+
+  // set heading(numbering: "1.1")
+  set heading(numbering: (..nums) => {
+    let levels = nums.pos()
+    if levels.len() == 1 {
+      str(levels.first()) + "."
+    } else {
+      levels.map(str).join(".")
+    }
+  })
+  
   let extra = 7   // visual leading to simulate; tune this one number
   let heading_spacing_1 = 5 + extra
   let heading_spacing_2 = 3 + extra
